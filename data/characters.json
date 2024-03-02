@@ -1,0 +1,713 @@
+[
+	{
+		"iconName": "UI_AvatarIcon_Kate",
+		"sideIconName": "UI_AvatarIcon_Side_Kate",
+		"skillDepotId": 101,
+		"nameTextMapHash": 1857915418,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000001
+	},
+	{
+		"iconName": "UI_AvatarIcon_Ayaka",
+		"sideIconName": "UI_AvatarIcon_Side_Ayaka",
+		"skillDepotId": 201,
+		"nameTextMapHash": 1006042610,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000002
+	},
+	{
+		"iconName": "UI_AvatarIcon_Qin",
+		"sideIconName": "UI_AvatarIcon_Side_Qin",
+		"skillDepotId": 301,
+		"nameTextMapHash": 3221566250,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000003
+	},
+	{
+		"iconName": "UI_AvatarIcon_PlayerBoy",
+		"sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
+		"skillDepotId": 501,
+		"nameTextMapHash": 1533656818,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000005
+	},
+	{
+		"iconName": "UI_AvatarIcon_Lisa",
+		"sideIconName": "UI_AvatarIcon_Side_Lisa",
+		"skillDepotId": 601,
+		"nameTextMapHash": 3344622722,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_CATALYST",
+		"id": 10000006
+	},
+	{
+		"iconName": "UI_AvatarIcon_PlayerGirl",
+		"sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
+		"skillDepotId": 701,
+		"nameTextMapHash": 3816664530,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000007
+	},
+	{
+		"iconName": "UI_AvatarIcon_Barbara",
+		"sideIconName": "UI_AvatarIcon_Side_Barbara",
+		"skillDepotId": 1401,
+		"nameTextMapHash": 3775299170,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_CATALYST",
+		"id": 10000014
+	},
+	{
+		"iconName": "UI_AvatarIcon_Kaeya",
+		"sideIconName": "UI_AvatarIcon_Side_Kaeya",
+		"skillDepotId": 1501,
+		"nameTextMapHash": 4119663210,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000015
+	},
+	{
+		"iconName": "UI_AvatarIcon_Diluc",
+		"sideIconName": "UI_AvatarIcon_Side_Diluc",
+		"skillDepotId": 1601,
+		"nameTextMapHash": 3608180322,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_CLAYMORE",
+		"id": 10000016
+	},
+	{
+		"iconName": "UI_AvatarIcon_Razor",
+		"sideIconName": "UI_AvatarIcon_Side_Razor",
+		"skillDepotId": 2001,
+		"nameTextMapHash": 4160147242,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_CLAYMORE",
+		"id": 10000020
+	},
+	{
+		"iconName": "UI_AvatarIcon_Ambor",
+		"sideIconName": "UI_AvatarIcon_Side_Ambor",
+		"skillDepotId": 2101,
+		"nameTextMapHash": 1966438658,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_BOW",
+		"id": 10000021
+	},
+	{
+		"iconName": "UI_AvatarIcon_Venti",
+		"sideIconName": "UI_AvatarIcon_Side_Venti",
+		"skillDepotId": 2201,
+		"nameTextMapHash": 2466140362,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_BOW",
+		"id": 10000022
+	},
+	{
+		"iconName": "UI_AvatarIcon_Xiangling",
+		"sideIconName": "UI_AvatarIcon_Side_Xiangling",
+		"skillDepotId": 2301,
+		"nameTextMapHash": 1130996346,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_POLE",
+		"id": 10000023
+	},
+	{
+		"iconName": "UI_AvatarIcon_Beidou",
+		"sideIconName": "UI_AvatarIcon_Side_Beidou",
+		"skillDepotId": 2401,
+		"nameTextMapHash": 2646367730,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_CLAYMORE",
+		"id": 10000024
+	},
+	{
+		"iconName": "UI_AvatarIcon_Xingqiu",
+		"sideIconName": "UI_AvatarIcon_Side_Xingqiu",
+		"skillDepotId": 2501,
+		"nameTextMapHash": 4197635682,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000025
+	},
+	{
+		"iconName": "UI_AvatarIcon_Xiao",
+		"sideIconName": "UI_AvatarIcon_Side_Xiao",
+		"skillDepotId": 2601,
+		"nameTextMapHash": 1021947690,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_POLE",
+		"id": 10000026
+	},
+	{
+		"iconName": "UI_AvatarIcon_Ningguang",
+		"sideIconName": "UI_AvatarIcon_Side_Ningguang",
+		"skillDepotId": 2701,
+		"nameTextMapHash": 4127888970,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_CATALYST",
+		"id": 10000027
+	},
+	{
+		"iconName": "UI_AvatarIcon_Klee",
+		"sideIconName": "UI_AvatarIcon_Side_Klee",
+		"skillDepotId": 2901,
+		"nameTextMapHash": 3339083250,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_CATALYST",
+		"id": 10000029
+	},
+	{
+		"iconName": "UI_AvatarIcon_Zhongli",
+		"sideIconName": "UI_AvatarIcon_Side_Zhongli",
+		"skillDepotId": 3001,
+		"nameTextMapHash": 3862787418,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_POLE",
+		"id": 10000030
+	},
+	{
+		"iconName": "UI_AvatarIcon_Fischl",
+		"sideIconName": "UI_AvatarIcon_Side_Fischl",
+		"skillDepotId": 3101,
+		"nameTextMapHash": 3277782506,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_BOW",
+		"id": 10000031
+	},
+	{
+		"iconName": "UI_AvatarIcon_Bennett",
+		"sideIconName": "UI_AvatarIcon_Side_Bennett",
+		"skillDepotId": 3201,
+		"nameTextMapHash": 968893378,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000032
+	},
+	{
+		"iconName": "UI_AvatarIcon_Tartaglia",
+		"sideIconName": "UI_AvatarIcon_Side_Tartaglia",
+		"skillDepotId": 3301,
+		"nameTextMapHash": 3847143266,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_BOW",
+		"id": 10000033
+	},
+	{
+		"iconName": "UI_AvatarIcon_Noel",
+		"sideIconName": "UI_AvatarIcon_Side_Noel",
+		"skillDepotId": 3401,
+		"nameTextMapHash": 1921418842,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_CLAYMORE",
+		"id": 10000034
+	},
+	{
+		"iconName": "UI_AvatarIcon_Qiqi",
+		"sideIconName": "UI_AvatarIcon_Side_Qiqi",
+		"skillDepotId": 3501,
+		"nameTextMapHash": 168956722,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000035
+	},
+	{
+		"iconName": "UI_AvatarIcon_Chongyun",
+		"sideIconName": "UI_AvatarIcon_Side_Chongyun",
+		"skillDepotId": 3601,
+		"nameTextMapHash": 2876340530,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_CLAYMORE",
+		"id": 10000036
+	},
+	{
+		"iconName": "UI_AvatarIcon_Ganyu",
+		"sideIconName": "UI_AvatarIcon_Side_Ganyu",
+		"skillDepotId": 3701,
+		"nameTextMapHash": 2679781122,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_BOW",
+		"id": 10000037
+	},
+	{
+		"iconName": "UI_AvatarIcon_Albedo",
+		"sideIconName": "UI_AvatarIcon_Side_Albedo",
+		"skillDepotId": 3801,
+		"nameTextMapHash": 4108620722,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000038
+	},
+	{
+		"iconName": "UI_AvatarIcon_Diona",
+		"sideIconName": "UI_AvatarIcon_Side_Diona",
+		"skillDepotId": 3901,
+		"nameTextMapHash": 1468367538,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_BOW",
+		"id": 10000039
+	},
+	{
+		"iconName": "UI_AvatarIcon_Mona",
+		"sideIconName": "UI_AvatarIcon_Side_Mona",
+		"skillDepotId": 4101,
+		"nameTextMapHash": 1113306282,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_CATALYST",
+		"id": 10000041
+	},
+	{
+		"iconName": "UI_AvatarIcon_Keqing",
+		"sideIconName": "UI_AvatarIcon_Side_Keqing",
+		"skillDepotId": 4201,
+		"nameTextMapHash": 1864015138,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000042
+	},
+	{
+		"iconName": "UI_AvatarIcon_Sucrose",
+		"sideIconName": "UI_AvatarIcon_Side_Sucrose",
+		"skillDepotId": 4301,
+		"nameTextMapHash": 1053433018,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_CATALYST",
+		"id": 10000043
+	},
+	{
+		"iconName": "UI_AvatarIcon_Xinyan",
+		"sideIconName": "UI_AvatarIcon_Side_Xinyan",
+		"skillDepotId": 4401,
+		"nameTextMapHash": 4273845410,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_CLAYMORE",
+		"id": 10000044
+	},
+	{
+		"iconName": "UI_AvatarIcon_Rosaria",
+		"sideIconName": "UI_AvatarIcon_Side_Rosaria",
+		"skillDepotId": 4501,
+		"nameTextMapHash": 4260733330,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_POLE",
+		"id": 10000045
+	},
+	{
+		"iconName": "UI_AvatarIcon_Hutao",
+		"sideIconName": "UI_AvatarIcon_Side_Hutao",
+		"skillDepotId": 4601,
+		"nameTextMapHash": 1940919994,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_POLE",
+		"id": 10000046
+	},
+	{
+		"iconName": "UI_AvatarIcon_Kazuha",
+		"sideIconName": "UI_AvatarIcon_Side_Kazuha",
+		"skillDepotId": 4701,
+		"nameTextMapHash": 88505754,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000047
+	},
+	{
+		"iconName": "UI_AvatarIcon_Feiyan",
+		"sideIconName": "UI_AvatarIcon_Side_Feiyan",
+		"skillDepotId": 4801,
+		"nameTextMapHash": 697277554,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_CATALYST",
+		"id": 10000048
+	},
+	{
+		"iconName": "UI_AvatarIcon_Yoimiya",
+		"sideIconName": "UI_AvatarIcon_Side_Yoimiya",
+		"skillDepotId": 4901,
+		"nameTextMapHash": 2504399314,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_BOW",
+		"id": 10000049
+	},
+	{
+		"iconName": "UI_AvatarIcon_Tohma",
+		"sideIconName": "UI_AvatarIcon_Side_Tohma",
+		"skillDepotId": 5001,
+		"nameTextMapHash": 3555115602,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_POLE",
+		"id": 10000050
+	},
+	{
+		"iconName": "UI_AvatarIcon_Eula",
+		"sideIconName": "UI_AvatarIcon_Side_Eula",
+		"skillDepotId": 5101,
+		"nameTextMapHash": 3717667418,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_CLAYMORE",
+		"id": 10000051
+	},
+	{
+		"iconName": "UI_AvatarIcon_Shougun",
+		"sideIconName": "UI_AvatarIcon_Side_Shougun",
+		"skillDepotId": 5201,
+		"nameTextMapHash": 3024507506,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_POLE",
+		"id": 10000052
+	},
+	{
+		"iconName": "UI_AvatarIcon_Sayu",
+		"sideIconName": "UI_AvatarIcon_Side_Sayu",
+		"skillDepotId": 5301,
+		"nameTextMapHash": 2388785242,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_CLAYMORE",
+		"id": 10000053
+	},
+	{
+		"iconName": "UI_AvatarIcon_Kokomi",
+		"sideIconName": "UI_AvatarIcon_Side_Kokomi",
+		"skillDepotId": 5401,
+		"nameTextMapHash": 3914045794,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_CATALYST",
+		"id": 10000054
+	},
+	{
+		"iconName": "UI_AvatarIcon_Gorou",
+		"sideIconName": "UI_AvatarIcon_Side_Gorou",
+		"skillDepotId": 5501,
+		"nameTextMapHash": 3400133546,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_BOW",
+		"id": 10000055
+	},
+	{
+		"iconName": "UI_AvatarIcon_Sara",
+		"sideIconName": "UI_AvatarIcon_Side_Sara",
+		"skillDepotId": 5601,
+		"nameTextMapHash": 1483922610,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_BOW",
+		"id": 10000056
+	},
+	{
+		"iconName": "UI_AvatarIcon_Itto",
+		"sideIconName": "UI_AvatarIcon_Side_Itto",
+		"skillDepotId": 5701,
+		"nameTextMapHash": 3068316954,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_CLAYMORE",
+		"id": 10000057
+	},
+	{
+		"iconName": "UI_AvatarIcon_Yae",
+		"sideIconName": "UI_AvatarIcon_Side_Yae",
+		"skillDepotId": 5801,
+		"nameTextMapHash": 2713453234,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_CATALYST",
+		"id": 10000058
+	},
+	{
+		"iconName": "UI_AvatarIcon_Heizo",
+		"sideIconName": "UI_AvatarIcon_Side_Heizo",
+		"skillDepotId": 5901,
+		"nameTextMapHash": 646032090,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_CATALYST",
+		"id": 10000059
+	},
+	{
+		"iconName": "UI_AvatarIcon_Yelan",
+		"sideIconName": "UI_AvatarIcon_Side_Yelan",
+		"skillDepotId": 6001,
+		"nameTextMapHash": 2848374378,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_BOW",
+		"id": 10000060
+	},
+	{
+		"iconName": "UI_AvatarIcon_Momoka",
+		"sideIconName": "UI_AvatarIcon_Side_Momoka",
+		"skillDepotId": 6101,
+		"nameTextMapHash": 1456643042,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000061
+	},
+	{
+		"iconName": "UI_AvatarIcon_Aloy",
+		"sideIconName": "UI_AvatarIcon_Side_Aloy",
+		"skillDepotId": 6201,
+		"nameTextMapHash": 3689108098,
+		"qualityType": "QUALITY_ORANGE_SP",
+		"weaponType": "WEAPON_BOW",
+		"id": 10000062
+	},
+	{
+		"iconName": "UI_AvatarIcon_Shenhe",
+		"sideIconName": "UI_AvatarIcon_Side_Shenhe",
+		"skillDepotId": 6301,
+		"nameTextMapHash": 334242634,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_POLE",
+		"id": 10000063
+	},
+	{
+		"iconName": "UI_AvatarIcon_Yunjin",
+		"sideIconName": "UI_AvatarIcon_Side_Yunjin",
+		"skillDepotId": 6401,
+		"nameTextMapHash": 655825874,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_POLE",
+		"id": 10000064
+	},
+	{
+		"iconName": "UI_AvatarIcon_Shinobu",
+		"sideIconName": "UI_AvatarIcon_Side_Shinobu",
+		"skillDepotId": 6501,
+		"nameTextMapHash": 1940821986,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000065
+	},
+	{
+		"iconName": "UI_AvatarIcon_Ayato",
+		"sideIconName": "UI_AvatarIcon_Side_Ayato",
+		"skillDepotId": 6601,
+		"nameTextMapHash": 1588620330,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000066
+	},
+	{
+		"iconName": "UI_AvatarIcon_Collei",
+		"sideIconName": "UI_AvatarIcon_Side_Collei",
+		"skillDepotId": 6701,
+		"nameTextMapHash": 2948362178,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_BOW",
+		"id": 10000067
+	},
+	{
+		"iconName": "UI_AvatarIcon_Dori",
+		"sideIconName": "UI_AvatarIcon_Side_Dori",
+		"skillDepotId": 6801,
+		"nameTextMapHash": 388272194,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_CLAYMORE",
+		"id": 10000068
+	},
+	{
+		"iconName": "UI_AvatarIcon_Tighnari",
+		"sideIconName": "UI_AvatarIcon_Side_Tighnari",
+		"skillDepotId": 6901,
+		"nameTextMapHash": 2506955778,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_BOW",
+		"id": 10000069
+	},
+	{
+		"iconName": "UI_AvatarIcon_Nilou",
+		"sideIconName": "UI_AvatarIcon_Side_Nilou",
+		"skillDepotId": 7001,
+		"nameTextMapHash": 3850149970,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000070
+	},
+	{
+		"iconName": "UI_AvatarIcon_Cyno",
+		"sideIconName": "UI_AvatarIcon_Side_Cyno",
+		"skillDepotId": 7101,
+		"nameTextMapHash": 1049891906,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_POLE",
+		"id": 10000071
+	},
+	{
+		"iconName": "UI_AvatarIcon_Candace",
+		"sideIconName": "UI_AvatarIcon_Side_Candace",
+		"skillDepotId": 7201,
+		"nameTextMapHash": 3092975658,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_POLE",
+		"id": 10000072
+	},
+	{
+		"iconName": "UI_AvatarIcon_Nahida",
+		"sideIconName": "UI_AvatarIcon_Side_Nahida",
+		"skillDepotId": 7301,
+		"nameTextMapHash": 712501082,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_CATALYST",
+		"id": 10000073
+	},
+	{
+		"iconName": "UI_AvatarIcon_Layla",
+		"sideIconName": "UI_AvatarIcon_Side_Layla",
+		"skillDepotId": 7401,
+		"nameTextMapHash": 2889777514,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000074
+	},
+	{
+		"iconName": "UI_AvatarIcon_Wanderer",
+		"sideIconName": "UI_AvatarIcon_Side_Wanderer",
+		"skillDepotId": 7501,
+		"nameTextMapHash": 3230559562,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_CATALYST",
+		"id": 10000075
+	},
+	{
+		"iconName": "UI_AvatarIcon_Faruzan",
+		"sideIconName": "UI_AvatarIcon_Side_Faruzan",
+		"skillDepotId": 7601,
+		"nameTextMapHash": 2387711994,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_BOW",
+		"id": 10000076
+	},
+	{
+		"iconName": "UI_AvatarIcon_Yaoyao",
+		"sideIconName": "UI_AvatarIcon_Side_Yaoyao",
+		"skillDepotId": 7701,
+		"nameTextMapHash": 1732418482,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_POLE",
+		"id": 10000077
+	},
+	{
+		"iconName": "UI_AvatarIcon_Alhatham",
+		"sideIconName": "UI_AvatarIcon_Side_Alhatham",
+		"skillDepotId": 7801,
+		"nameTextMapHash": 4002157418,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000078
+	},
+	{
+		"iconName": "UI_AvatarIcon_Dehya",
+		"sideIconName": "UI_AvatarIcon_Side_Dehya",
+		"skillDepotId": 7901,
+		"nameTextMapHash": 2360533154,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_CLAYMORE",
+		"id": 10000079
+	},
+	{
+		"iconName": "UI_AvatarIcon_Mika",
+		"sideIconName": "UI_AvatarIcon_Side_Mika",
+		"skillDepotId": 8001,
+		"nameTextMapHash": 231911858,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_POLE",
+		"id": 10000080
+	},
+	{
+		"iconName": "UI_AvatarIcon_Kaveh",
+		"sideIconName": "UI_AvatarIcon_Side_Kaveh",
+		"skillDepotId": 8101,
+		"nameTextMapHash": 466355514,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_CLAYMORE",
+		"id": 10000081
+	},
+	{
+		"iconName": "UI_AvatarIcon_Baizhuer",
+		"sideIconName": "UI_AvatarIcon_Side_Baizhuer",
+		"skillDepotId": 8201,
+		"nameTextMapHash": 2984815066,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_CATALYST",
+		"id": 10000082
+	},
+	{
+		"iconName": "UI_AvatarIcon_Linette",
+		"sideIconName": "UI_AvatarIcon_Side_Linette",
+		"skillDepotId": 8301,
+		"nameTextMapHash": 1225226258,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000083
+	},
+	{
+		"iconName": "UI_AvatarIcon_Liney",
+		"sideIconName": "UI_AvatarIcon_Side_Liney",
+		"skillDepotId": 8401,
+		"nameTextMapHash": 2472444970,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_BOW",
+		"id": 10000084
+	},
+	{
+		"iconName": "UI_AvatarIcon_Freminet",
+		"sideIconName": "UI_AvatarIcon_Side_Freminet",
+		"skillDepotId": 8501,
+		"nameTextMapHash": 4201964354,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_CLAYMORE",
+		"id": 10000085
+	},
+	{
+		"iconName": "UI_AvatarIcon_Wriothesley",
+		"sideIconName": "UI_AvatarIcon_Side_Wriothesley",
+		"skillDepotId": 8601,
+		"nameTextMapHash": 370151050,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_CATALYST",
+		"id": 10000086
+	},
+	{
+		"iconName": "UI_AvatarIcon_Neuvillette",
+		"sideIconName": "UI_AvatarIcon_Side_Neuvillette",
+		"skillDepotId": 8701,
+		"nameTextMapHash": 1504902330,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_CATALYST",
+		"id": 10000087
+	},
+	{
+		"iconName": "UI_AvatarIcon_Charlotte",
+		"sideIconName": "UI_AvatarIcon_Side_Charlotte",
+		"skillDepotId": 8801,
+		"nameTextMapHash": 3831162130,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_CATALYST",
+		"id": 10000088
+	},
+	{
+		"iconName": "UI_AvatarIcon_Furina",
+		"sideIconName": "UI_AvatarIcon_Side_Furina",
+		"skillDepotId": 8901,
+		"nameTextMapHash": 2180900234,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_SWORD_ONE_HAND",
+		"id": 10000089
+	},
+	{
+		"iconName": "UI_AvatarIcon_Chevreuse",
+		"sideIconName": "UI_AvatarIcon_Side_Chevreuse",
+		"skillDepotId": 9001,
+		"nameTextMapHash": 540313842,
+		"qualityType": "QUALITY_PURPLE",
+		"weaponType": "WEAPON_POLE",
+		"id": 10000090
+	},
+	{
+		"iconName": "UI_AvatarIcon_Navia",
+		"sideIconName": "UI_AvatarIcon_Side_Navia",
+		"skillDepotId": 9101,
+		"nameTextMapHash": 2877588578,
+		"qualityType": "QUALITY_ORANGE",
+		"weaponType": "WEAPON_CLAYMORE",
+		"id": 10000091
+	}
+]

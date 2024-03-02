@@ -1,0 +1,61 @@
+{
+    "burst": {
+        "cutting": 1.91,
+        "bloom": 2.86
+    },
+
+    "charged": {
+        "dmg": 1.013
+    },
+
+    "normal": [
+        0.84,
+        0.894,
+        1.15,
+        0.416,
+        1.436
+    ],
+
+    "plunging": {
+        "dmg": 1.17,
+        "low": 2.35,
+        "high": 2.93
+    },
+
+    "skill": {
+        "dmg": 4.07
+    },
+
+    "stats": {
+        "Freeze: C0R1 Mistsplitter Reforged": {
+            "BASE_ATTACK": 1016,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+
+            "CRITICAL": 0.2,
+            "CRITICAL_HURT": 1.325,
+            "ICE_ADD_HURT": 0.58,
+
+            "BURST_FLAT_DMG": 0,
+            "NORMAL_PERCENT": 0.3,
+            "CHARGE_PERCENT": 0.3
+        },
+
+        "Freeze: C0R5 Amenoma Kageuchi": {
+            "BASE_ATTACK": 796,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0.551,
+
+            "CRITICAL": 0.2,
+            "CRITICAL_HURT": 0.884,
+            "ICE_ADD_HURT": 0.18,
+
+            "BURST_FLAT_DMG": 0,
+            "NORMAL_PERCENT": 0.3,
+            "CHARGE_PERCENT": 0.3
+        },
+
+        "dmgType": "ICE",
+        "avatarId": "10000002"
+    }
+}

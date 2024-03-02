@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Support: C6R5 Favonius Lance",
+    "filter": true,
+    "eval": "if (set4p('15007')) dpr += 2.82664 * (323 + 608) * .2; add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "sets": {
+      "no": true,
+      "husk": 4
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "dmgInc"
+        ],
+        "hitMode": "buff",
+        "bonusStats": {}
+      },
+      {
+        "weight": 10000,
+        "path": [
+          "stats",
+          "CHARGE_EFFICIENCY"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ],
+    "description": ""
+  }
+]

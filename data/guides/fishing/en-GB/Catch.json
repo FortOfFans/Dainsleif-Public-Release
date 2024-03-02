@@ -1,0 +1,27 @@
+[
+  {
+    "title": "The Catch Fish exchange requirements",
+    "description": "[Best fishing Location for \"The Catch\"!](https://youtu.be/YqZx6svh2SY)",
+    "thumbnail": {
+      "url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_EquipIcon_Pole_Mori.png"
+    },
+    "footer": {
+      "text": "Fishing Material Breakdown."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Extras/Map_Fishing_Catch.jpg"
+    },
+    "fields": [
+      {
+        "name": "1x Polearm \"The Catch\"",
+        "value": "6 - <:UI_ItemIcon_131017:998816757634580540> Raimei Angelfish\n20 - <:UI_ItemIcon_131011:998816746649698395> Golden Koi\n20 - <:UI_ItemIcon_131012:998816748436471948> Rusty Koi",
+        "inline": true
+      },
+      {
+        "name": "4x Ako's Sake Vessel",
+        "value": "3 - <:UI_ItemIcon_131017:998816757634580540> Raimei Angelfish\n10 - <:UI_ItemIcon_131019:998816761157787669> Pufferfish\n10 - <:UI_ItemIcon_131020:998816764739731536> Bitter Pufferfish",
+        "inline": true
+      }
+    ]
+  }
+]

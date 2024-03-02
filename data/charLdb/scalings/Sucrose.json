@@ -1,0 +1,15 @@
+{
+    "stats": {
+        "Swirl: C6R1 A Thousand Floating Dreams": {
+            "ELEMENT_MASTERY": 265
+        },
+
+        "Support: C6R1 A Thousand Floating Dreams": {
+            "ELEMENT_MASTERY": 265,
+            "CHARGE_EFFICIENCY": 0
+        },
+
+        "dmgType": "WIND",
+        "avatarId": "10000043"
+    }
+}

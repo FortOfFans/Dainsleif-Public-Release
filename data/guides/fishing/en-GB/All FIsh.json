@@ -1,0 +1,12 @@
+[
+  {
+    "title": "All available Fish in Teyvat.",
+    "description": "<:UI_ItemIcon_131000:998816729138475038> Medaka\n<:UI_ItemIcon_131001:998816730988163142> Glaze Medaka\n<:UI_ItemIcon_131002:998816733114671144> Sweet-Flower Medaka\n<:UI_ItemIcon_131003:998816734633021441> Aizen Medaka\n<:UI_ItemIcon_131004:998816737137008640> Dawncatcher\n<:UI_ItemIcon_131005:998816738898616371> Crystalfish\n<:UI_ItemIcon_131006:998816740073013288> Lunged Stickleback\n<:UI_ItemIcon_131007:998816741100621886> Betta\n<:UI_ItemIcon_131008:998816742606377011> Venomspine Fish\n<:UI_ItemIcon_131009:998816744036634724> Akai Maou\n<:UI_ItemIcon_131010:998816745450119188> Snowstrider\n<:UI_ItemIcon_131011:998816746649698395> Golden Koi\n<:UI_ItemIcon_131012:998816748436471948> Rusty Koi\n<:UI_ItemIcon_131013:998816750516842567> Brown Shirakodai\n<:UI_ItemIcon_131014:998816752064536606> Purple Shirakodai\n<:UI_ItemIcon_131015:998816753809367060> Tea-Colored Shirakodai\n<:UI_ItemIcon_131016:998816755646476379> Abiding Angelfish\n<:UI_ItemIcon_131017:998816757634580540> Raimei Angelfish\n<:UI_ItemIcon_131018:998816759777873981> Moonfin\n<:UI_ItemIcon_131019:998816761157787669> Pufferfish\n<:UI_ItemIcon_131020:998816764739731536> Bitter Pufferfish\n<:UI_ItemIcon_131023:998816993388003470> True Fruit Angler\n<:UI_ItemIcon_131024:998816995506139186> Peach of the Deep Waves\n<:UI_ItemIcon_131025:998816997011882075> Sandstorm Angler\n<:UI_ItemIcon_131026:998816998706380801> Sunset Cloud Angler\n<:UI_ItemIcon_131027:998817000442822757> Lazurite Axe Marlin\n<:UI_ItemIcon_131028:998817002493849682> Halcyon Jade Axe Marlin\n<:UI_ItemIcon_131021:998824414265233498> Divda Ray\n<:UI_ItemIcon_131022:998824415850672198> Formalo Ray",
+    "thumbnail": {
+      "url": "https://res.cloudinary.com/genshin/image/upload/v1/sprites/UI_AchievementIcon_A009.png"
+    },
+    "footer": {
+      "text": "Fishing Material Breakdown."
+    }
+  }
+]

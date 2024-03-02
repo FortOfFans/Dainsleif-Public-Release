@@ -1,0 +1,50 @@
+[
+  {
+    "author": {
+      "name": "Anemoculus Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_107001.png"
+    },
+    "footer": {
+      "text": "Regional Oculus Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Oculus/Anemoculus/Map_Anemoculus_1.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Anemoculus Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_107001.png"
+    },
+    "footer": {
+      "text": "Regional Oculus Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Oculus/Anemoculus/Map_Anemoculus_2.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Anemoculus Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_107001.png"
+    },
+    "footer": {
+      "text": "Regional Oculus Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Oculus/Anemoculus/Map_Anemoculus_3.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Anemoculus Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_107001.png"
+    },
+    "footer": {
+      "text": "Regional Oculus Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Oculus/Anemoculus/Map_Anemoculus_4.jpg"
+    }
+  }
+]

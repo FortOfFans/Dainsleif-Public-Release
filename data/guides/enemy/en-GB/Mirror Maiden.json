@@ -1,0 +1,130 @@
+[
+	{
+		"author": {
+			"name": "Mirror Maiden Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Fatuus_Maiden_Water.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Maiden/Map_Maiden_1.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112050:989399527226236960> Dismal Prism",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112051:989399528782311424> Crystal Prism",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112052:989399530069962782> Polarizing Prism",
+				"inline": true
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Mirror Maiden Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Fatuus_Maiden_Water.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Maiden/Map_Maiden_2.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112050:989399527226236960> Dismal Prism",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112051:989399528782311424> Crystal Prism",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112052:989399530069962782> Polarizing Prism",
+				"inline": true
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Mirror Maiden Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Fatuus_Maiden_Water.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Maiden/Map_Maiden_3.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112050:989399527226236960> Dismal Prism",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112051:989399528782311424> Crystal Prism",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112052:989399530069962782> Polarizing Prism",
+				"inline": true
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Mirror Maiden Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Fatuus_Maiden_Water.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Maiden/Map_Maiden_4.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112050:989399527226236960> Dismal Prism",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112051:989399528782311424> Crystal Prism",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112052:989399530069962782> Polarizing Prism",
+				"inline": true
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Mirror Maiden Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Fatuus_Maiden_Water.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Maiden/Map_Maiden_5.jpg"
+		}
+	}
+]

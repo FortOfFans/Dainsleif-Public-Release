@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Hyperbloom: C0R1 Dragon's Bane",
+    "filter": true,
+    "sets": {
+      "gd": [0, 3],
+      "fopl": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "reaction",
+          "hyperbloom"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Possible Character usage:",
+    "footer": {
+      "text": "Weapon Usage Recommendation"
+    },
+    "fields": [
+      {
+        "name": "Recommended",
+        "value": "Yelan (Low ER requirements)\nYoimiya",
+        "inline": true
+      },
+      {
+        "name": "Cope",
+        "value": "The rest",
+        "inline": true
+      }
+    ]
+  }
+]

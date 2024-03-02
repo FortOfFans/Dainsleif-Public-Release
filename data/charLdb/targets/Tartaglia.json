@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Healer: C0R5 Recurve Bow",
+    "filter": true,
+    "sets": {
+      "mb": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "kill"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "International: C0R1 Polar Star",
+    "filter": true,
+    "sets": {
+      "hod": true,
+      "sr": true,
+      "gd": [1, 2]
+    },
+    "buffs": {
+      "ATTACK": 1070.52,
+      "ATTACK_PERCENT": 0.25,
+      "ELEMENT_MASTERY": 120,
+      "WATER_ADD_HURT": 0.32
+    },
+    "targets": [{"weight":1,"path":["burst","rangedDmg"],"hitMode":"avgHit","reaction":"vaporize","bonusStats":{}},{"weight":1,"path":["skill","stanceDmg"],"hitMode":"avgHit","reaction":"vaporize","bonusStats":{}},{"weight":6,"path":["skill","normal1"],"hitMode":"avgHit","bonusStats":{}},{"weight":6,"path":["skill","riptideSlash"],"hitMode":"avgHit","bonusStats":{}},{"weight":6,"path":["skill","charged1"],"hitMode":"avgHit","bonusStats":{}},{"weight":6,"path":["skill","charged2"],"hitMode":"avgHit","bonusStats":{}}]
+  },
+  {
+    "name": "International: C0R1 Skyward Harp",
+    "filter": true,
+    "sets": {
+      "hod": true,
+      "sr": true,
+      "gd": [1, 2]
+    },
+    "buffs": {
+      "ATTACK": 1070.52,
+      "ATTACK_PERCENT": 0.25,
+      "ELEMENT_MASTERY": 120,
+      "WATER_ADD_HURT": 0.32
+    },
+    "targets": [{"weight":2,"path":["weapon:SkywardHarp","dmg"],"hitMode":"avgHit","bonusStats":{}},{"weight":1,"path":["burst","rangedDmg"],"hitMode":"avgHit","reaction":"vaporize","bonusStats":{}},{"weight":1,"path":["skill","stanceDmg"],"hitMode":"avgHit","reaction":"vaporize","bonusStats":{}},{"weight":6,"path":["skill","normal1"],"hitMode":"avgHit","bonusStats":{}},{"weight":6,"path":["skill","riptideSlash"],"hitMode":"avgHit","bonusStats":{}},{"weight":6,"path":["skill","charged1"],"hitMode":"avgHit","bonusStats":{}},{"weight":6,"path":["skill","charged2"],"hitMode":"avgHit","bonusStats":{}}]
+  }
+]

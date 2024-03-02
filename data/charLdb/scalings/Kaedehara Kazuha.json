@@ -1,0 +1,20 @@
+{
+    "stats": {
+        "Swirl: C0R1 Freedom-Sworn": {
+            "ELEMENT_MASTERY": 313
+        },
+
+        "Support: C0R1 Favonius Sword": {
+            "ELEMENT_MASTERY": 115,
+            "CHARGE_EFFICIENCY": 0.613
+        },
+
+        "Support: C0R1 Freedom-Sworn": {
+            "ELEMENT_MASTERY": 313,
+            "CHARGE_EFFICIENCY": 0
+        },
+
+        "dmgType": "WIND",
+        "avatarId": "10000047"
+    }
+}

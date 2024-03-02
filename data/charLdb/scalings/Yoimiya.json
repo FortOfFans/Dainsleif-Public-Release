@@ -1,0 +1,64 @@
+{
+    "burst": {
+        "dmg": 2.16,
+        "exp": 2.07
+    },
+    "charged": {
+        "full": 2.11,
+        "kindling": 0.28
+    },
+    "normal": [
+        0.951212,
+        1.8262,
+        2.37406,
+        1.240228,
+        2.82664
+    ],
+    "stats": {
+        "Vape (Bennett): C0R1 Thundering Pulse": {
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0.2,
+            "BASE_ATTACK": 931,
+            "BURST_PERCENT": 0,
+            "CRITICAL": 0.242,
+            "CRITICAL_HURT": 1.162,
+            "ELEMENT_MASTERY": 0,
+            "FIRE_ADD_HURT": 0.1,
+            "NORMAL_FLAT_DMG": 0,
+            "NORMAL_PERCENT": 0.4,
+            "REACT_BONUS": 0,
+            "RES_SHRED": 0
+        },
+
+        "Vape (Yun Jin): C0R1 Thundering Pulse": {
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0.2,
+            "BASE_ATTACK": 931,
+            "CRITICAL": 0.242,
+            "CRITICAL_HURT": 1.162,
+            "ELEMENT_MASTERY": 0,
+            "FIRE_ADD_HURT": 0.1,
+            "NORMAL_FLAT_DMG": 0,
+            "NORMAL_PERCENT": 0.4,
+            "REACT_BONUS": 0,
+            "RES_SHRED": 0
+        },
+
+        "Monopyro: C0R1 Thundering Pulse": {
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0.2,
+            "BASE_ATTACK": 931,
+            "CRITICAL": 0.242,
+            "CRITICAL_HURT": 1.162,
+            "ELEMENT_MASTERY": 0,
+            "FIRE_ADD_HURT": 0.1,
+            "NORMAL_FLAT_DMG": 0,
+            "NORMAL_PERCENT": 0.4,
+            "REACT_BONUS": 0,
+            "RES_SHRED": 0
+        },
+
+        "dmgType": "FIRE",
+        "avatarId": "10000049"
+    }
+}

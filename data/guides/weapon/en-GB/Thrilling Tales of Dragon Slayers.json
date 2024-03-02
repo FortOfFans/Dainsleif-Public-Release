@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Possible Character usage:",
+    "footer": {
+      "text": "Weapon Usage Recommendation"
+    },
+    "fields": [
+      {
+        "name": "Recommended - Assuming R5",
+        "value": "Barbara\nLisa (Support)\nMona (Support)\nSangonomiya Kokokmi\nShikanoin Heizou (Swirl)\nYanfei (Overload)",
+        "inline": true
+      },
+      {
+        "name": "Cope",
+        "value": "Klee\nLisa (DPS)\nMona (DPS)\nNingguang\nShikanoin Heizou (ADC)\nYae Miko\nYanfei (ADC)",
+        "inline": true
+      }
+    ]
+  }
+]

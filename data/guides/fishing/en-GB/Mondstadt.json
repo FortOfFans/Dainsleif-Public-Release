@@ -1,0 +1,177 @@
+[
+  {
+    "description": "Stormbearer Point's Fishing Spot",
+    "author": {
+      "name": "Mondstadt's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200901.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Mondstadt/Map_Fishing_Stormbearer.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131000:998816729138475038> Medaka\n<:UI_ItemIcon_131003:998816734633021441> Aizen Medaka\n<:UI_ItemIcon_131004:998816737137008640> Dawncatcher\n<:UI_ItemIcon_131005:998816738898616371> Crystalfish",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131008:998816742606377011> Venomspine Fish\n<:UI_ItemIcon_131015:998816753809367060> Tea-Colored Shirakodai\n<:UI_ItemIcon_131011:998816746649698395> Golden Koi",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "Starfell Valley's Fishing Spot",
+    "author": {
+      "name": "Mondstadt's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200901.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Mondstadt/Map_Fishing_Starfell.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131003:998816734633021441> Aizen Medaka\n<:UI_ItemIcon_131005:998816738898616371> Crystalfish\n<:UI_ItemIcon_131008:998816742606377011> Venomspine Fish",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131015:998816753809367060> Tea-Colored Shirakodai\n<:UI_ItemIcon_131012:998816748436471948> Rusty Koi",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "Springvale's Fishing Spot",
+    "author": {
+      "name": "Mondstadt's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200901.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Mondstadt/Map_Fishing_Springvale.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131000:998816729138475038> Medaka\n<:UI_ItemIcon_131003:998816734633021441> Aizen Medaka\n<:UI_ItemIcon_131008:998816742606377011> Venomspine Fish\n<:UI_ItemIcon_131009:998816744036634724> Akai Maou",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131015:998816753809367060> Tea-Colored Shirakodai\n<:UI_ItemIcon_131019:998816761157787669> Pufferfish\n<:UI_ItemIcon_131020:998816764739731536> Bitter Pufferfish",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "Windrise's Fishing Spot",
+    "author": {
+      "name": "Mondstadt's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200901.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Mondstadt/Map_Fishing_Windrise.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131003:998816734633021441> Aizen Medaka\n<:UI_ItemIcon_131005:998816738898616371> Crystalfish",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131008:998816742606377011> Venomspine Fish\n<:UI_ItemIcon_131015:998816753809367060> Tea-Colored Shirakodai",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "Dawn Winery's Fishing Spot",
+    "author": {
+      "name": "Mondstadt's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200901.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Mondstadt/Map_Fishing_Winery.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131003:998816734633021441> Aizen Medaka\n<:UI_ItemIcon_131004:998816737137008640> Dawncatcher\n<:UI_ItemIcon_131008:998816742606377011> Venomspine Fish\n<:UI_ItemIcon_131009:998816744036634724> Akai Maou",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131015:998816753809367060> Tea-Colored Shirakodai\n<:UI_ItemIcon_131019:998816761157787669> Pufferfish\n<:UI_ItemIcon_131020:998816764739731536> Bitter Pufferfish",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "Stormterror's Lair's Fishing Spot 1",
+    "author": {
+      "name": "Mondstadt's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200901.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Mondstadt/Map_Fishing_Lair1.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131003:998816734633021441> Aizen Medaka\n<:UI_ItemIcon_131005:998816738898616371> Crystalfish",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131004:998816737137008640> Dawncatcher\n<:UI_ItemIcon_131015:998816753809367060> Tea-Colored Shirakodai",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "Stormterror's Lair's Fishing Spot 2",
+    "author": {
+      "name": "Mondstadt's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200901.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Mondstadt/Map_Fishing_Lair2.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131000:998816729138475038> Medaka\n<:UI_ItemIcon_131003:998816734633021441> Aizen Medaka",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131004:998816737137008640> Dawncatcher\n<:UI_ItemIcon_131005:998816738898616371> Crystalfish",
+        "inline": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Aggravate (Keqing): C6R1 Polar Star",
+    "filter": true,
+    "buffs": {
+      "ELEC_ADD_HURT": 0.32
+    },
+    "sets": {
+      "gd": [
+        1,
+        2
+      ],
+      "ts": true,
+      "tf": true
+    },
+    "targets": [
+      {
+        "weight": 23,
+        "path": [
+          "passive2",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 9,
+        "path": [
+          "constellation6",
+          "ozActiveCharDmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "constellation6",
+          "ozActiveCharDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 10,
+        "path": [
+          "skill",
+          "ozDmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "skill",
+          "ozDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "skill",
+          "summonDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "additionalDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Aggravate (Keqing): C6R1 Thundering Pulse",
+    "filter": true,
+    "buffs": {
+      "ELEC_ADD_HURT": 0.32
+    },
+    "sets": {
+      "gd": [
+        1,
+        2
+      ],
+      "ts": true,
+      "tf": true
+    },
+    "targets": [
+      {
+        "weight": 23,
+        "path": [
+          "passive2",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 9,
+        "path": [
+          "constellation6",
+          "ozActiveCharDmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "constellation6",
+          "ozActiveCharDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 10,
+        "path": [
+          "skill",
+          "ozDmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "skill",
+          "ozDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "skill",
+          "summonDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "additionalDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Aggravate (Keqing): C6R5 The Stringless",
+    "filter": true,
+    "buffs": {
+      "ELEC_ADD_HURT": 0.32
+    },
+    "sets": {
+      "gd": [
+        1,
+        2
+      ],
+      "ts": true,
+      "tf": true
+    },
+    "targets": [
+      {
+        "weight": 23,
+        "path": [
+          "passive2",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 9,
+        "path": [
+          "constellation6",
+          "ozActiveCharDmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "constellation6",
+          "ozActiveCharDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 10,
+        "path": [
+          "skill",
+          "ozDmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "skill",
+          "ozDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "skill",
+          "summonDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "additionalDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+{
+    "burst": {
+        "dmg": 6.24,
+        "blossom": 1.224
+    },
+
+    "charged": {
+        "dmgType": "PHYSICAL",
+        "dmg1": 0.869,
+        "dmg2": 1.106
+    },
+
+    "normal": {
+        "dmgType": "PHYSICAL",
+        "0": 0.675,
+        "1": 0.675,
+        "2": 0.872,
+        "3": 0.914,
+        "4": 1.14
+    },
+
+    "plunging": {
+        "dmgType": "PHYSICAL",
+        "dmg": 1.175,
+        "low": 2.35,
+        "high": 2.93
+    },
+
+    "skill": {
+        "scaling": "DEFENSE",
+        "blossom": 2.27,
+        "dmg": 1.11
+    },
+
+    "skill_atk": {
+        "scaling": "ATTACK",
+        "dmg": 2.22
+    },
+
+    "stats": {
+        "Support: C0R5 Cinnabar Spindle": {
+            "ROCK_ADD_HURT": 0.288,
+            "CRITICAL": 0.05,
+            "CRITICAL_HURT": 0.5,
+            "BASE_ATTACK": 705,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+            "BASE_DEFENSE": 876,
+            "DEFENSE_PERCENT": 0.69,
+            "DEFENSE": 0,
+            "CHARGE_EFFICIENCY": 0
+        },
+
+        "Sub DPS: C0R5 Cinnabar Spindle": {
+            "ROCK_ADD_HURT": 0.288,
+            "CRITICAL": 0.05,
+            "CRITICAL_HURT": 0.5,
+            "BASE_ATTACK": 705,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+            "BASE_DEFENSE": 876,
+            "DEFENSE_PERCENT": 0.69,
+            "DEFENSE": 0,
+            "CHARGE_EFFICIENCY": 0
+        },
+
+        "Healer: C6R1 Everlasting Moonglow (Burst)": {
+            "BASE_HP": 9787,
+            "HP_PERCENT": 0.736,
+            "HP": 0
+        },
+
+        "dmgType": "ROCK",
+        "avatarId": "10000038"
+    }
+}

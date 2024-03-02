@@ -1,0 +1,20 @@
+{
+    "heal": {
+        "scaling": "ATTACK",
+        "burst": 5.02,
+        "base": 3940
+    },
+
+    "stats": {
+        "Healer: C0R1 Summit Shaper": {
+            "BASE_ATTACK": 847,
+            "ATTACK_PERCENT": 0.496,
+            "ATTACK": 0,
+            "HEAL_ADD": 0.221,
+            "HEALED_ADD": 0
+        },
+
+        "dmgType": "WIND",
+        "avatarId": "10000003"
+    }
+}

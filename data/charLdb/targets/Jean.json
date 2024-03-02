@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Healer: C0R1 Summit Shaper",
+    "filter": true,
+    "sets": {
+      "mb": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "burst"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "base"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {},
+        "flat": true
+      }
+    ]
+  }
+]

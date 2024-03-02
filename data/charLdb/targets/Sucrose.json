@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Swirl: C6R1 A Thousand Floating Dreams",
+    "filter": true,
+    "sets": {
+      "gd": [0, 3],
+      "vv": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "reaction",
+          "pyroSwirl"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Support: C6R1 A Thousand Floating Dreams",
+    "filter": "set4p('15002')",
+    "eval": "add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "sets": {
+      "vv": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "reaction",
+          "pyroSwirl"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 600,
+        "path": [
+          "stats",
+          "CHARGE_EFFICIENCY"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "author": {
+      "name": "Geoculus Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_107003.png"
+    },
+    "footer": {
+      "text": "Regional Oculus Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Oculus/Geoculus/Map_Geoculus_1.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Geoculus Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_107003.png"
+    },
+    "footer": {
+      "text": "Regional Oculus Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Oculus/Geoculus/Map_Geoculus_2.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Geoculus Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_107003.png"
+    },
+    "footer": {
+      "text": "Regional Oculus Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Oculus/Geoculus/Map_Geoculus_3.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Geoculus Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_107003.png"
+    },
+    "footer": {
+      "text": "Regional Oculus Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Oculus/Geoculus/Map_Geoculus_4.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Geoculus Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_107003.png"
+    },
+    "footer": {
+      "text": "Regional Oculus Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Oculus/Geoculus/Map_Geoculus_5.jpg"
+    }
+  }
+]

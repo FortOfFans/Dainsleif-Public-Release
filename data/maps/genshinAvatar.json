@@ -1,0 +1,471 @@
+{
+  "10000001" : {
+    "icon" : "UI_AvatarIcon_Kate",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Kate",
+    "sideIcon" : "UI_AvatarIcon_Side_Kate",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000001
+  },
+  "10000002" : {
+    "icon" : "UI_AvatarIcon_Ayaka",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Ayaka",
+    "sideIcon" : "UI_AvatarIcon_Side_Ayaka",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000002
+  },
+  "10000003" : {
+    "icon" : "UI_AvatarIcon_Qin",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Qin",
+    "sideIcon" : "UI_AvatarIcon_Side_Qin",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000003
+  },
+  "10000005" : {
+    "icon" : "UI_AvatarIcon_PlayerBoy",
+    "gachaIcon" : "UI_Gacha_AvatarImg_PlayerBoy",
+    "sideIcon" : "UI_AvatarIcon_Side_PlayerBoy",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000005
+  },
+  "10000006" : {
+    "icon" : "UI_AvatarIcon_Lisa",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Lisa",
+    "sideIcon" : "UI_AvatarIcon_Side_Lisa",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000006
+  },
+  "10000007" : {
+    "icon" : "UI_AvatarIcon_PlayerGirl",
+    "gachaIcon" : "UI_Gacha_AvatarImg_PlayerGirl",
+    "sideIcon" : "UI_AvatarIcon_Side_PlayerGirl",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000007
+  },
+  "10000014" : {
+    "icon" : "UI_AvatarIcon_Barbara",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Barbara",
+    "sideIcon" : "UI_AvatarIcon_Side_Barbara",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000014
+  },
+  "10000015" : {
+    "icon" : "UI_AvatarIcon_Kaeya",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Kaeya",
+    "sideIcon" : "UI_AvatarIcon_Side_Kaeya",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000015
+  },
+  "10000016" : {
+    "icon" : "UI_AvatarIcon_Diluc",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Diluc",
+    "sideIcon" : "UI_AvatarIcon_Side_Diluc",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000016
+  },
+  "10000020" : {
+    "icon" : "UI_AvatarIcon_Razor",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Razor",
+    "sideIcon" : "UI_AvatarIcon_Side_Razor",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000020
+  },
+  "10000021" : {
+    "icon" : "UI_AvatarIcon_Ambor",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Ambor",
+    "sideIcon" : "UI_AvatarIcon_Side_Ambor",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000021
+  },
+  "10000022" : {
+    "icon" : "UI_AvatarIcon_Venti",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Venti",
+    "sideIcon" : "UI_AvatarIcon_Side_Venti",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000022
+  },
+  "10000023" : {
+    "icon" : "UI_AvatarIcon_Xiangling",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Xiangling",
+    "sideIcon" : "UI_AvatarIcon_Side_Xiangling",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000023
+  },
+  "10000024" : {
+    "icon" : "UI_AvatarIcon_Beidou",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Beidou",
+    "sideIcon" : "UI_AvatarIcon_Side_Beidou",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000024
+  },
+  "10000025" : {
+    "icon" : "UI_AvatarIcon_Xingqiu",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Xingqiu",
+    "sideIcon" : "UI_AvatarIcon_Side_Xingqiu",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000025
+  },
+  "10000026" : {
+    "icon" : "UI_AvatarIcon_Xiao",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Xiao",
+    "sideIcon" : "UI_AvatarIcon_Side_Xiao",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000026
+  },
+  "10000027" : {
+    "icon" : "UI_AvatarIcon_Ningguang",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Ningguang",
+    "sideIcon" : "UI_AvatarIcon_Side_Ningguang",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000027
+  },
+  "10000029" : {
+    "icon" : "UI_AvatarIcon_Klee",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Klee",
+    "sideIcon" : "UI_AvatarIcon_Side_Klee",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000029
+  },
+  "10000030" : {
+    "icon" : "UI_AvatarIcon_Zhongli",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Zhongli",
+    "sideIcon" : "UI_AvatarIcon_Side_Zhongli",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000030
+  },
+  "10000031" : {
+    "icon" : "UI_AvatarIcon_Fischl",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Fischl",
+    "sideIcon" : "UI_AvatarIcon_Side_Fischl",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000031
+  },
+  "10000032" : {
+    "icon" : "UI_AvatarIcon_Bennett",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Bennett",
+    "sideIcon" : "UI_AvatarIcon_Side_Bennett",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000032
+  },
+  "10000033" : {
+    "icon" : "UI_AvatarIcon_Tartaglia",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Tartaglia",
+    "sideIcon" : "UI_AvatarIcon_Side_Tartaglia",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000033
+  },
+  "10000034" : {
+    "icon" : "UI_AvatarIcon_Noel",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Noel",
+    "sideIcon" : "UI_AvatarIcon_Side_Noel",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000034
+  },
+  "10000035" : {
+    "icon" : "UI_AvatarIcon_Qiqi",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Qiqi",
+    "sideIcon" : "UI_AvatarIcon_Side_Qiqi",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000035
+  },
+  "10000036" : {
+    "icon" : "UI_AvatarIcon_Chongyun",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Chongyun",
+    "sideIcon" : "UI_AvatarIcon_Side_Chongyun",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000036
+  },
+  "10000037" : {
+    "icon" : "UI_AvatarIcon_Ganyu",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Ganyu",
+    "sideIcon" : "UI_AvatarIcon_Side_Ganyu",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000037
+  },
+  "10000038" : {
+    "icon" : "UI_AvatarIcon_Albedo",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Albedo",
+    "sideIcon" : "UI_AvatarIcon_Side_Albedo",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000038
+  },
+  "10000039" : {
+    "icon" : "UI_AvatarIcon_Diona",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Diona",
+    "sideIcon" : "UI_AvatarIcon_Side_Diona",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000039
+  },
+  "10000041" : {
+    "icon" : "UI_AvatarIcon_Mona",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Mona",
+    "sideIcon" : "UI_AvatarIcon_Side_Mona",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000041
+  },
+  "10000042" : {
+    "icon" : "UI_AvatarIcon_Keqing",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Keqing",
+    "sideIcon" : "UI_AvatarIcon_Side_Keqing",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000042
+  },
+  "10000043" : {
+    "icon" : "UI_AvatarIcon_Sucrose",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Sucrose",
+    "sideIcon" : "UI_AvatarIcon_Side_Sucrose",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000043
+  },
+  "10000044" : {
+    "icon" : "UI_AvatarIcon_Xinyan",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Xinyan",
+    "sideIcon" : "UI_AvatarIcon_Side_Xinyan",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000044
+  },
+  "10000045" : {
+    "icon" : "UI_AvatarIcon_Rosaria",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Rosaria",
+    "sideIcon" : "UI_AvatarIcon_Side_Rosaria",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000045
+  },
+  "10000046" : {
+    "icon" : "UI_AvatarIcon_Hutao",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Hutao",
+    "sideIcon" : "UI_AvatarIcon_Side_Hutao",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000046
+  },
+  "10000047" : {
+    "icon" : "UI_AvatarIcon_Kazuha",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Kazuha",
+    "sideIcon" : "UI_AvatarIcon_Side_Kazuha",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000047
+  },
+  "10000048" : {
+    "icon" : "UI_AvatarIcon_Feiyan",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Feiyan",
+    "sideIcon" : "UI_AvatarIcon_Side_Feiyan",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000048
+  },
+  "10000049" : {
+    "icon" : "UI_AvatarIcon_Yoimiya",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Yoimiya",
+    "sideIcon" : "UI_AvatarIcon_Side_Yoimiya",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000049
+  },
+  "10000050" : {
+    "icon" : "UI_AvatarIcon_Tohma",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Tohma",
+    "sideIcon" : "UI_AvatarIcon_Side_Tohma",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000050
+  },
+  "10000051" : {
+    "icon" : "UI_AvatarIcon_Eula",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Eula",
+    "sideIcon" : "UI_AvatarIcon_Side_Eula",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000051
+  },
+  "10000052" : {
+    "icon" : "UI_AvatarIcon_Shougun",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Shougun",
+    "sideIcon" : "UI_AvatarIcon_Side_Shougun",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000052
+  },
+  "10000053" : {
+    "icon" : "UI_AvatarIcon_Sayu",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Sayu",
+    "sideIcon" : "UI_AvatarIcon_Side_Sayu",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000053
+  },
+  "10000054" : {
+    "icon" : "UI_AvatarIcon_Kokomi",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Kokomi",
+    "sideIcon" : "UI_AvatarIcon_Side_Kokomi",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000054
+  },
+  "10000055" : {
+    "icon" : "UI_AvatarIcon_Gorou",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Gorou",
+    "sideIcon" : "UI_AvatarIcon_Side_Gorou",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000055
+  },
+  "10000056" : {
+    "icon" : "UI_AvatarIcon_Sara",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Sara",
+    "sideIcon" : "UI_AvatarIcon_Side_Sara",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000056
+  },
+  "10000057" : {
+    "icon" : "UI_AvatarIcon_Itto",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Itto",
+    "sideIcon" : "UI_AvatarIcon_Side_Itto",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000057
+  },
+  "10000058" : {
+    "icon" : "UI_AvatarIcon_Yae",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Yae",
+    "sideIcon" : "UI_AvatarIcon_Side_Yae",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000058
+  },
+  "10000059" : {
+    "icon" : "UI_AvatarIcon_Heizo",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Heizo",
+    "sideIcon" : "UI_AvatarIcon_Side_Heizo",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000059
+  },
+  "10000060" : {
+    "icon" : "UI_AvatarIcon_Yelan",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Yelan",
+    "sideIcon" : "UI_AvatarIcon_Side_Yelan",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000060
+  },
+  "10000062" : {
+    "icon" : "UI_AvatarIcon_Aloy",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Aloy",
+    "sideIcon" : "UI_AvatarIcon_Side_Aloy",
+    "quality" : "QUALITY_ORANGE_SP",
+    "id" : 10000062
+  },
+  "10000063" : {
+    "icon" : "UI_AvatarIcon_Shenhe",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Shenhe",
+    "sideIcon" : "UI_AvatarIcon_Side_Shenhe",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000063
+  },
+  "10000064" : {
+    "icon" : "UI_AvatarIcon_Yunjin",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Yunjin",
+    "sideIcon" : "UI_AvatarIcon_Side_Yunjin",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000064
+  },
+  "10000065" : {
+    "icon" : "UI_AvatarIcon_Shinobu",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Shinobu",
+    "sideIcon" : "UI_AvatarIcon_Side_Shinobu",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000065
+  },
+  "10000066" : {
+    "icon" : "UI_AvatarIcon_Ayato",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Ayato",
+    "sideIcon" : "UI_AvatarIcon_Side_Ayato",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000066
+  },
+  "10000067" : {
+    "icon" : "UI_AvatarIcon_Collei",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Collei",
+    "sideIcon" : "UI_AvatarIcon_Side_Collei",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000067
+  },
+  "10000068" : {
+    "icon" : "UI_AvatarIcon_Dori",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Dori",
+    "sideIcon" : "UI_AvatarIcon_Side_Dori",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000068
+  },
+  "10000069" : {
+    "icon" : "UI_AvatarIcon_Tighnari",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Tighnari",
+    "sideIcon" : "UI_AvatarIcon_Side_Tighnari",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000069
+  },
+  "10000070" : {
+    "icon" : "UI_AvatarIcon_Nilou",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Nilou",
+    "sideIcon" : "UI_AvatarIcon_Side_Nilou",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000070
+  },
+  "10000071" : {
+    "icon" : "UI_AvatarIcon_Cyno",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Cyno",
+    "sideIcon" : "UI_AvatarIcon_Side_Cyno",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000071
+  },
+  "10000072" : {
+    "icon" : "UI_AvatarIcon_Candace",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Candace",
+    "sideIcon" : "UI_AvatarIcon_Side_Candace",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000072
+  },
+  "10000073" : {
+    "icon" : "UI_AvatarIcon_Nahida",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Nahida",
+    "sideIcon" : "UI_AvatarIcon_Side_Nahida",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000073
+  },
+  "10000074" : {
+    "icon" : "UI_AvatarIcon_Layla",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Layla",
+    "sideIcon" : "UI_AvatarIcon_Side_Layla",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000074
+  },
+  "10000075" : {
+    "icon" : "UI_AvatarIcon_Wanderer",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Wanderer",
+    "sideIcon" : "UI_AvatarIcon_Side_Wanderer",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000075
+  },
+  "10000076" : {
+    "icon" : "UI_AvatarIcon_Faruzan",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Faruzan",
+    "sideIcon" : "UI_AvatarIcon_Side_Faruzan",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000076
+  },
+  "10000077" : {
+    "icon" : "UI_AvatarIcon_Yaoyao",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Yaoyao",
+    "sideIcon" : "UI_AvatarIcon_Side_Yaoyao",
+    "quality" : "QUALITY_PURPLE",
+    "id" : 10000077
+  },
+  "10000078" : {
+    "icon" : "UI_AvatarIcon_Alhatham",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Alhatham",
+    "sideIcon" : "UI_AvatarIcon_Side_Alhatham",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000078
+  },
+  "10000079" : {
+    "icon" : "UI_AvatarIcon_Dehya",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Dehya",
+    "sideIcon" : "UI_AvatarIcon_Side_Dehya",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000079
+  },
+  "10000080" : {
+    "icon" : "UI_AvatarIcon_Mika",
+    "gachaIcon" : "UI_Gacha_AvatarImg_Mika",
+    "sideIcon" : "UI_AvatarIcon_Side_Mika",
+    "quality" : "QUALITY_ORANGE",
+    "id" : 10000079
+  }
+}

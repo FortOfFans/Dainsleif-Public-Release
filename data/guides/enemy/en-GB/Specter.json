@@ -1,0 +1,60 @@
+[
+	{
+		"author": {
+			"name": "Specter Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Sylph_Fire_01.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Specter/Map_Specter_1.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112053:989399513682833478> Spectral Husk",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112054:989399515528319016> Spectral Heart",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112055:989399517117956106> Spectral Nucleus",
+				"inline": true
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Specter Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Sylph_Fire_01.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Specter/Map_Specter_2.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112053:989399513682833478> Spectral Husk",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112054:989399515528319016> Spectral Heart",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112055:989399517117956106> Spectral Nucleus",
+				"inline": true
+			}
+		]
+	}
+]

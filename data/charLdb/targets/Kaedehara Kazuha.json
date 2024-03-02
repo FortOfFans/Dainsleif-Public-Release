@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Swirl: C0R1 Freedom-Sworn",
+    "filter": true,
+    "sets": {
+      "gd": [0, 3],
+      "vv": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "reaction",
+          "pyroSwirl"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Support: C0R1 Favonius Sword",
+    "filter": "set4p('15002')",
+    "eval": "add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "sets": {
+      "vv": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "reaction",
+          "pyroSwirl"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 400,
+        "path": [
+          "stats",
+          "CHARGE_EFFICIENCY"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Support: C0R1 Freedom-Sworn",
+    "filter": "set4p('15002')",
+    "eval": "add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "sets": {
+      "vv": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "reaction",
+          "pyroSwirl"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1000,
+        "path": [
+          "stats",
+          "CHARGE_EFFICIENCY"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  }
+]

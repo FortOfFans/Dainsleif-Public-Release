@@ -1,0 +1,38 @@
+[
+  {
+    "author": {
+      "name": "Lotus Head Locations",
+      "icon_url": "https://api.ambr.top/assets/UI/UI_ItemIcon_100026.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Lotus/Map_Lotus_1.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Lotus Head Locations",
+      "icon_url": "https://api.ambr.top/assets/UI/UI_ItemIcon_100026.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Lotus/Map_Lotus_2.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Lotus Head Locations",
+      "icon_url": "https://api.ambr.top/assets/UI/UI_ItemIcon_100026.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Lotus/Map_Lotus_3.jpg"
+    }
+  }
+]

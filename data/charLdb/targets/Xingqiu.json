@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Support: C6R1 Mistsplitter Reforged",
+    "filter": "stats.CHARGE_EFFICIENCY >= 1.6",
+    "eval": "add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "sets": {
+      "no": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "skill",
+          "press1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "skill",
+          "press2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 18,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 20000,
+        "path": [
+          "stats",
+          "CHARGE_EFFICIENCY"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Support: C6R1 Primordial Jade Cutter",
+    "filter": "stats.CHARGE_EFFICIENCY >= 1.6",
+    "eval": "if (!stats.ATTACK){ stats.ATTACK = 0; } stats.ATTACK += 0.012 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP); add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "sets": {
+      "no": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "skill",
+          "press1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "skill",
+          "press2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 18,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 20000,
+        "path": [
+          "stats",
+          "CHARGE_EFFICIENCY"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Support: C6R5 Favonius Sword",
+    "filter": "true",
+    "eval": "add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "sets": {
+      "no": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "skill",
+          "press1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "skill",
+          "press2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 18,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 10000,
+        "path": [
+          "stats",
+          "CHARGE_EFFICIENCY"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  }
+]

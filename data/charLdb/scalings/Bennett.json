@@ -1,0 +1,84 @@
+{
+    "burst": {
+        "dmg": 4.66
+    },
+
+    "constellation4": {
+        "dmg": 2.484
+    },
+
+    "charged": {
+        "dmg1": 1.03,
+        "dmg2": 1.12
+    },
+
+    "heal": {
+        "scaling": "HP",
+        "burst": 0.12,
+        "base": 1477
+    },
+
+    "normal": [0.818, 0.785, 1, 1.1, 1.32],
+
+    "plunging": {
+        "dmg": 1.175,
+        "low": 2.35,
+        "high": 2.93
+    },
+
+    "skill": {
+        "press": 2.75,
+        "hold1_1": 1.68,
+        "hold1_2": 1.84,
+        "hold2_1": 1.76,
+        "hold2_2": 1.92,
+        "explosion": 2.64
+    },
+
+    "stats": {
+        "Melt: C6R1 Mistsplitter Reforged (Crit Hit)": {
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+            "BASE_ATTACK": 865,
+            "BURST_PERCENT": 0,
+            "CHARGE_EFFICIENCY": 0.267,
+            "CRITICAL": 0.05,
+            "CRITICAL_HURT": 0.941,
+            "ELEMENT_MASTERY": 0,
+            "FIRE_ADD_HURT": 0.28,
+            "RES_SHRED": 0
+        },
+
+        "Healer: C6R1 Key of Khaj-Nisut": {
+            "BASE_HP": 12397,
+            "HP_PERCENT": 0.862,
+            "HP": 0,
+            "HEAL_ADD": 0,
+            "HEALED_ADD": 0
+        },
+
+        "Support: C6R1 Key of Khaj-Nisut (Healer)": {
+            "BASE_HP": 12397,
+            "HP_PERCENT": 0.862,
+            "HP": 0,
+            "HEAL_ADD": 0,
+            "HEALED_ADD": 0
+        },
+
+        "Support: C6R1 Aquila Favonia (Burst DPS - Vape)": {
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0.2,
+            "BASE_ATTACK": 865,
+            "BURST_PERCENT": 0,
+            "CHARGE_EFFICIENCY": 0.267,
+            "CRITICAL": 0.05,
+            "CRITICAL_HURT": 0.5,
+            "ELEMENT_MASTERY": 0,
+            "FIRE_ADD_HURT": 0,
+            "RES_SHRED": 0
+        },
+
+        "dmgType": "FIRE",
+        "avatarId": "10000032"
+    }
+}

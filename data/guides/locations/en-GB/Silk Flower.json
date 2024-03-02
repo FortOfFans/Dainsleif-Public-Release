@@ -1,0 +1,26 @@
+[
+  {
+    "author": {
+      "name": "Silk Flower Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_100029.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Silkflower/Map_SilkFlower_1.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Silk Flower Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_100029.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Silkflower/Map_SilkFlower_2.jpg"
+    }
+  }
+]

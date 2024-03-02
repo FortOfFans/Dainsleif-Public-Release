@@ -1,0 +1,33 @@
+{
+    "burst": {
+        "primaryDmg": 0.946,
+        "secondaryDmg": 1.156
+    },
+    "constellation6": {
+        "cluster": 1.5
+    },
+    "charged": {
+        "full": 2.11,
+        "wreath": 1.482,
+        "cluster": 0.656
+    },
+    "skill": {
+        "dmg": 1.496
+    },
+    "stats": {
+        "Spread: C0R1 Hunter's Path": {
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+            "BASE_ATTACK": 810,
+            "BURST_PERCENT": 0,
+            "CRITICAL": 0.491,
+            "CRITICAL_HURT": 0.5,
+            "ELEMENT_MASTERY": 0,
+            "GRASS_ADD_HURT": 0.408,
+            "RES_SHRED": 0
+        },
+
+        "dmgType": "GRASS",
+        "avatarId": "10000069"
+    }
+}

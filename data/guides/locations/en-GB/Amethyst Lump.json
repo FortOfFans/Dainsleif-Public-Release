@@ -1,0 +1,62 @@
+[
+  {
+    "author": {
+      "name": "Amethyst Lump Map Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_101008"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/AmethystLump/Map_AmethystLump1.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Amethyst Lump Map Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_101008"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/AmethystLump/Map_AmethystLump2.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Amethyst Lump Map Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_101008"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/AmethystLump/Map_AmethystLump3.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Amethyst Lump Map Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_101008"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/AmethystLump/Map_AmethystLump4.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Amethyst Lump Map Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_101008"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/AmethystLump/Map_AmethystLump5.jpg"
+    }
+  }
+]

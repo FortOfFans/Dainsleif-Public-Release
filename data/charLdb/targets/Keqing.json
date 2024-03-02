@@ -1,0 +1,530 @@
+[
+  {
+    "name": "Aggravate: C0R1 Mistsplitter Reforged",
+    "filter": "set4p('15005')",
+    "buffs": {
+      "ELEC_ADD_HURT": 0.32,
+      "RES_SHRED": 0.3
+    },
+    "targets": [
+      {
+        "weight": 4,
+        "path": [
+          "skill",
+          "stiletto"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "burst",
+          "initial"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 12,
+        "path": [
+          "burst",
+          "slash"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "burst",
+          "slash"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "burst",
+          "final"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "slash"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "charged",
+          "dmg1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 5,
+        "path": [
+          "charged",
+          "dmg2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "thunderclap"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "thunderclap"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "charged",
+          "dmg1"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Aggravate: C0R1 Mistsplitter Reforged",
+    "filter": "true",
+    "buffs": {
+      "ELEC_ADD_HURT": 0.32,
+      "RES_SHRED": 0.3
+    },
+    "sets": {
+      "gd": [
+        1,
+        2
+      ],
+      "pf": 2,
+      "tom": true,
+      "hod": true,
+      "no": true,
+      "gf": true,
+      "ts": true
+    },
+    "targets": [
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "stiletto"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "burst",
+          "initial"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 12,
+        "path": [
+          "burst",
+          "slash"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "burst",
+          "slash"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "burst",
+          "final"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "slash"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "charged",
+          "dmg1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 5,
+        "path": [
+          "charged",
+          "dmg2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "charged",
+          "dmg1"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Aggravate: C0R1 Primordial Jade Cutter",
+    "filter": "set4p('15005')",
+    "eval": "if (!stats.ATTACK){ stats.ATTACK = 0; } stats.ATTACK += 0.012 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP);",
+    "buffs": {
+      "ELEC_ADD_HURT": 0.32,
+      "RES_SHRED": 0.3
+    },
+    "targets": [
+      {
+        "weight": 4,
+        "path": [
+          "skill",
+          "stiletto"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "burst",
+          "initial"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 12,
+        "path": [
+          "burst",
+          "slash"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "burst",
+          "slash"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "burst",
+          "final"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "slash"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "charged",
+          "dmg1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 5,
+        "path": [
+          "charged",
+          "dmg2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "thunderclap"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "thunderclap"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "charged",
+          "dmg1"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Aggravate: C0R1 Primordial Jade Cutter",
+    "filter": "true",
+    "eval": "if (!stats.ATTACK){ stats.ATTACK = 0; } stats.ATTACK += 0.012 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP);",
+    "buffs": {
+      "ELEC_ADD_HURT": 0.32,
+      "RES_SHRED": 0.3
+    },
+    "sets": {
+      "gd": [
+        1,
+        2
+      ],
+      "pf": 2,
+      "tom": true,
+      "hod": true,
+      "no": true,
+      "gf": true,
+      "ts": true
+    },
+    "targets": [
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "stiletto"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "burst",
+          "initial"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 12,
+        "path": [
+          "burst",
+          "slash"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "burst",
+          "slash"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "burst",
+          "final"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "slash"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "charged",
+          "dmg1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 5,
+        "path": [
+          "charged",
+          "dmg2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "charged",
+          "dmg1"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      }
+    ]
+  }
+]

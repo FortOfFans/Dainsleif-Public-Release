@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Support: C0R5 Favonius Lance",
+    "filter": true,
+    "eval": "if (set4p('15007')) dpr += (1.96 * 19 + 2.86 + 4.07 + 0.84 * 3 + 0.894 * 2 + 1.013 * 6) / 10 * (342 + 674) * .2; add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "sets": {
+      "no": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "skill",
+          "quillDmg"
+        ],
+        "hitMode": "buff",
+        "bonusStats": {}
+      },
+      {
+        "weight": 10000,
+        "path": [
+          "stats",
+          "CHARGE_EFFICIENCY"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ],
+    "description": ""
+  }
+]

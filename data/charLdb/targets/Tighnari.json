@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Spread: C0R1 Hunter's Path",
+    "filter": true,
+    "eval": "if (!stats.CHARGE_FLAT_DMG){ stats.CHARGE_FLAT_DMG = 0; } stats.CHARGE_FLAT_DMG = 1.6 * stats.ELEMENT_MASTERY",
+    "sets": {
+      "dw": true,
+      "gd": [
+        0,
+        3
+      ],
+      "hod": true,
+      "wt": true,
+      "tom": true,
+      "ts": true
+    },
+    "targets": [
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "spread",
+        "bonusStats": {}
+      },
+      {
+        "weight": 6,
+        "path": [
+          "charged",
+          "wreath"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "spread",
+        "bonusStats": {}
+      },
+      {
+        "weight": 6,
+        "path": [
+          "charged",
+          "cluster"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 18,
+        "path": [
+          "charged",
+          "cluster"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "spread",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "primaryDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "spread",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "burst",
+          "secondaryDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "spread",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "burst",
+          "secondaryDmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  }
+]

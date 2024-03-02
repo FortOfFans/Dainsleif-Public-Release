@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Swirl: C6R1 A Thousand Floating Dreams",
+    "filter": true,
+    "sets": {
+      "gd": [0, 3],
+      "vv": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "reaction",
+          "pyroSwirl"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  }
+]

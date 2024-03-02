@@ -1,0 +1,247 @@
+[
+  {
+    "description": "Ritou's Fishing Spot",
+    "author": {
+      "name": "Inazuma's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200903.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Inazuma/Map_Fishing_Ritou.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131001:998816730988163142> Glaze Medaka\n<:UI_ItemIcon_131006:998816740073013288> Lunged Stickleback\n<:UI_ItemIcon_131009:998816744036634724> Akai Maou",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131019:998816761157787669> Pufferfish\n<:UI_ItemIcon_131020:998816764739731536> Bitter Pufferfish",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "Voilet Court's Fishing Spot",
+    "author": {
+      "name": "Inazuma's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200903.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Inazuma/Map_Fishing_Voilet%20Court.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131001:998816730988163142> Glaze Medaka\n<:UI_ItemIcon_131006:998816740073013288> Lunged Stickleback",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131014:998816752064536606> Purple Shirakodai",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "Abandoned Electro Ship's Fishing Spot",
+    "author": {
+      "name": "Inazuma's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200903.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Inazuma/Map_Fishing_Electro%20Ship.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131017:998816757634580540> Raimei Angelfish",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "Nazuchi Beach's Fishing Spot",
+    "author": {
+      "name": "Inazuma's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200903.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Inazuma/Map_Fishing_Nazuchi.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131000:998816729138475038> Medaka\n<:UI_ItemIcon_131006:998816740073013288> Lunged Stickleback",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131014:998816752064536606> Purple Shirakodai\n<:UI_ItemIcon_131020:998816764739731536> Bitter Pufferfish",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "Suigetsu Pool's Fishing Spot",
+    "author": {
+      "name": "Inazuma's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200903.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Inazuma/Map_Fishing_Suigetsu.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131000:998816729138475038> Medaka\n<:UI_ItemIcon_131001:998816730988163142> Glaze Medaka\n<:UI_ItemIcon_131005:998816738898616371> Crystalfish",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131005:998816738898616371> Crystalfish\n<:UI_ItemIcon_131006:998816740073013288> Lunged Stickleback\n<:UI_ItemIcon_131014:998816752064536606> Purple Shirakodai",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "Watatsumi Island's Fishing Spot",
+    "author": {
+      "name": "Inazuma's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200903.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Inazuma/Map_Fishing_Watatsumi.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131000:998816729138475038> Medaka\n<:UI_ItemIcon_131001:998816730988163142> Glaze Medaka\n<:UI_ItemIcon_131005:998816738898616371> Crystalfish",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131005:998816738898616371> Crystalfish\n<:UI_ItemIcon_131006:998816740073013288> Lunged Stickleback\n<:UI_ItemIcon_131014:998816752064536606> Purple Shirakodai",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "Seirai Island's Fishing Spot 1",
+    "author": {
+      "name": "Inazuma's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200903.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Inazuma/Map_Fishing_Seirai_1.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131000:998816729138475038> Medaka\n<:UI_ItemIcon_131005:998816738898616371> Crystalfish\n<:UI_ItemIcon_131005:998816738898616371> Crystalfish",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131014:998816752064536606> Purple Shirakodai\n<:UI_ItemIcon_131019:998816761157787669> Pufferfish",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "Seirai Island's Fishing Spot 2",
+    "author": {
+      "name": "Inazuma's Fishing Locations ",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200903.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Inazuma/Map_Fishing_Seirai_2.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131005:998816738898616371> Crystalfish\n<:UI_ItemIcon_131006:998816740073013288> Lunged Stickleback\n<:UI_ItemIcon_131009:998816744036634724> Akai Maou",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131014:998816752064536606> Purple Shirakodai\n<:UI_ItemIcon_131011:998816746649698395> Golden Koi\n<:UI_ItemIcon_131012:998816748436471948> Rusty Koi",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "Chirai Shrine's Fishing Spot",
+    "author": {
+      "name": "Inazuma's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200903.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Inazuma/Map_Fishing_Chirai.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131000:998816729138475038> Medaka\n<:UI_ItemIcon_131001:998816730988163142> Glaze Medaka",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131004:998816737137008640> Dawncatcher\n<:UI_ItemIcon_131005:998816738898616371> Crystalfish",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "Autake Plains' Fishing Spot",
+    "author": {
+      "name": "Inazuma's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200903.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Inazuma/Map_Fishing_Autake.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131000:998816729138475038> Medaka\n<:UI_ItemIcon_131006:998816740073013288> Lunged Stickleback",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131009:998816744036634724> Akai Maou\n<:UI_ItemIcon_131014:998816752064536606> Purple Shirakodai",
+        "inline": true
+      }
+    ]
+  }
+]

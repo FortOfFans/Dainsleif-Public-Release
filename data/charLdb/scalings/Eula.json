@@ -1,0 +1,56 @@
+{
+    "burst": {
+        "dmg": 2.09,
+        "lightFallSwordNew": 23.279
+    },
+
+    "normal": [
+        1.649,
+        1.719,
+        1.044,
+        2.069,
+        1.32
+    ],
+
+    "passive1": {
+        "shatteredLightfallSword": 3.3715
+    },
+
+    "skill": {
+        "dmgType": "ICE",
+        "press": 2.49,
+        "hold": 4.18
+    },
+
+    "stats": {
+        "Physical: C0R1 Song of Broken Pines": {
+            "BASE_ATTACK": 1083,
+            "ATTACK_PERCENT": 0.36,
+            "ATTACK": 0,
+
+            "CRITICAL": 0.05,
+            "CRITICAL_HURT": 0.884,
+            "PHYSICAL_ADD_HURT": 0.207,
+
+            "DEFENSE_PERCENT": 0.6,
+            "RES_SHRED": 0.24
+        },
+
+        "Physical: C0R5 Serpent Spine": {
+            "BASE_ATTACK": 852,
+            "ATTACK_PERCENT": 0,
+            "ATTACK": 0,
+
+            "CRITICAL": 0.326,
+            "CRITICAL_HURT": 0.884,
+            "PHYSICAL_ADD_HURT": 0,
+            "ADD_HURT": 0.5,
+
+            "DEFENSE_PERCENT": 0.6,
+            "RES_SHRED": 0.24
+        },
+
+        "dmgType": "PHYSICAL",
+        "avatarId": "10000051"
+    }
+}

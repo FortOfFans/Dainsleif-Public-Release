@@ -1,0 +1,14 @@
+[
+  {
+    "author": {
+      "name": "Wolfhook Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_100021.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Wolfhook/Map_Wolfhook_1.jpg"
+    }
+  }
+]

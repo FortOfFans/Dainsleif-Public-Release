@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Healer: C6R1 Everlasting Moonglow (Skill)",
+    "filter": true,
+    "sets": {
+      "mb": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "skill"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "base_skill"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {},
+        "flat": true
+      }
+    ]
+  },
+  {
+    "name": "Healer: C6R1 Everlasting Moonglow (Burst)",
+    "filter": true,
+    "sets": {
+      "mb": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "burst"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "base_burst"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {},
+        "flat": true
+      }
+    ]
+  }
+]

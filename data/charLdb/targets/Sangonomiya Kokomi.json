@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Healer: C0R1 Everlasting Moonglow",
+    "filter": true,
+    "sets": {
+      "mb": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "skill"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "base"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {},
+        "flat": true
+      }
+    ]
+  },
+  {
+    "name": "Bountiful Bloom: C0R1 A Thousand Floating Dreams",
+    "filter": true,
+    "sets": {
+      "gd": [
+        0,
+        3
+      ],
+      "fopl": true
+    },
+    "buffs": {
+      "REACT_BONUS": 2.7,
+      "ELEMENT_MASTERY": 380
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "reaction",
+          "bloom"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "On-field: C0R1 Everlasting Moonglow",
+    "filter": "set4p('15022')",
+    "eval": "if (!stats.NORMAL_FLAT_DMG) stats.NORMAL_FLAT_DMG = 0; stats.NORMAL_FLAT_DMG += 0.082 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP) + 0.15 * (stats.HEAL_ADD || 0); if (!stats.CHARGE_FLAT_DMG) stats.CHARGE_FLAT_DMG = 0; stats.CHARGE_FLAT_DMG += 0.115 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP) + 0.15 * (stats.HEAL_ADD || 0); if (!stats.SKILL_FLAT_DMG) stats.SKILL_FLAT_DMG = 0; stats.SKILL_FLAT_DMG += 0.121 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP)",
+    "sets": {
+      "hod": true
+    },
+    "targets": [
+      {
+        "weight": 5,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 5,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 5,
+        "path": [
+          "normal",
+          "2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "artifact:OceanHuedClam",
+          "heal"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 5,
+        "path": [
+          "skill",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "On-field: C0R1 Everlasting Moonglow",
+    "filter": true,
+    "eval": "if (!stats.NORMAL_FLAT_DMG) stats.NORMAL_FLAT_DMG = 0; stats.NORMAL_FLAT_DMG += 0.082 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP) + 0.15 * (stats.HEAL_ADD || 0); if (!stats.CHARGE_FLAT_DMG) stats.CHARGE_FLAT_DMG = 0; stats.CHARGE_FLAT_DMG += 0.115 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP) + 0.15 * (stats.HEAL_ADD || 0); if (!stats.SKILL_FLAT_DMG) stats.SKILL_FLAT_DMG = 0; stats.SKILL_FLAT_DMG += 0.121 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP)",
+    "sets": {
+      "hod": true
+    },
+    "targets": [
+      {
+        "weight": 5,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 5,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 5,
+        "path": [
+          "normal",
+          "2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 5,
+        "path": [
+          "skill",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  }
+]

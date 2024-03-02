@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Soup: C0R1 Haran Geppaku Futsu",
+    "filter": "stats.CHARGE_EFFICIENCY >= 1.25",
+    "eval": "add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'; if (!stats.NORMAL_FLAT_DMG) stats.NORMAL_FLAT_DMG = 0; stats.NORMAL_FLAT_DMG = (0.0103 * 4) * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP)",
+    "sets": {
+      "hod": true,
+      "gf": true,
+      "ts": true,
+      "tf": true,
+      "gd": [
+        0,
+        3
+      ]
+    },
+    "buffs": {
+      "WATER_ADD_HURT": 0.32,
+      "ATTACK": 1070.52,
+      "ATTACK_PERCENT": 0.2,
+      "RES_SHRED": 0.3
+    },
+    "targets": [
+      {
+        "weight": 15,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 12,
+        "path": [
+          "reaction",
+          "electrocharged"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "illusionDmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 10,
+        "path": [
+          "skill",
+          "dmg0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 10,
+        "path": [
+          "skill",
+          "dmg1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 10,
+        "path": [
+          "skill",
+          "dmg2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 20000,
+        "path": [
+          "stats",
+          "CHARGE_EFFICIENCY"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Soup: C0R1 Haran Geppaku Futsu",
+    "filter": "true",
+    "eval": "add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'; if (!stats.NORMAL_FLAT_DMG) stats.NORMAL_FLAT_DMG = 0; stats.NORMAL_FLAT_DMG = (0.0103 * 4) * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP)",
+    "sets": {
+      "hod": true,
+      "gf": true,
+      "ts": true,
+      "tf": true,
+      "gd": [
+        0,
+        3
+      ]
+    },
+    "buffs": {
+      "WATER_ADD_HURT": 0.32,
+      "ATTACK": 1070.52,
+      "ATTACK_PERCENT": 0.2,
+      "RES_SHRED": 0.3,
+      "NORMAL_PERCENT": -0.095
+    },
+    "targets": [
+      {
+        "weight": 7.5,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 12,
+        "path": [
+          "reaction",
+          "electrocharged"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "illusionDmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 10,
+        "path": [
+          "skill",
+          "dmg0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 10,
+        "path": [
+          "skill",
+          "dmg1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 10,
+        "path": [
+          "skill",
+          "dmg2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  }
+]

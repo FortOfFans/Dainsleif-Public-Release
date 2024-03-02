@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Rods Fish exchange requirements",
+    "footer": {
+      "text": "Fishing Material Breakdown."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Extras/Map_Fishing_Rods.jpg"
+    },
+    "fields": [
+      {
+        "name": "Windtangler (Mondstadt)",
+        "value": "20 - <:UI_ItemIcon_131015:998816753809367060> Tea-Colored Shirakodai\n20 - <:UI_ItemIcon_131008:998816742606377011> Venomspine Fish\n20 - <:UI_ItemIcon_131003:998816734633021441> Aizen Medaka\n20 - <:UI_ItemIcon_131000:998816729138475038> Medaka",
+        "inline": true
+      },
+      {
+        "name": "Wishmaker (Liyue)",
+        "value": "20 - <:UI_ItemIcon_131013:998816750516842567> Brown Shirakodai\n20 - <:UI_ItemIcon_131007:998816741100621886> Betta\n20 - <:UI_ItemIcon_131002:998816733114671144> Sweet-Flower Medaka\n20 - <:UI_ItemIcon_131000:998816729138475038> Medaka",
+        "inline": true
+      },
+      {
+        "name": "\u200E ",
+        "value": "\u200E ",
+        "inline": false
+      },
+      {
+        "name": "Narukawa Ukai (Inazuma)",
+        "value": "20 - <:UI_ItemIcon_131014:998816752064536606> Purple Shirakodai\n20 - <:UI_ItemIcon_131006:998816740073013288> Lunged Stickleback\n20 - <:UI_ItemIcon_131001:998816730988163142> Glaze Medaka\n20 - <:UI_ItemIcon_131000:998816729138475038> Medaka",
+        "inline": true
+      },
+      {
+        "name": "Serendipity (Sumeru)",
+        "value": "20 - <:UI_ItemIcon_131023:998816993388003470> True Fruit Angler\n20 - <:UI_ItemIcon_131025:998816997011882075> Sandstorm Angler\n20 - <:UI_ItemIcon_131026:998816998706380801> Sunset Cloud Angler\n20 - <:UI_ItemIcon_131000:998816729138475038> Medaka",
+        "inline": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+{
+    "burst": {
+        "dmg1": 1.44,
+        "dmg2": 1.76,
+        "dmg3": 2.19,
+        "dmgNado": 2.24
+    },
+
+    "skill": {
+        "press": 2.23
+    },
+
+    "stats": {
+        "VV Vape: C6R5 \"The Catch\" (International)": {
+            "BASE_ATTACK": 735,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+
+            "CRITICAL": 0.05,
+            "CRITICAL_HURT": 0.5,
+            "ELEMENT_MASTERY": 96,
+
+            "BURST_CRITICAL": 0.12,
+            "BURST_PERCENT": 0.32,
+            "RES_SHRED": 0.15,
+            "CHARGE_EFFICIENCY": 0.459
+        },
+
+        "VV Vape: C6R1 Staff of the Scarlet Sands (International)": {
+            "BASE_ATTACK": 767,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+
+            "CRITICAL": 0.491,
+            "CRITICAL_HURT": 0.5,
+            "ELEMENT_MASTERY": 96,
+
+            "RES_SHRED": 0.15
+        },
+
+        "Overvape: C6R5 \"The Catch\" (Rational)": {
+            "BASE_ATTACK": 735,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+
+            "CRITICAL": 0.05,
+            "CRITICAL_HURT": 0.5,
+            "ELEMENT_MASTERY": 96,
+
+            "BURST_CRITICAL": 0.12,
+            "BURST_PERCENT": 0.32,
+            "RES_SHRED": 0.15,
+            "CHARGE_EFFICIENCY": 0.459
+        },
+
+        "Overvape: C6R1 Staff of the Scarlet Sands (Rational)": {
+            "BASE_ATTACK": 767,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+
+            "CRITICAL": 0.491,
+            "CRITICAL_HURT": 0.5,
+            "ELEMENT_MASTERY": 96,
+
+            "RES_SHRED": 0.15
+        },
+
+        "dmgType": "FIRE",
+        "avatarId": "10000023"
+    }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "author": {
+      "name": "Lumenspar Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_107016.png"
+    },
+    "footer": {
+      "text": "Regional Oculus Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Oculus/Lumenspar/Map_Lumenspar.jpg"
+    }
+  }
+]

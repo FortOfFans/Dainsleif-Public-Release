@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Freeze: C0R1 Mistsplitter Reforged",
+    "filter": "stats.CHARGE_EFFICIENCY >= 1.3",
+    "eval": "add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "sets": {
+      "bs": 2
+    },
+    "buffs": {
+      "ATTACK_PERCENT": 0.68,
+      "ICE_ADD_HURT": 0.32,
+      "BURST_FLAT_DMG": 1107.74
+    },
+    "targets": [
+      {
+        "weight": 19,
+        "path": [
+          "burst",
+          "cutting"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "bloom"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "press"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 5,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 9,
+        "path": [
+          "charged",
+          "dmg1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "normal",
+          "2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Freeze: C0R1 Mistsplitter Reforged",
+    "filter": "true",
+    "eval": "add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "sets": {
+      "bs": 2
+    },
+    "buffs": {
+      "ATTACK_PERCENT": 0.68,
+      "ICE_ADD_HURT": 0.32,
+      "BURST_FLAT_DMG": 1107.74
+    },
+    "targets": [
+      {
+        "weight": 9.5,
+        "path": [
+          "burst",
+          "cutting"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 0.5,
+        "path": [
+          "burst",
+          "bloom"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "press"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 5,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 9,
+        "path": [
+          "charged",
+          "dmg1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "normal",
+          "2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+
+  {
+    "name": "Freeze: C0R5 Amenoma Kageuchi",
+    "filter": "true",
+    "sets": {
+      "bs": 2
+    },
+    "buffs": {
+      "ATTACK_PERCENT": 0.68,
+      "ICE_ADD_HURT": 0.32,
+      "BURST_FLAT_DMG": 1107.74
+    },
+    "targets": [
+      {
+        "weight": 19,
+        "path": [
+          "burst",
+          "cutting"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "bloom"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "press"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 5,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 9,
+        "path": [
+          "charged",
+          "dmg1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "normal",
+          "2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  }
+]

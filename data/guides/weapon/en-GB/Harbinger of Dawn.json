@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Possible Character usage:",
+    "footer": {
+      "text": "Weapon Usage Recommendation"
+    },
+    "fields": [
+      {
+        "name": "Recommended - Assuming above 90% HP",
+        "value": "Albedo\nKaeya\nKamisato Ayaka\nKamisato Ayato\nKeqing (Quickswap)\nXingqiu (C6)",
+        "inline": true
+      },
+      {
+        "name": "Cope",
+        "value": "The rest",
+        "inline": true
+      }
+    ]
+  }
+]

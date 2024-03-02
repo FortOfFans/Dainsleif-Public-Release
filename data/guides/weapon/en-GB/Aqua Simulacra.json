@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Possible Character usage:",
+    "footer": {
+      "text": "Weapon Usage Recommendation"
+    },
+    "fields": [
+      {
+        "name": "Recommended",
+        "value": "Aloy\nAmber (DPS)\nFischl\nGanyu\nTartaglia\nTighnari\nVenti (ADC)\nYelan\nYoimiya",
+        "inline": true
+      },
+      {
+        "name": "Cope",
+        "value": "Amber (Support)\nCollei\nDiona\nGorou\nKujou Sara\nVenti (Swirl)",
+        "inline": true
+      }
+    ]
+  }
+]

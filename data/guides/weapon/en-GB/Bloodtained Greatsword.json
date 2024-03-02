@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Possible Character usage:",
+    "footer": {
+      "text": "Weapon Usage Recommendation"
+    },
+    "fields": [
+      {
+        "name": "Recommended",
+        "value": "Sayu",
+        "inline": true
+      },
+      {
+        "name": "Cope",
+        "value": "The rest",
+        "inline": true
+      }
+    ]
+  }
+]

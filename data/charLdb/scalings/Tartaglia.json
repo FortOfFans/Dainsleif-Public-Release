@@ -1,0 +1,68 @@
+{
+    "burst": {
+        "meleeDmg": 7.89,
+        "rangedDmg": 6.43,
+        "riptideBlast": 2.04
+    },
+
+    "heal": {
+        "scaling": "HP",
+        "kill": 0.16
+    },
+
+    "skill": {
+        "stanceDmg": 1.22,
+        "normal1": 0.714,
+        "normal2": 0.765,
+        "normal3": 1.035,
+        "normal4": 1.101,
+        "normal5": 1.016,
+        "normal61": 0.651,
+        "normal62": 0.692,
+        "charged1": 1.106,
+        "charged2": 1.322,
+        "riptideSlash": 1.11
+    },
+
+    "weapon:SkywardHarp": {
+        "dmgType": "PHYSICAL",
+        "dmg": 1.25
+    },
+
+    "stats": {
+        "Healer: C0R5 Recurve Bow": {
+            "BASE_HP": 13103,
+            "HP": 0,
+            "HP_PERCENT": 0.469
+        },
+
+        "International: C0R1 Polar Star": {
+            "BASE_ATTACK": 909,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0.48,
+
+            "WATER_ADD_HURT": 0.288,
+            "ELEMENT_MASTERY": 0,
+            "CRITICAL": 0.381,
+            "CRITICAL_HURT": 0.5,
+
+            "SKILL_PERCENT": 0.12,
+            "BURST_PERCENT": 0.12
+        },
+
+        "International: C0R1 Skyward Harp": {
+            "BASE_ATTACK": 975,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+
+            "WATER_ADD_HURT": 0.288,
+            "ELEMENT_MASTERY": 0,
+            "CRITICAL": 0.271,
+            "CRITICAL_HURT": 0.7
+        },
+
+        "skillIsNormal": true,
+        "dmgType": "WATER",
+        "avatarId": "10000033"
+    }
+}

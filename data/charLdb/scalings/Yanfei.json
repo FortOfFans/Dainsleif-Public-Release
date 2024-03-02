@@ -1,0 +1,84 @@
+{
+  "burst": {
+    "dmg": 3.65
+  },
+
+  "charged": [
+    1.52,
+    1.79,
+    2.06,
+    2.33,
+    2.60
+  ],
+
+  "normal": [
+    0.992,
+    0.886,
+    1.292
+  ],
+
+  "passive2": {
+    "dmg": 0.8
+  },
+
+  "skill": {
+    "dmg": 3.39
+  },
+
+  "stats": {
+    "Vape: C6R1 Lost Prayer to the Sacred Winds": {
+      "BASE_ATTACK": 848,
+      "ATTACK_PERCENT": 0,
+      "ATTACK": 0,
+
+      "ELEMENT_MASTERY": 0,
+      "FIRE_ADD_HURT": 0.71,
+      "CHARGE_PERCENT": 0.6,
+
+      "CRITICAL": 0.381,
+      "CRITICAL_HURT": 0.5
+    },
+
+    "Vape: C6R5 The Widsith": {
+      "BASE_ATTACK": 750,
+      "ATTACK_PERCENT": 0.2,
+      "ATTACK": 0,
+
+      "ELEMENT_MASTERY": 80,
+      "FIRE_ADD_HURT": 0.55,
+      "CHARGE_PERCENT": 0.6,
+
+      "CRITICAL": 0.381,
+      "CRITICAL_HURT": 0.5
+    },
+
+    "Monopyro: C6R1 Lost Prayer to the Sacred Winds": {
+      "BASE_ATTACK": 848,
+      "ATTACK_PERCENT": 0,
+      "ATTACK": 0,
+
+      "ELEMENT_MASTERY": 0,
+      "FIRE_ADD_HURT": 0.71,
+      "CHARGE_PERCENT": 0.6,
+
+      "CRITICAL": 0.381,
+      "CRITICAL_HURT": 0.5
+    },
+
+    "Monopyro: C6R5 The Widsith": {
+      "BASE_ATTACK": 750,
+      "ATTACK_PERCENT": 0.2,
+      "ATTACK": 0,
+
+      "ELEMENT_MASTERY": 80,
+      "FIRE_ADD_HURT": 0.55,
+      "CHARGE_PERCENT": 0.6,
+
+      "CRITICAL": 0.381,
+      "CRITICAL_HURT": 0.5
+    },
+
+    "dmgType": "FIRE",
+    "avatarId": "10000048"
+  }
+}

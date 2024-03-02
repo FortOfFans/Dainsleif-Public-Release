@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Support: C6R1 Aquila Favonia (Burst DPS - Vape)",
+    "filter": "(set4p('15007') || set4p('10007')) && stats?.CHARGE_EFFICIENCY >= 1.7",
+    "eval": "add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "buffs": {},
+    "sets": {},
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {},
+        "reaction": "vaporize"
+      },
+      {
+        "weight": 10000,
+        "path": [
+          "stats",
+          "CHARGE_EFFICIENCY"
+        ],
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Support: C6R1 Key of Khaj-Nisut (Healer)",
+    "filter": "(set4p('15007') || set4p('10007')) && stats?.CHARGE_EFFICIENCY >= 1.7",
+    "eval": "add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "buffs": {},
+    "sets": {
+      "mb": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "burst"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "base"
+        ],
+        "hitMode": "heal",
+        "flat": true,
+        "bonusStats": {}
+      },
+      {
+        "weight": 5000,
+        "path": [
+          "stats",
+          "CHARGE_EFFICIENCY"
+        ],
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Melt: C6R1 Mistsplitter Reforged (Crit Hit)",
+    "filter": "true",
+    "buffs": {
+      "ATTACK": 372,
+      "ATTACK_PERCENT": 0.65,
+      "ELEMENT_MASTERY": 420,
+      "FIRE_ADD_HURT": 0.77,
+      "RES_SHRED": 0.3
+    },
+    "sets": {
+      "gd": [1, 2]
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "critHit",
+        "bonusStats": {},
+        "reaction": "melt"
+      }
+    ]
+  },
+  {
+    "name": "Healer: C6R1 Key of Khaj-Nisut",
+    "filter": "true",
+    "buffs": {},
+    "sets": {
+      "mb": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "burst"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "base"
+        ],
+        "hitMode": "heal",
+        "flat": true,
+        "bonusStats": {}
+      }
+    ]
+  }
+]

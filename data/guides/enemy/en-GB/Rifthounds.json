@@ -1,0 +1,60 @@
+[
+	{
+		"author": {
+			"name": "Rifthound Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Hound_Riftstalker_Rock.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Wolves/Map_Wolves_1.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112056:989399518351097896> Concealed Claw",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112057:989399520012042250> Concealed Unguis",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112058:989399521731678238> Concealed Talon",
+				"inline": true
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Rifthound Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Hound_Riftstalker_Rock.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Wolves/Map_Wolves_2.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112056:989399518351097896> Concealed Claw",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112057:989399520012042250> Concealed Unguis",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112058:989399521731678238> Concealed Talon",
+				"inline": true
+			}
+		]
+	}
+]

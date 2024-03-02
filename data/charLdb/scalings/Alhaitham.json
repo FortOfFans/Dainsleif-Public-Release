@@ -1,0 +1,59 @@
+{
+    "burst": {
+        "scaling": "ELEMENT_MASTERY",
+        "instanceDmg": 1.654
+    },
+
+    "burst_atk": {
+        "instanceDmg": 2.067
+    },
+
+    "charged": {
+        "dmg": 1.015
+    },
+
+    "normal": [
+        0.91,
+        0.932,
+        0.628,
+        1.227,
+        1.541
+    ],
+
+    "plunging": {
+        "dmg": 1.175,
+        "low": 2.35,
+        "high": 2.93
+    },
+
+    "skill": {
+        "scaling": "ELEMENT_MASTERY",
+        "rushDmg": 2.633,
+        "mirrorDmg1": 2.285,
+        "mirrorDmg2": 4.57,
+        "mirrorDmg3": 6.855
+    },
+
+    "skill_atk": {
+        "rushDmg": 3.291,
+        "mirrorDmg1": 1.142,
+        "mirrorDmg2": 2.284,
+        "mirrorDmg3": 3.426
+    },
+
+    "stats": {
+        "Spread: C0R1 Light of Foliar Incision": {
+            "BASE_ATTACK": 855,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+
+            "CRITICAL": 0.09,
+            "CRITICAL_HURT": 1.382,
+            "GRASS_ADD_HURT": 0.288,
+            "ELEMENT_MASTERY": 0
+        },
+
+        "dmgType": "GRASS",
+        "avatarId": "10000078"
+    }
+}

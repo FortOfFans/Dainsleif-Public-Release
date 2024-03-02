@@ -1,0 +1,62 @@
+[
+  {
+    "author": {
+      "name": "Name1 Locations",
+      "icon_url": "https://api.ambr.top/assets/UI/UI_ItemIcon_Name2.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Name1/Map_Name1_1.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Name1 Locations",
+      "icon_url": "https://api.ambr.top/assets/UI/UI_ItemIcon_Name2.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Name1/Map_Name1_2.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Name1 Locations",
+      "icon_url": "https://api.ambr.top/assets/UI/UI_ItemIcon_Name2.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Name1/Map_Name1_3.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Name1 Locations",
+      "icon_url": "https://api.ambr.top/assets/UI/UI_ItemIcon_Name2.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Name1/Map_Name1_4.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Name1 Locations",
+      "icon_url": "https://api.ambr.top/assets/UI/UI_ItemIcon_Name2.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Name1/Map_Name1_5.jpg"
+    }
+  }
+]

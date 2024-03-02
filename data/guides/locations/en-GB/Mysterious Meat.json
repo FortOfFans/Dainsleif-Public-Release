@@ -1,0 +1,14 @@
+[
+  {
+    "author": {
+      "name": "Mysterious Meat Locations",
+      "icon_url": "https://api.ambr.top/assets/UI/UI_ItemIcon_100097.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/MMeat/Map_MMeat.jpg"
+    }
+  }
+]

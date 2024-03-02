@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Spread: C0R1 Light of Foliar Incision",
+    "filter": true,
+    "eval": "if (!stats.CHARGE_FLAT_DMG){ stats.CHARGE_FLAT_DMG = 0; } stats.CHARGE_FLAT_DMG = 1.2 * stats.ELEMENT_MASTERY; if (!stats.SKILL_FLAT_DMG){ stats.SKILL_FLAT_DMG = 0; } stats.SKILL_FLAT_DMG = 1.2 * stats.ELEMENT_MASTERY; stats.SKILL_FLAT_DMG += Math.min(1, stats.ELEMENT_MASTERY * 0.001); if (!stats.BURST_FLAT_DMG){ stats.BURST_FLAT_DMG = 0; } stats.BURST_FLAT_DMG += Math.min(1, stats.ELEMENT_MASTERY * 0.001)",
+    "sets": {
+      "gd": [
+        1,
+        2
+      ]
+    },
+    "buffs": {
+      "RES_SHRED": 0.3,
+      "ELEMENT_MASTERY": 250
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "charged",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "spread",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "charged",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "skill",
+          "rushDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "spread",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "skill_atk",
+          "rushDmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "plunging",
+          "low"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "spread",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "mirrorDmg2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "skill_atk",
+          "mirrorDmg2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "mirrorDmg2"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "spread",
+        "bonusStats": {}
+      },
+      {
+        "weight": 8,
+        "path": [
+          "skill",
+          "mirrorDmg3"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 18,
+        "path": [
+          "skill_atk",
+          "mirrorDmg3"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 10,
+        "path": [
+          "skill",
+          "mirrorDmg3"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "spread",
+        "bonusStats": {}
+      },
+      {
+        "weight": 6,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "spread",
+        "bonusStats": {}
+      },
+      {
+        "weight": 8,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 6,
+        "path": [
+          "normal",
+          "2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 10,
+        "path": [
+          "normal",
+          "2"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "spread",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "burst",
+          "instanceDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "spread",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "burst",
+          "instanceDmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "burst_atk",
+          "instanceDmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  }
+]

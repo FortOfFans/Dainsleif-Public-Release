@@ -1,0 +1,38 @@
+[
+  {
+    "author": {
+      "name": "Dendrobium Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_101204.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Dendrobium/Map_Dendrobium_1.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Dendrobium Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_101204.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Dendrobium/Map_Dendrobium_2.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Dendrobium Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_101204.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Dendrobium/Map_Dendrobium_3.jpg"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Possible Character usage:",
+    "footer": {
+      "text": "Weapon Usage Recommendation"
+    },
+    "fields": [
+      {
+        "name": "Recommended",
+        "value": "Bennett (DPS)\nJean (Sunfire)\nKaeya (Melt)\nKaedehara Kazuha\nKeqing (Aggravate)\nKuki Shinobu\nNilou\nTraveler (Anemo)",
+        "inline": true
+      },
+      {
+        "name": "Cope",
+        "value": "The rest",
+        "inline": true
+      }
+    ]
+  }
+]

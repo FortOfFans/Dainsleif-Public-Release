@@ -1,0 +1,50 @@
+[
+  {
+    "author": {
+      "name": "UnagiMeat Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_100095.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/UnagiMeat/Map_UnagiMeat_1.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "UnagiMeat Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_100095.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/UnagiMeat/Map_UnagiMeat_2.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Unagi Meat Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_100095.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/UnagiMeat/Map_UnagiMeat_3.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "UnagiMeat Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_100095.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/UnagiMeat/Map_UnagiMeat_4.jpg"
+    }
+  }
+]

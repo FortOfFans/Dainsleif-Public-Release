@@ -1,0 +1,17 @@
+{
+    "burst": {
+        "dmgInc": 0.69
+    },
+    "stats": {
+        "Support: C6R5 Favonius Lance": {
+            "BASE_DEFENSE": 734,
+            "DEFENSE_PERCENT": 0,
+            "DEFENSE": 0,
+            "CHARGE_EFFICIENCY": 0.573
+        },
+
+        "scaling": "DEFENSE",
+        "dmgType": "ROCK",
+        "avatarId": "10000064"
+    }
+}

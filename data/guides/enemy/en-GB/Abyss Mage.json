@@ -1,0 +1,408 @@
+[
+	{
+		"author": {
+			"name": "Abyss Mage Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Abyss_Electric_01.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Mage/Map_Mage_1.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112020:989399020302643290> Dead Ley Line Branch",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112021:989399021523189811> Dead Ley Line Leaves",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112022:989399023158964224> Ley Line Sprout",
+				"inline": false
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Abyss Mage Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Abyss_Electric_01.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Mage/Map_Mage_2.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112020:989399020302643290> Dead Ley Line Branch",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112021:989399021523189811> Dead Ley Line Leaves",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112022:989399023158964224> Ley Line Sprout",
+				"inline": false
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Abyss Mage Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Abyss_Electric_01.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Mage/Map_Mage_3.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112020:989399020302643290> Dead Ley Line Branch",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112021:989399021523189811> Dead Ley Line Leaves",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112022:989399023158964224> Ley Line Sprout",
+				"inline": false
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Abyss Mage Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Abyss_Electric_01.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Mage/Map_Mage_4.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112020:989399020302643290> Dead Ley Line Branch",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112021:989399021523189811> Dead Ley Line Leaves",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112022:989399023158964224> Ley Line Sprout",
+				"inline": false
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Abyss Mage Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Abyss_Electric_01.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Mage/Map_Mage_5.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112020:989399020302643290> Dead Ley Line Branch",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112021:989399021523189811> Dead Ley Line Leaves",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112022:989399023158964224> Ley Line Sprout",
+				"inline": false
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Abyss Mage Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Abyss_Electric_01.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Mage/Map_Mage_6.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112020:989399020302643290> Dead Ley Line Branch",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112021:989399021523189811> Dead Ley Line Leaves",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112022:989399023158964224> Ley Line Sprout",
+				"inline": false
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Abyss Mage Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Abyss_Electric_01.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Mage/Map_Mage_7.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112020:989399020302643290> Dead Ley Line Branch",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112021:989399021523189811> Dead Ley Line Leaves",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112022:989399023158964224> Ley Line Sprout",
+				"inline": false
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Abyss Mage Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Abyss_Electric_01.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Mage/Map_Mage_8.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112020:989399020302643290> Dead Ley Line Branch",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112021:989399021523189811> Dead Ley Line Leaves",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112022:989399023158964224> Ley Line Sprout",
+				"inline": false
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Abyss Mage Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Abyss_Electric_01.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Mage/Map_Mage_9.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112020:989399020302643290> Dead Ley Line Branch",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112021:989399021523189811> Dead Ley Line Leaves",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112022:989399023158964224> Ley Line Sprout",
+				"inline": false
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Abyss Mage Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Abyss_Electric_01.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Mage/Map_Mage_10.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112020:989399020302643290> Dead Ley Line Branch",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112021:989399021523189811> Dead Ley Line Leaves",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112022:989399023158964224> Ley Line Sprout",
+				"inline": false
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Abyss Mage Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Abyss_Electric_01.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Mage/Map_Mage_11.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112020:989399020302643290> Dead Ley Line Branch",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112021:989399021523189811> Dead Ley Line Leaves",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112022:989399023158964224> Ley Line Sprout",
+				"inline": false
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Abyss Mage Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Abyss_Electric_01.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Mage/Map_Mage_12.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112020:989399020302643290> Dead Ley Line Branch",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112021:989399021523189811> Dead Ley Line Leaves",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112022:989399023158964224> Ley Line Sprout",
+				"inline": false
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Abyss Mage Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Abyss_Electric_01.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Mage/Map_Mage_13.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112020:989399020302643290> Dead Ley Line Branch",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112021:989399021523189811> Dead Ley Line Leaves",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112022:989399023158964224> Ley Line Sprout",
+				"inline": false
+			}
+		]
+	},
+	{
+		"author": {
+			"name": "Abyss Mage Locations",
+			"icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MonsterIcon_Abyss_Electric_01.png"
+		},
+		"footer": {
+			"text": "Farmable Enemy locations."
+		},
+		"image": {
+			"url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Enemies/Mage/Map_Mage_14.jpg"
+		},
+		"fields": [
+			{
+				"name": "Tier 1 Material",
+				"value": "<:UI_ItemIcon_112020:989399020302643290> Dead Ley Line Branch",
+				"inline": true
+			},
+			{
+				"name": "Tier 2 Material",
+				"value": "<:UI_ItemIcon_112021:989399021523189811> Dead Ley Line Leaves",
+				"inline": true
+			},
+			{
+				"name": "Tier 3 Material",
+				"value": "<:UI_ItemIcon_112022:989399023158964224> Ley Line Sprout",
+				"inline": false
+			}
+		]
+	}
+]

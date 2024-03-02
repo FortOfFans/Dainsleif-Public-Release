@@ -1,0 +1,27 @@
+[
+  {
+    "title": "The End of the Line Fish exchange requirements",
+    "description": "[Best fishing Location for The End of the Line!]()",
+    "auhtor": {
+      "iconURL": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_EquipIcon_Bow_Fin_Awaken.png"
+    },
+    "footer": {
+      "text": "Fishing Material Breakdown."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Extras/Map_Fishing_Trawler.jpg"
+    },
+    "fields": [
+      {
+        "name": "1x Bow: The End of the Line",
+        "value": "6 - <:UI_ItemIcon_131024:998816995506139186> Peach of the Deep Waves\n20 - <:UI_ItemIcon_131027:998817000442822757> Lazurite Axe Marlin\n20 - <:UI_ItemIcon_131028:998817002493849682> Halcyon Jade Axe Marlin",
+        "inline": true
+      },
+      {
+        "name": "4x Refinement material",
+        "value": "3 - <:UI_ItemIcon_131024:998816995506139186> Peach of the Deep Waves\n10 - <:UI_ItemIcon_131027:998817000442822757> Lazurite Axe Marlin\n10 - <:UI_ItemIcon_131028:998817002493849682> Halcyon Jade Axe Marlin",
+        "inline": true
+      }
+    ]
+  }
+]

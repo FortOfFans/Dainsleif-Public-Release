@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Possible Character usage:",
+    "footer": {
+      "text": "Weapon Usage Recommendation"
+    },
+    "fields": [
+      {
+        "name": "Recommended",
+        "value": "Lisa (Overload)\nYanfei (Overload)",
+        "inline": true
+      },
+      {
+        "name": "Cope",
+        "value": "The rest",
+        "inline": true
+      }
+    ]
+  }
+]

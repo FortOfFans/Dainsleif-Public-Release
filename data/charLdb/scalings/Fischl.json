@@ -1,0 +1,60 @@
+{
+    "burst": {
+        "additionalDmg": 2.22,
+        "dmg": 4.16
+    },
+    "constellation6": {
+        "ozActiveCharDmg": 0.3
+    },
+
+    "passive2": {
+        "dmg": 0.8
+    },
+
+    "skill": {
+        "ozDmg": 1.78,
+        "summonDmg": 2.31
+    },
+
+    "stats": {
+        "Aggravate (Keqing): C6R1 Polar Star": {
+            "BASE_ATTACK": 852,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0.54,
+
+            "CRITICAL": 0.381,
+            "CRITICAL_HURT": 0.5,
+            "ELEMENT_MASTERY": 0,
+            "ELEC_ADD_HURT": 0,
+            "SKILL_PERCENT": 0.12,
+            "BURST_PERCENT": 0.12
+        },
+
+        "Aggravate (Keqing): C6R1 Thundering Pulse": {
+            "BASE_ATTACK": 852,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0.44,
+
+            "CRITICAL": 0.05,
+            "CRITICAL_HURT": 1.162,
+            "ELEMENT_MASTERY": 0,
+            "ELEC_ADD_HURT": 0
+        },
+
+        "Aggravate (Keqing): C6R5 The Stringless": {
+            "BASE_ATTACK": 754,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0.24,
+
+            "CRITICAL": 0.05,
+            "CRITICAL_HURT": 0.5,
+            "ELEMENT_MASTERY": 165,
+            "ELEC_ADD_HURT": 0,
+            "SKILL_PERCENT": 0.48,
+            "BURST_PERCENT": 0.48
+        },
+
+        "dmgType": "ELEC",
+        "avatarId": "10000031"
+    }
+}

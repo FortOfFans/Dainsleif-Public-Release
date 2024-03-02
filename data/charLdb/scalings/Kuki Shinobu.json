@@ -1,0 +1,59 @@
+{
+    "burst": {
+        "scaling": "HP",
+        "singleDmg": 0.072
+    },
+    "constellation4": {
+        "scaling": "HP",
+        "markDmg": 0.097
+    },
+    "heal": {
+        "scaling": "HP",
+        "skill": 0.06,
+        "base": 739
+    },
+    "passive2": {
+        "scaling": "ELEMENT_MASTERY",
+        "a4Skill_dmgInc": 0.25,
+        "a4Skill_healInc": 0.75
+    },
+    "skill": {
+        "scaling": "ATTACK",
+        "pressDmg": 1.51,
+        "ringDmg": 0.505
+    },
+    "stats": {
+        "Aggravate: C6R1 Light of Foliar Incision": {
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+            "BASE_ATTACK": 754,
+            "BASE_HP": 12289,
+            "BURST_PERCENT": 0,
+            "CATALYZE_PERCENT": 0,
+            "CHARGE_PERCENT": 0,
+            "CRITICAL": 0.09,
+            "CRITICAL_HURT": 1.382,
+            "ELEMENT_MASTERY": 0,
+            "ELEC_ADD_HURT": 0,
+            "HP": 0,
+            "HP_PERCENT": 0.24,
+            "NORMAL_FLAT_DMG": 0,
+            "NORMAL_PERCENT": 0,
+            "RES_SHRED": 0
+        },
+
+        "Hyperbloom: C6R1 Iron Sting": {
+            "ELEMENT_MASTERY": 165
+        },
+
+        "Healer: C6R1 Key of Khaj-Nisut": {
+            "ELEMENT_MASTERY": 165,
+            "BASE_HP": 12289,
+            "HP": 0,
+            "HP_PERCENT": 0.902
+        },
+
+        "dmgType": "ELEC",
+        "avatarId": "10000065"
+    }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "author": {
+      "name": "Character Resin Cost ",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_210.png"
+    },
+    "footer": {
+      "text": "Resin Cost breakdown for a fully maxed out Genshin Character."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Base/Resin.jpg"
+    }
+  }
+]

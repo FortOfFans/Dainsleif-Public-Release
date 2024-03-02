@@ -1,0 +1,422 @@
+[
+  {
+    "iconName": "UI_AvatarIcon_Kate",
+    "id": 10000001,
+    "sideIconName": "UI_AvatarIcon_Side_Kate",
+    "name": "Kate"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Ayaka",
+    "id": 10000002,
+    "sideIconName": "UI_AvatarIcon_Side_Ayaka",
+    "name": "Kamisato Ayaka"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Qin",
+    "id": 10000003,
+    "sideIconName": "UI_AvatarIcon_Side_Qin",
+    "name": "Jean"
+  },
+  {
+    "iconName": "UI_AvatarIcon_PlayerBoy",
+    "id": 10000005,
+    "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
+    "name": "Aether"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Lisa",
+    "id": 10000006,
+    "sideIconName": "UI_AvatarIcon_Side_Lisa",
+    "name": "Lisa"
+  },
+  {
+    "iconName": "UI_AvatarIcon_PlayerGirl",
+    "id": 10000007,
+    "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
+    "name": "Lumine"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Barbara",
+    "id": 10000014,
+    "sideIconName": "UI_AvatarIcon_Side_Barbara",
+    "name": "Barbara"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Kaeya",
+    "id": 10000015,
+    "sideIconName": "UI_AvatarIcon_Side_Kaeya",
+    "name": "Kaeya"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Diluc",
+    "id": 10000016,
+    "sideIconName": "UI_AvatarIcon_Side_Diluc",
+    "name": "Diluc"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Razor",
+    "id": 10000020,
+    "sideIconName": "UI_AvatarIcon_Side_Razor",
+    "name": "Razor"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Ambor",
+    "id": 10000021,
+    "sideIconName": "UI_AvatarIcon_Side_Ambor",
+    "name": "Amber"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Venti",
+    "id": 10000022,
+    "sideIconName": "UI_AvatarIcon_Side_Venti",
+    "name": "Venti"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Xiangling",
+    "id": 10000023,
+    "sideIconName": "UI_AvatarIcon_Side_Xiangling",
+    "name": "Xiangling"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Beidou",
+    "id": 10000024,
+    "sideIconName": "UI_AvatarIcon_Side_Beidou",
+    "name": "Beidou"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Xingqiu",
+    "id": 10000025,
+    "sideIconName": "UI_AvatarIcon_Side_Xingqiu",
+    "name": "Xingqiu"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Xiao",
+    "id": 10000026,
+    "sideIconName": "UI_AvatarIcon_Side_Xiao",
+    "name": "Xiao"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Ningguang",
+    "id": 10000027,
+    "sideIconName": "UI_AvatarIcon_Side_Ningguang",
+    "name": "Ningguang"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Klee",
+    "id": 10000029,
+    "sideIconName": "UI_AvatarIcon_Side_Klee",
+    "name": "Klee"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Zhongli",
+    "id": 10000030,
+    "sideIconName": "UI_AvatarIcon_Side_Zhongli",
+    "name": "Zhongli"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Fischl",
+    "id": 10000031,
+    "sideIconName": "UI_AvatarIcon_Side_Fischl",
+    "name": "Fischl"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Bennett",
+    "id": 10000032,
+    "sideIconName": "UI_AvatarIcon_Side_Bennett",
+    "name": "Bennett"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Tartaglia",
+    "id": 10000033,
+    "sideIconName": "UI_AvatarIcon_Side_Tartaglia",
+    "name": "Tartaglia"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Noel",
+    "id": 10000034,
+    "sideIconName": "UI_AvatarIcon_Side_Noel",
+    "name": "Noelle"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Qiqi",
+    "id": 10000035,
+    "sideIconName": "UI_AvatarIcon_Side_Qiqi",
+    "name": "Qiqi"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Chongyun",
+    "id": 10000036,
+    "sideIconName": "UI_AvatarIcon_Side_Chongyun",
+    "name": "Chongyun"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Ganyu",
+    "id": 10000037,
+    "sideIconName": "UI_AvatarIcon_Side_Ganyu",
+    "name": "Ganyu"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Albedo",
+    "id": 10000038,
+    "sideIconName": "UI_AvatarIcon_Side_Albedo",
+    "name": "Albedo"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Diona",
+    "id": 10000039,
+    "sideIconName": "UI_AvatarIcon_Side_Diona",
+    "name": "Diona"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Mona",
+    "id": 10000041,
+    "sideIconName": "UI_AvatarIcon_Side_Mona",
+    "name": "Mona"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Keqing",
+    "id": 10000042,
+    "sideIconName": "UI_AvatarIcon_Side_Keqing",
+    "name": "Keqing"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Sucrose",
+    "id": 10000043,
+    "sideIconName": "UI_AvatarIcon_Side_Sucrose",
+    "name": "Sucrose"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Xinyan",
+    "id": 10000044,
+    "sideIconName": "UI_AvatarIcon_Side_Xinyan",
+    "name": "Xinyan"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Rosaria",
+    "id": 10000045,
+    "sideIconName": "UI_AvatarIcon_Side_Rosaria",
+    "name": "Rosaria"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Hutao",
+    "id": 10000046,
+    "sideIconName": "UI_AvatarIcon_Side_Hutao",
+    "name": "Hu Tao"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Kazuha",
+    "id": 10000047,
+    "sideIconName": "UI_AvatarIcon_Side_Kazuha",
+    "name": "Kaedehara Kazuha"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Feiyan",
+    "id": 10000048,
+    "sideIconName": "UI_AvatarIcon_Side_Feiyan",
+    "name": "Yanfei"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Yoimiya",
+    "id": 10000049,
+    "sideIconName": "UI_AvatarIcon_Side_Yoimiya",
+    "name": "Yoimiya"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Tohma",
+    "id": 10000050,
+    "sideIconName": "UI_AvatarIcon_Side_Tohma",
+    "name": "Thoma"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Eula",
+    "id": 10000051,
+    "sideIconName": "UI_AvatarIcon_Side_Eula",
+    "name": "Eula"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Shougun",
+    "id": 10000052,
+    "sideIconName": "UI_AvatarIcon_Side_Shougun",
+    "name": "Raiden Shogun"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Sayu",
+    "id": 10000053,
+    "sideIconName": "UI_AvatarIcon_Side_Sayu",
+    "name": "Sayu"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Kokomi",
+    "id": 10000054,
+    "sideIconName": "UI_AvatarIcon_Side_Kokomi",
+    "name": "Sangonomiya Kokomi"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Gorou",
+    "id": 10000055,
+    "sideIconName": "UI_AvatarIcon_Side_Gorou",
+    "name": "Gorou"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Sara",
+    "id": 10000056,
+    "sideIconName": "UI_AvatarIcon_Side_Sara",
+    "name": "Kujou Sara"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Itto",
+    "id": 10000057,
+    "sideIconName": "UI_AvatarIcon_Side_Itto",
+    "name": "Arataki Itto"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Yae",
+    "id": 10000058,
+    "sideIconName": "UI_AvatarIcon_Side_Yae",
+    "name": "Yae Miko"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Heizo",
+    "id": 10000059,
+    "sideIconName": "UI_AvatarIcon_Side_Heizo",
+    "name": "Shikanoin Heizou"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Yelan",
+    "id": 10000060,
+    "sideIconName": "UI_AvatarIcon_Side_Yelan",
+    "name": "Yelan"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Momoka",
+    "id": 10000061,
+    "sideIconName": "UI_AvatarIcon_Side_Momoka",
+    "name": "Kirara"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Aloy",
+    "id": 10000062,
+    "sideIconName": "UI_AvatarIcon_Side_Aloy",
+    "name": "Aloy"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Shenhe",
+    "id": 10000063,
+    "sideIconName": "UI_AvatarIcon_Side_Shenhe",
+    "name": "Shenhe"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Yunjin",
+    "id": 10000064,
+    "sideIconName": "UI_AvatarIcon_Side_Yunjin",
+    "name": "Yun Jin"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Shinobu",
+    "id": 10000065,
+    "sideIconName": "UI_AvatarIcon_Side_Shinobu",
+    "name": "Kuki Shinobu"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Ayato",
+    "id": 10000066,
+    "sideIconName": "UI_AvatarIcon_Side_Ayato",
+    "name": "Kamisato Ayato"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Collei",
+    "id": 10000067,
+    "sideIconName": "UI_AvatarIcon_Side_Collei",
+    "name": "Collei"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Dori",
+    "id": 10000068,
+    "sideIconName": "UI_AvatarIcon_Side_Dori",
+    "name": "Dori"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Tighnari",
+    "id": 10000069,
+    "sideIconName": "UI_AvatarIcon_Side_Tighnari",
+    "name": "Tighnari"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Nilou",
+    "id": 10000070,
+    "sideIconName": "UI_AvatarIcon_Side_Nilou",
+    "name": "Nilou"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Cyno",
+    "id": 10000071,
+    "sideIconName": "UI_AvatarIcon_Side_Cyno",
+    "name": "Cyno"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Candace",
+    "id": 10000072,
+    "sideIconName": "UI_AvatarIcon_Side_Candace",
+    "name": "Candace"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Nahida",
+    "id": 10000073,
+    "sideIconName": "UI_AvatarIcon_Side_Nahida",
+    "name": "Nahida"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Layla",
+    "id": 10000074,
+    "sideIconName": "UI_AvatarIcon_Side_Layla",
+    "name": "Layla"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Wanderer",
+    "id": 10000075,
+    "sideIconName": "UI_AvatarIcon_Side_Wanderer",
+    "name": "Wanderer"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Faruzan",
+    "id": 10000076,
+    "sideIconName": "UI_AvatarIcon_Side_Faruzan",
+    "name": "Faruzan"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Yaoyao",
+    "id": 10000077,
+    "sideIconName": "UI_AvatarIcon_Side_Yaoyao",
+    "name": "Yaoyao"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Alhatham",
+    "id": 10000078,
+    "sideIconName": "UI_AvatarIcon_Side_Alhatham",
+    "name": "Alhaitham"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Dehya",
+    "id": 10000079,
+    "sideIconName": "UI_AvatarIcon_Side_Dehya",
+    "name": "Dehya"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Mika",
+    "id": 10000080,
+    "sideIconName": "UI_AvatarIcon_Side_Mika",
+    "name": "Mika"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Kaveh",
+    "id": 10000081,
+    "sideIconName": "UI_AvatarIcon_Side_Kaveh",
+    "name": "Mika"
+  },
+  {
+    "iconName": "UI_AvatarIcon_Baizhuer",
+    "id": 10000082,
+    "sideIconName": "UI_AvatarIcon_Side_Baizhuer",
+    "name": "Baizhu"
+  }
+]

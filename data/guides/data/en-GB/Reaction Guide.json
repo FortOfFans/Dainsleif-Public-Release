@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Elemental Reaction Guide",
+    "description": "**__Pyro -> Cryo__** = Strong melt, 2x multiplier.\n\n**__Cryo -> Pyro__** = Weak melt, 1.5x multiplier.\n\n**__Hydro -> Pyro__** = Strong vaporise, 2x multiplier.\n\n**__Pyro -> Hydro__** = Weak vaporise, 1.5x multiplier.\n\n**__Pyro -> Electro__** (or vice versa) = Overload, explosion that knockbacks light/medium enemies and deals dmg in the process.\n\n**__Pyro -> Dendro__** (or vice versa) = Burning, deals Pyro DoT towards the inflicted enemy\n\n**__Hydro -> Electro__** (or vice versa) = Electro-charged, deals Electro DoT and also stuns the enemies + connects to other enemies inflicted with hydro.\n\n**__Cryo -> Electro__** (or vice versa) = Superconduct, deals AoE cryo dmg and reduces enemy physical resistance.\n\n**__Anemo -> Pyro/Hydro/Electro/Cryo__** = Swirl, spreads the element to surrounding enemies while dealing dmg in the process. Can cause [chain reactions](https://media.discordapp.net/attachments/864924254360567841/911320372031393852/image0.png) in the process\n\n**__Geo -> Pyro/Hydro/Electro/Cryo__** = Crystallize, drops a crystal that creates a shield when you pick it up. Has increased dmg absorption against attacks with the respective element geo reacted with.",
+    "thumbnail": {
+      "url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MessageIcon_Melting"
+    },
+    "footer": {
+      "text": "Via: Cadetic"
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "description": "The Serpents Bowels' Fishing Spot",
+    "author": {
+      "name": "Enkanomiya's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200903.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Enkanomiya/Map_Fishing_Serpent3.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131005:998816738898616371> Crystalfish\n<:UI_ItemIcon_131006:998816740073013288> Lunged Stickleback",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131021:998824414265233498> Divda Ray\n<:UI_ItemIcon_131022:998824415850672198> Formalo Ray",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "The Serpents Heart's Fishing Spot 1",
+    "author": {
+      "name": "Enkanomiya's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200903.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Enkanomiya/Map_Fishing_Serpent1.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131004:998816737137008640> Dawncatcher\n<:UI_ItemIcon_131009:998816744036634724> Akai Maou",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131021:998824414265233498> Divda Ray\n<:UI_ItemIcon_131022:998824415850672198> Formalo Ray",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "The Serpents Heart's Fishing Spot 2",
+    "author": {
+      "name": "Enkanomiya's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200903.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Enkanomiya/Map_Fishing_Serpent2.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131004:998816737137008640> Dawncatcher\n<:UI_ItemIcon_131014:998816752064536606> Purple Shirakodai",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131021:998824414265233498> Divda Ray\n<:UI_ItemIcon_131022:998824415850672198> Formalo Ray",
+        "inline": true
+      }
+    ]
+  }
+]

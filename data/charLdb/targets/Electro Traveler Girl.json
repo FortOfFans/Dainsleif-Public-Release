@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Hyperbloom: C0R1 Freedom-Sworn",
+    "filter": true,
+    "sets": {
+      "gd": [0, 3],
+      "fopl": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "reaction",
+          "hyperbloom"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  }
+]

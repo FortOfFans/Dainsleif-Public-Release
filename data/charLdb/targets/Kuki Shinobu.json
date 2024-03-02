@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Aggravate: C6R1 Light of Foliar Incision",
+    "filter": "true",
+    "sets": {
+      "no": true,
+      "gd": [1, 2],
+      "tf": true,
+      "ts": true
+    },
+    "buffs": {
+      "ELEC_ADD_HURT": 0.32,
+      "ELEMENT_MASTERY": 250
+    },
+    "targets": [
+      {
+        "weight": 5,
+        "path": [
+          "burst",
+          "singleDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 8,
+        "path": [
+          "burst",
+          "singleDmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "skill",
+          "pressDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "skill",
+          "ringDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      },
+      {
+        "weight": 5,
+        "path": [
+          "skill",
+          "ringDmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 5,
+        "path": [
+          "passive2",
+          "a4Skill_dmgInc"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "constellation4",
+          "markDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "aggravate",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Hyperbloom: C6R1 Iron Sting",
+    "filter": true,
+    "sets": {
+      "gd": [0, 3],
+      "fopl": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "reaction",
+          "hyperbloom"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Healer: C6R1 Key of Khaj-Nisut",
+    "filter": true,
+    "sets": {
+      "mb": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "skill"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "base"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {},
+        "flat": true
+      },
+      {
+        "weight": 1,
+        "path": [
+          "passive2",
+          "a4Skill_healInc"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {},
+        "flat": true
+      }
+    ]
+  }
+]

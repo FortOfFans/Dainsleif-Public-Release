@@ -1,0 +1,797 @@
+[
+  {
+    "name": "Dull Blade",
+    "icon": "UI_EquipIcon_Sword_Blunt",
+    "id": 11101
+  },
+  {
+    "name": "Silver Sword",
+    "icon": "UI_EquipIcon_Sword_Silver",
+    "id": 11201
+  },
+  {
+    "name": "Cool Steel",
+    "icon": "UI_EquipIcon_Sword_Steel",
+    "id": 11301
+  },
+  {
+    "name": "Harbinger of Dawn",
+    "icon": "UI_EquipIcon_Sword_Dawn",
+    "id": 11302
+  },
+  {
+    "name": "Traveler's Handy Sword",
+    "icon": "UI_EquipIcon_Sword_Traveler",
+    "id": 11303
+  },
+  {
+    "name": "Dark Iron Sword",
+    "icon": "UI_EquipIcon_Sword_Darker",
+    "id": 11304
+  },
+  {
+    "name": "Fillet Blade",
+    "icon": "UI_EquipIcon_Sword_Sashimi",
+    "id": 11305
+  },
+  {
+    "name": "Skyrider Sword",
+    "icon": "UI_EquipIcon_Sword_Mitsurugi",
+    "id": 11306
+  },
+  {
+    "name": "Favonius Sword",
+    "icon": "UI_EquipIcon_Sword_Zephyrus",
+    "id": 11401
+  },
+  {
+    "name": "The Flute",
+    "icon": "UI_EquipIcon_Sword_Troupe",
+    "id": 11402
+  },
+  {
+    "name": "Sacrificial Sword",
+    "icon": "UI_EquipIcon_Sword_Fossil",
+    "id": 11403
+  },
+  {
+    "name": "Royal Longsword",
+    "icon": "UI_EquipIcon_Sword_Theocrat",
+    "id": 11404
+  },
+  {
+    "name": "Lion's Roar",
+    "icon": "UI_EquipIcon_Sword_Rockkiller",
+    "id": 11405
+  },
+  {
+    "name": "Prototype Rancour",
+    "icon": "UI_EquipIcon_Sword_Proto",
+    "id": 11406
+  },
+  {
+    "name": "Iron Sting",
+    "icon": "UI_EquipIcon_Sword_Exotic",
+    "id": 11407
+  },
+  {
+    "name": "Blackcliff Longsword",
+    "icon": "UI_EquipIcon_Sword_Blackrock",
+    "id": 11408
+  },
+  {
+    "name": "The Black Sword",
+    "icon": "UI_EquipIcon_Sword_Bloodstained",
+    "id": 11409
+  },
+  {
+    "name": "The Alley Flash",
+    "icon": "UI_EquipIcon_Sword_Outlaw",
+    "id": 11410
+  },
+  {
+    "name": "Sword of Descension",
+    "icon": "UI_EquipIcon_Sword_Psalmus",
+    "id": 11412
+  },
+  {
+    "name": "Festering Desire",
+    "icon": "UI_EquipIcon_Sword_Magnum",
+    "id": 11413
+  },
+  {
+    "name": "Amenoma Kageuchi",
+    "icon": "UI_EquipIcon_Sword_Bakufu",
+    "id": 11414
+  },
+  {
+    "name": "Cinnabar Spindle",
+    "icon": "UI_EquipIcon_Sword_Opus",
+    "id": 11415
+  },
+  {
+    "name": "Kagotsurube Isshin",
+    "icon": "UI_EquipIcon_Sword_Youtou",
+    "id": 11416
+  },
+  {
+    "name": "Sapwood Blade",
+    "icon": "UI_EquipIcon_Sword_Arakalari",
+    "id": 11417
+  },
+  {
+    "name": "Xiphos' Moonlight",
+    "icon": "UI_EquipIcon_Sword_Pleroma",
+    "id": 11418
+  },
+  {
+    "name": "Aquila Favonia",
+    "icon": "UI_EquipIcon_Sword_Falcon",
+    "id": 11501
+  },
+  {
+    "name": "Skyward Blade",
+    "icon": "UI_EquipIcon_Sword_Dvalin",
+    "id": 11502
+  },
+  {
+    "name": "Freedom-Sworn",
+    "icon": "UI_EquipIcon_Sword_Widsith",
+    "id": 11503
+  },
+  {
+    "name": "Summit Shaper",
+    "icon": "UI_EquipIcon_Sword_Kunwu",
+    "id": 11504
+  },
+  {
+    "name": "Primordial Jade Cutter",
+    "icon": "UI_EquipIcon_Sword_Morax",
+    "id": 11505
+  },
+  {
+    "name": "Haran Geppaku Futsu",
+    "icon": "UI_EquipIcon_Sword_Blunt",
+    "id": 11507
+  },
+  {
+    "name": "Mistsplitter Reforged",
+    "icon": "UI_EquipIcon_Sword_Narukami",
+    "id": 11509
+  },
+  {
+    "name": "Haran Geppaku Futsu",
+    "icon": "UI_EquipIcon_Sword_Amenoma",
+    "id": 11510
+  },
+  {
+    "name": "Key of Hierophany",
+    "icon": "UI_EquipIcon_Sword_Deshret",
+    "id": "11511"
+  },
+  {
+    "name": "Waster Greatsword",
+    "icon": "UI_EquipIcon_Claymore_Aniki",
+    "id": 12101
+  },
+  {
+    "name": "Old Merc's Pal",
+    "icon": "UI_EquipIcon_Claymore_Oyaji",
+    "id": 12201
+  },
+  {
+    "name": "Ferrous Shadow",
+    "icon": "UI_EquipIcon_Claymore_Glaive",
+    "id": 12301
+  },
+  {
+    "name": "Bloodtainted Greatsword",
+    "icon": "UI_EquipIcon_Claymore_Siegfry",
+    "id": 12302
+  },
+  {
+    "name": "White Iron Greatsword",
+    "icon": "UI_EquipIcon_Claymore_Tin",
+    "id": 12303
+  },
+  {
+    "name": "Debate Club",
+    "icon": "UI_EquipIcon_Claymore_Reasoning",
+    "id": 12305
+  },
+  {
+    "name": "Skyrider Greatsword",
+    "icon": "UI_EquipIcon_Claymore_Mitsurugi",
+    "id": 12306
+  },
+  {
+    "name": "Favonius Greatsword",
+    "icon": "UI_EquipIcon_Claymore_Zephyrus",
+    "id": 12401
+  },
+  {
+    "name": "The Bell",
+    "icon": "UI_EquipIcon_Claymore_Troupe",
+    "id": 12402
+  },
+  {
+    "name": "Sacrificial Greatsword",
+    "icon": "UI_EquipIcon_Claymore_Fossil",
+    "id": 12403
+  },
+  {
+    "name": "Royal Greatsword",
+    "icon": "UI_EquipIcon_Claymore_Theocrat",
+    "id": 12404
+  },
+  {
+    "name": "Rainslasher",
+    "icon": "UI_EquipIcon_Claymore_Perdue",
+    "id": 12405
+  },
+  {
+    "name": "Prototype Archaic",
+    "icon": "UI_EquipIcon_Claymore_Proto",
+    "id": 12406
+  },
+  {
+    "name": "Whiteblind",
+    "icon": "UI_EquipIcon_Claymore_Exotic",
+    "id": 12407
+  },
+  {
+    "name": "Blackcliff Slasher",
+    "icon": "UI_EquipIcon_Claymore_Blackrock",
+    "id": 12408
+  },
+  {
+    "name": "Serpent Spine",
+    "icon": "UI_EquipIcon_Claymore_Kione",
+    "id": 12409
+  },
+  {
+    "name": "Lithic Blade",
+    "icon": "UI_EquipIcon_Claymore_Lapis",
+    "id": 12410
+  },
+  {
+    "name": "Snow-Tombed Starsilver",
+    "icon": "UI_EquipIcon_Claymore_Dragonfell",
+    "id": 12411
+  },
+  {
+    "name": "Luxurious Sea-Lord",
+    "icon": "UI_EquipIcon_Claymore_MillenniaTuna",
+    "id": 12412
+  },
+  {
+    "name": "Katsuragikiri Nagamasa",
+    "icon": "UI_EquipIcon_Claymore_Bakufu",
+    "id": 12414
+  },
+  {
+    "name": "Mahara Aquamarine",
+    "icon": "UI_EquipIcon_Claymore_Pleroma",
+    "id": 12415
+  },
+  {
+    "name": "Akuoumaru",
+    "icon": "UI_EquipIcon_Claymore_Maria",
+    "id": 12416
+  },
+  {
+    "name": "Forest Regalia",
+    "icon": "UI_EquipIcon_Claymore_Arakalari",
+    "id": 12417
+  },
+  {
+    "name": "Skyward Pride",
+    "icon": "UI_EquipIcon_Claymore_Dvalin",
+    "id": 12501
+  },
+  {
+    "name": "Wolf's Gravestone",
+    "icon": "UI_EquipIcon_Claymore_Wolfmound",
+    "id": 12502
+  },
+  {
+    "name": "Song of Broken Pines",
+    "icon": "UI_EquipIcon_Claymore_Widsith",
+    "id": 12503
+  },
+  {
+    "name": "The Unforged",
+    "icon": "UI_EquipIcon_Claymore_Kunwu",
+    "id": 12504
+  },
+  {
+    "name": "Primordial Jade Greatsword",
+    "icon": "UI_EquipIcon_Claymore_Aniki",
+    "id": 12505
+  },
+  {
+    "name": "Redhorn Stonethresher",
+    "icon": "UI_EquipIcon_Claymore_Itadorimaru",
+    "id": 12510
+  },
+  {
+    "name": "Beginner's Protector",
+    "icon": "UI_EquipIcon_Pole_Gewalt",
+    "id": 13101
+  },
+  {
+    "name": "Iron Point",
+    "icon": "UI_EquipIcon_Pole_Rod",
+    "id": 13201
+  },
+  {
+    "name": "White Tassel",
+    "icon": "UI_EquipIcon_Pole_Ruby",
+    "id": 13301
+  },
+  {
+    "name": "Halberd",
+    "icon": "UI_EquipIcon_Pole_Halberd",
+    "id": 13302
+  },
+  {
+    "name": "Black Tassel",
+    "icon": "UI_EquipIcon_Pole_Noire",
+    "id": 13303
+  },
+  {
+    "name": "Dragon's Bane",
+    "icon": "UI_EquipIcon_Pole_Stardust",
+    "id": 13401
+  },
+  {
+    "name": "Prototype Starglitter",
+    "icon": "UI_EquipIcon_Pole_Proto",
+    "id": 13402
+  },
+  {
+    "name": "Crescent Pike",
+    "icon": "UI_EquipIcon_Pole_Exotic",
+    "id": 13403
+  },
+  {
+    "name": "Blackcliff Pole",
+    "icon": "UI_EquipIcon_Pole_Blackrock",
+    "id": 13404
+  },
+  {
+    "name": "Deathmatch",
+    "icon": "UI_EquipIcon_Pole_Gladiator",
+    "id": 13405
+  },
+  {
+    "name": "Lithic Spear",
+    "icon": "UI_EquipIcon_Pole_Lapis",
+    "id": 13406
+  },
+  {
+    "name": "Favonius Lance",
+    "icon": "UI_EquipIcon_Pole_Zephyrus",
+    "id": 13407
+  },
+  {
+    "name": "Royal Spear",
+    "icon": "UI_EquipIcon_Pole_Theocrat",
+    "id": 13408
+  },
+  {
+    "name": "Dragonspine Spear",
+    "icon": "UI_EquipIcon_Pole_Everfrost",
+    "id": 13409
+  },
+  {
+    "name": "Kitain Cross Spear",
+    "icon": "UI_EquipIcon_Pole_Bakufu",
+    "id": 13414
+  },
+  {
+    "name": "\\\"The Catch\\\"",
+    "icon": "UI_EquipIcon_Pole_Mori",
+    "id": 13415
+  },
+  {
+    "name": "Wavebreaker's Fin",
+    "icon": "UI_EquipIcon_Pole_Maria",
+    "id": 13416
+  },
+  {
+    "name": "Moonpiercer",
+    "icon": "UI_EquipIcon_Pole_Arakalari",
+    "id": 13417
+  },
+  {
+    "name": "Shifting Windblade",
+    "icon": "UI_EquipIcon_Pole_Windvane",
+    "id": 13419
+  },
+  {
+    "name": "Staff of Homa",
+    "icon": "UI_EquipIcon_Pole_Homa",
+    "id": 13501
+  },
+  {
+    "name": "Skyward Spine",
+    "icon": "UI_EquipIcon_Pole_Dvalin",
+    "id": 13502
+  },
+  {
+    "name": "Vortex Vanquisher",
+    "icon": "UI_EquipIcon_Pole_Kunwu",
+    "id": 13504
+  },
+  {
+    "name": "Primordial Jade Winged-Spear",
+    "icon": "UI_EquipIcon_Pole_Morax",
+    "id": 13505
+  },
+  {
+    "name": "Calamity Queller",
+    "icon": "UI_EquipIcon_Pole_Santika",
+    "id": 13507
+  },
+  {
+    "name": "Engulfing Lightning",
+    "icon": "UI_EquipIcon_Pole_Narukami",
+    "id": 13509
+  },
+  {
+    "name": "Staff of the Scarlet Sands",
+    "icon": "UI_EquipIcon_Pole_Deshret",
+    "id": 13511
+  },
+  {
+    "name": "Apprentice's Notes",
+    "icon": "UI_EquipIcon_Catalyst_Apprentice",
+    "id": 14101
+  },
+  {
+    "name": "Pocket Grimoire",
+    "icon": "UI_EquipIcon_Catalyst_Pocket",
+    "id": 14201
+  },
+  {
+    "name": "Magic Guide",
+    "icon": "UI_EquipIcon_Catalyst_Intro",
+    "id": 14301
+  },
+  {
+    "name": "Thrilling Tales of Dragon Slayers",
+    "icon": "UI_EquipIcon_Catalyst_Pulpfic",
+    "id": 14302
+  },
+  {
+    "name": "Otherworldly Story",
+    "icon": "UI_EquipIcon_Catalyst_Lightnov",
+    "id": 14303
+  },
+  {
+    "name": "Emerald Orb",
+    "icon": "UI_EquipIcon_Catalyst_Jade",
+    "id": 14304
+  },
+  {
+    "name": "Twin Nephrite",
+    "icon": "UI_EquipIcon_Catalyst_Phoney",
+    "id": 14305
+  },
+  {
+    "name": "Favonius Codex",
+    "icon": "UI_EquipIcon_Catalyst_Zephyrus",
+    "id": 14401
+  },
+  {
+    "name": "The Widsith",
+    "icon": "UI_EquipIcon_Catalyst_Troupe",
+    "id": 14402
+  },
+  {
+    "name": "Sacrificial Fragments",
+    "icon": "UI_EquipIcon_Catalyst_Fossil",
+    "id": 14403
+  },
+  {
+    "name": "Royal Grimoire",
+    "icon": "UI_EquipIcon_Catalyst_Theocrat",
+    "id": 14404
+  },
+  {
+    "name": "Solar Pearl",
+    "icon": "UI_EquipIcon_Catalyst_Resurrection",
+    "id": 14405
+  },
+  {
+    "name": "Prototype Amber",
+    "icon": "UI_EquipIcon_Catalyst_Proto",
+    "id": 14406
+  },
+  {
+    "name": "Mappa Mare",
+    "icon": "UI_EquipIcon_Catalyst_Exotic",
+    "id": 14407
+  },
+  {
+    "name": "Blackcliff Agate",
+    "icon": "UI_EquipIcon_Catalyst_Blackrock",
+    "id": 14408
+  },
+  {
+    "name": "Eye of Perception",
+    "icon": "UI_EquipIcon_Catalyst_Truelens",
+    "id": 14409
+  },
+  {
+    "name": "Wine and Song",
+    "icon": "UI_EquipIcon_Catalyst_Outlaw",
+    "id": 14410
+  },
+  {
+    "name": "Frostbearer",
+    "icon": "UI_EquipIcon_Catalyst_Everfrost",
+    "id": 14412
+  },
+  {
+    "name": "Dodoco Tales",
+    "icon": "UI_EquipIcon_Catalyst_Ludiharpastum",
+    "id": 14413
+  },
+  {
+    "name": "Hakushin Ring",
+    "icon": "UI_EquipIcon_Catalyst_Bakufu",
+    "id": 14414
+  },
+  {
+  "name": "Oathsworn Eye",
+  "icon": "UI_EquipIcon_Catalyst_Jyanome",
+  "id": 14415
+  },
+  {
+    "name": "Wandering Evenstar",
+    "icon": "UI_EquipIcon_Catalyst_Pleroma",
+    "id": 14416
+  },
+  {
+  "name": "Fruit of Fulfillment",
+    "icon": "UI_EquipIcon_Catalyst_Arakalari",
+    "id": 14417
+  },
+  {
+    "name": "Skyward Atlas",
+    "icon": "UI_EquipIcon_Catalyst_Dvalin",
+    "id": 14501
+  },
+  {
+    "name": "Lost Prayer to the Sacred Winds",
+    "icon": "UI_EquipIcon_Catalyst_Fourwinds",
+    "id": 14502
+  },
+  {
+    "name": "Memory of Dust",
+    "icon": "UI_EquipIcon_Catalyst_Kunwu",
+    "id": 14504
+  },
+  {
+    "name": "Primordial Jade Regalia",
+    "icon": "UI_EquipIcon_Catalyst_Apprentice",
+    "id": 14505
+  },
+  {
+    "name": "Everlasting Moonglow",
+    "icon": "UI_EquipIcon_Catalyst_Kaleido",
+    "id": 14506
+  },
+  {
+    "name": "Kagura's Verity",
+    "icon": "UI_EquipIcon_Catalyst_Narukami",
+    "id": 14509
+  },
+  {
+    "name": "Hunter's Bow",
+    "icon": "UI_EquipIcon_Bow_Hunters",
+    "id": 15101
+  },
+  {
+    "name": "Seasoned Hunter's Bow",
+    "icon": "UI_EquipIcon_Bow_Old",
+    "id": 15201
+  },
+  {
+    "name": "Raven Bow",
+    "icon": "UI_EquipIcon_Bow_Crowfeather",
+    "id": 15301
+  },
+  {
+    "name": "Sharpshooter's Oath",
+    "icon": "UI_EquipIcon_Bow_Arjuna",
+    "id": 15302
+  },
+  {
+    "name": "Recurve Bow",
+    "icon": "UI_EquipIcon_Bow_Curve",
+    "id": 15303
+  },
+  {
+    "name": "Slingshot",
+    "icon": "UI_EquipIcon_Bow_Sling",
+    "id": 15304
+  },
+  {
+    "name": "Messenger",
+    "icon": "UI_EquipIcon_Bow_Msg",
+    "id": 15305
+  },
+  {
+    "name": "Favonius Warbow",
+    "icon": "UI_EquipIcon_Bow_Zephyrus",
+    "id": 15401
+  },
+  {
+    "name": "The Stringless",
+    "icon": "UI_EquipIcon_Bow_Troupe",
+    "id": 15402
+  },
+  {
+    "name": "Sacrificial Bow",
+    "icon": "UI_EquipIcon_Bow_Fossil",
+    "id": 15403
+  },
+  {
+    "name": "Royal Bow",
+    "icon": "UI_EquipIcon_Bow_Theocrat",
+    "id": 15404
+  },
+  {
+    "name": "Rust",
+    "icon": "UI_EquipIcon_Bow_Recluse",
+    "id": 15405
+  },
+  {
+    "name": "Prototype Crescent",
+    "icon": "UI_EquipIcon_Bow_Proto",
+    "id": 15406
+  },
+  {
+    "name": "Compound Bow",
+    "icon": "UI_EquipIcon_Bow_Exotic",
+    "id": 15407
+  },
+  {
+    "name": "Blackcliff Warbow",
+    "icon": "UI_EquipIcon_Bow_Blackrock",
+    "id": 15408
+  },
+  {
+    "name": "The Viridescent Hunt",
+    "icon": "UI_EquipIcon_Bow_Viridescent",
+    "id": 15409
+  },
+  {
+    "name": "Alley Hunter",
+    "icon": "UI_EquipIcon_Bow_Outlaw",
+    "id": 15410
+  },
+  {
+    "name": "Fading Twilight",
+    "icon": "UI_EquipIcon_Bow_Fallensun",
+    "id": 15411
+  },
+  {
+    "name": "Mitternachts Waltz",
+    "icon": "UI_EquipIcon_Bow_Nachtblind",
+    "id": 15412
+  },
+  {
+    "name": "Windblume Ode",
+    "icon": "UI_EquipIcon_Bow_Fleurfair",
+    "id": 15413
+  },
+  {
+    "name": "Hamayumi",
+    "icon": "UI_EquipIcon_Bow_Bakufu",
+    "id": 15414
+  },
+  {
+    "name": "Predator",
+    "icon": "UI_EquipIcon_Bow_Predator",
+    "id": 15415
+  },
+  {
+    "name": "Mouun's Moon",
+    "icon": "UI_EquipIcon_Bow_Maria",
+    "id": 15416
+  },
+  {
+    "name": "King's Squire",
+    "icon": "UI_EquipIcon_Bow_Arakalari",
+    "id": 15417
+  },
+  {
+    "name": "End of the Line",
+    "icon": "UI_EquipIcon_Bow_Fin",
+    "id": 15418
+  },
+  {
+    "name": "Skyward Harp",
+    "icon": "UI_EquipIcon_Bow_Dvalin",
+    "id": 15501
+  },
+  {
+    "name": "Amos' Bow",
+    "icon": "UI_EquipIcon_Bow_Amos",
+    "id": 15502
+  },
+  {
+    "name": "Elegy for the End",
+    "icon": "UI_EquipIcon_Bow_Widsith",
+    "id": 15503
+  },
+  {
+    "name": "Kunwu's Wyrmbane",
+    "icon": "UI_EquipIcon_Bow_Hunters",
+    "id": 15504
+  },
+  {
+    "name": "Primordial Jade Vista",
+    "icon": "UI_EquipIcon_Bow_Hunters",
+    "id": 15505
+  },
+  {
+    "name": "Polar Star",
+    "icon": "UI_EquipIcon_Bow_Worldbane",
+    "id": 15507
+  },
+  {
+    "name": "Aqua Simulacra",
+    "icon": "UI_EquipIcon_Bow_Kirin",
+    "id": 15508
+  },
+  {
+    "name": "Thundering Pulse",
+    "icon": "UI_EquipIcon_Bow_Narukami",
+    "id": 15509
+  },
+  {
+    "name": "Hunter's Path",
+    "icon": "UI_EquipIcon_Bow_Ayus",
+    "id": 15511
+  },
+  {
+    "name": "Forest Regalia",
+    "icon": "UI_EquipIcon_Claymore_Arakalari",
+    "id": 12417
+  },
+  {
+    "name": "Sapwood Blade",
+    "icon": "UI_EquipIcon_Sword_Arakalari",
+    "id": 11417
+  },
+  {
+    "name": "Moonpiercer",
+    "icon": "UI_EquipIcon_Pole_Arakalari",
+    "id": 13417
+  },
+  {
+    "name": "Fruit of Fulfillment",
+    "icon": "UI_EquipIcon_Catalyst_Arakalari",
+    "id": 14417
+  },
+  {
+    "name": "King's Squire",
+    "icon": "UI_EquipIcon_Bow_Arakalari",
+    "id": 15417
+  },
+  {
+    "name": "End of the Line",
+    "icon": "UI_EquipIcon_Bow_Fin",
+    "id": 15418
+  },
+  {
+    "name": "Hunter's Path",
+    "icon": "UI_EquipIcon_Bow_Ayus",
+    "id": 15511
+  }
+]

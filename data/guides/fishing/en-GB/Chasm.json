@@ -1,0 +1,52 @@
+[
+  {
+    "description": "Underground Waterway's Fishing Spot",
+    "author": {
+      "name": "Chasm's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200902.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Chasm/Map_Fishing_Undergrown.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131000:998816729138475038> Medaka\n<:UI_ItemIcon_131007:998816741100621886> Betta\n<:UI_ItemIcon_131009:998816744036634724> Akai Maou",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131013:998816750516842567> Brown Shirakodai\n<:UI_ItemIcon_131020:998816764739731536> Bitter Pufferfish",
+        "inline": true
+      }
+    ]
+  },
+  {
+    "description": "Nameless Ruins' Fishing Spot",
+    "author": {
+      "name": "Chasm's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200902.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Chasm/Map_Fishing_Nameless.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131002:998816733114671144> Sweet-Flower Medaka\n<:UI_ItemIcon_131004:998816737137008640> Dawncatcher\n<:UI_ItemIcon_131005:998816738898616371> Crystalfish",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131009:998816744036634724> Akai Maou\n<:UI_ItemIcon_131019:998816761157787669> Pufferfish",
+        "inline": true
+      }
+    ]
+  }
+]

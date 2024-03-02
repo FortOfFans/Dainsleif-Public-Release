@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Healer: C6R5 Black Tassel (Burst)",
+    "filter": true,
+    "sets": {
+      "mb": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "burst"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "base"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {},
+        "flat": true
+      }
+    ]
+  },
+  {
+    "name": "Healer: C6R5 Black Tassel (Tick)",
+    "filter": true,
+    "sets": {
+      "mb": true
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "burst_tick"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "heal",
+          "base_tick"
+        ],
+        "hitMode": "heal",
+        "bonusStats": {},
+        "flat": true
+      }
+    ]
+  }
+]

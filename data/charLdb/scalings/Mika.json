@@ -1,0 +1,26 @@
+{
+    "heal": {
+        "scaling": "HP",
+        "burst": 0.243,
+        "base": 2998,
+        "burst_tick": 0.049,
+        "base_tick": 2998
+    },
+
+    "stats": {
+        "Healer: C6R5 Black Tassel (Burst)": {
+            "BASE_HP": 12506,
+            "HP": 0,
+            "HP_PERCENT": 0.709
+        },
+
+        "Healer: C6R5 Black Tassel (Tick)": {
+            "BASE_HP": 12506,
+            "HP": 0,
+            "HP_PERCENT": 0.709
+        },
+
+        "dmgType": "ICE",
+        "avatarId": "10000080"
+    }
+}

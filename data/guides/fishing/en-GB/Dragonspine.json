@@ -1,0 +1,27 @@
+[
+  {
+    "description": "Dragonspine's Fishing Spot",
+    "author": {
+      "name": "Mondstadt's Fishing Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_200901.png"
+    },
+    "footer": {
+      "text": "Fishing Locations."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Fishing/Mondstadt/Map_Fishing_Dragonspine.jpg"
+    },
+    "fields": [
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131003:998816734633021441> Aizen Medaka\n<:UI_ItemIcon_131005:998816738898616371> Crystalfish",
+        "inline": true
+      },
+      {
+        "name": "Obtainable Fish",
+        "value": "<:UI_ItemIcon_131008:998816742606377011> Venomspine Fish\n<:UI_ItemIcon_131015:998816753809367060> Tea-Colored Shirakodai",
+        "inline": true
+      }
+    ]
+  }
+]

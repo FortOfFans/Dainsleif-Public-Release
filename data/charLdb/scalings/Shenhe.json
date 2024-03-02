@@ -1,0 +1,24 @@
+{
+    "skill": {
+        "hold": 3.21,
+        "press": 2.37,
+        "quillDmg": 0.776
+    },
+    "stats": {
+        "Support: C0R5 Favonius Lance": {
+            "CRITICAL": 0.05,
+            "CRITICAL_HURT": 0.5,
+            "BASE_ATTACK": 869,
+            "ATTACK_PERCENT": 0.288,
+            "ATTACK": 0,
+            "RES_SHRED": 0.14,
+            "ICE_ADD_HURT": 0.15,
+            "SKILL_PERCENT": 0.15,
+            "BURST_PERCENT": 0.15,
+            "CHARGE_EFFICIENCY": 0.306
+        },
+
+        "dmgType": "ICE",
+        "avatarId": "10000063"
+    }
+}

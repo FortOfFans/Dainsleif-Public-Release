@@ -1,0 +1,38 @@
+[
+  {
+    "author": {
+      "name": "Padisarah Locations",
+      "icon_url": "https://api.ambr.top/assets/UI/UI_ItemIcon_101214.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Padisarah/Map_Padisarah_1.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Padisarah Locations",
+      "icon_url": "https://api.ambr.top/assets/UI/UI_ItemIcon_101214.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Padisarah/Map_Padisarah_2.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Padisarah Locations",
+      "icon_url": "https://api.ambr.top/assets/UI/UI_ItemIcon_101214.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Padisarah/Map_Padisarah_3.jpg"
+    }
+  }
+]

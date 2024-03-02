@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Hyper: C0R1 Primordial Jade-Winged Spear",
+    "filter": true,
+    "eval": "if (set4p('15002')) stats.RES_SHRED -= 0.3; add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "sets": {
+      "dpc": true,
+      "vh": 4,
+      "vv": true
+    },
+    "buffs": {
+      "ATTACK": 1070.52,
+      "WIND_ADD_HURT": 0.36,
+      "RES_SHRED": 0.3,
+      "FLAT_DMG": 208
+    },
+    "targets": [
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "press"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 12,
+        "path": [
+          "plunging",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 12,
+        "path": [
+          "plunging",
+          "high"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "reaction",
+          "pyroSwirl"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 225000,
+        "path": [
+          "stats",
+          "CHARGE_EFFICIENCY"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  }
+]

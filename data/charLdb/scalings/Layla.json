@@ -1,0 +1,31 @@
+{
+    "burst": {
+        "scaling": "HP",
+        "slugDmg": 0.093
+    },
+
+    "skill": {
+        "skillDmg": 0.256,
+        "starDmg": 0.294
+    },
+    "stats": {
+        "Freeze: C6R5 Harbinger of Dawn": {
+            "BASE_HP": 11092,
+            "HP": 0,
+            "HP_PERCENT": 0.24,
+
+            "BASE_ATTACK": 618,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+
+            "CRITICAL": 0.48,
+            "CRITICAL_HURT": 0.969,
+
+            "SKILL_PERCENT": 0.4,
+            "BURST_PERCENT": 0.4
+        },
+
+        "dmgType": "ICE",
+        "avatarId": "10000074"
+    }
+}

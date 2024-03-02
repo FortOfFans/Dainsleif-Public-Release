@@ -1,0 +1,50 @@
+[
+  {
+    "author": {
+      "name": "Naku Weed Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_101205.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/NakuWeed/Map_NakuWeed_1.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Naku Weed Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_101205.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/NakuWeed/Map_NakuWeed_2.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Naku Weed Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_101205.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/NakuWeed/Map_NakuWeedNakuWeed_3.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Naku Weed Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_101205.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/NakuWeed/Map_NakuWeed_4.jpg"
+    }
+  }
+]

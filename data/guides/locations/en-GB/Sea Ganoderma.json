@@ -1,0 +1,62 @@
+[
+  {
+    "author": {
+      "name": "Sea Ganoderma Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_101206.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Ganoderma/Map_Ganoderma_1.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Sea Ganoderma Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_101206.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Ganoderma/Map_Ganoderma_2.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Sea Ganoderma Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_101206.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Ganoderma/Map_Ganoderma_3.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Sea Ganoderma Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_101206.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Ganoderma/Map_Ganoderma_4.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Sea Ganoderma Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_101206.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Ganoderma/Map_Ganoderma_5.jpg"
+    }
+  }
+]

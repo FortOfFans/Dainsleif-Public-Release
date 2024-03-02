@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Support: C0R5 Cinnabar Spindle",
+    "filter": "stats.CHARGE_EFFICIENCY >= 1.2",
+    "eval": "add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'; if (!stats.SKILL_FLAT_DMG) stats.SKILL_FLAT_DMG = 0; stats.SKILL_FLAT_DMG += 0.8 * (stats.BASE_DEFENSE * (1 + stats.DEFENSE_PERCENT) + stats.DEFENSE)",
+    "sets": {
+      "husk": 4
+    },
+    "targets": [
+      {
+        "weight": 11,
+        "path": [
+          "skill",
+          "blossom"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill_atk",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "burst",
+          "blossom"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 25000,
+        "path": [
+          "stats",
+          "CHARGE_EFFICIENCY"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ],
+    "description": ""
+  },
+  {
+    "name": "Support: C0R5 Cinnabar Spindle",
+    "filter": "true",
+    "eval": "add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'; if (!stats.SKILL_FLAT_DMG) stats.SKILL_FLAT_DMG = 0; stats.SKILL_FLAT_DMG += 0.8 * (stats.BASE_DEFENSE * (1 + stats.DEFENSE_PERCENT) + stats.DEFENSE)",
+    "sets": {
+      "husk": 4
+    },
+    "targets": [
+      {
+        "weight": 11,
+        "path": [
+          "skill",
+          "blossom"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill_atk",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 0.5,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3.5,
+        "path": [
+          "burst",
+          "blossom"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ],
+    "description": ""
+  },
+
+  {
+    "name": "Sub DPS: C0R5 Cinnabar Spindle",
+    "filter": "true",
+    "eval": "if (!stats.SKILL_FLAT_DMG) stats.SKILL_FLAT_DMG = 0; stats.SKILL_FLAT_DMG += 0.8 * (stats.BASE_DEFENSE * (1 + stats.DEFENSE_PERCENT) + stats.DEFENSE)",
+    "sets": {
+      "husk": 4
+    },
+    "targets": [
+      {
+        "weight": 11,
+        "path": [
+          "skill",
+          "blossom"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill_atk",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ],
+    "description": ""
+  }
+]

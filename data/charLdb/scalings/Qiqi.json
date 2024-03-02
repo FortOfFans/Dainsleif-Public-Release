@@ -1,0 +1,30 @@
+{
+    "heal": {
+        "scaling": "ATTACK",
+        "skill": 1.1832,
+        "base_skill": 916,
+        "burst": 1.53,
+        "base_burst": 1174
+    },
+
+    "stats": {
+        "Healer: C0R1 Summit Shaper (Skill)": {
+            "BASE_ATTACK": 895,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0.496,
+            "HEAL_ADD": 0.221,
+            "HEALED_ADD": 0
+        },
+
+        "Healer: C0R1 Summit Shaper (Burst)": {
+            "BASE_ATTACK": 895,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0.496,
+            "HEAL_ADD": 0.221,
+            "HEALED_ADD": 0
+        },
+
+        "dmgType": "ICE",
+        "avatarId": "10000035"
+    }
+}

@@ -1,0 +1,206 @@
+[
+  {
+    "name": "VV Vape: C6R5 \"The Catch\" (International)",
+    "filter": "stats.CHARGE_EFFICIENCY >= 1.8",
+    "eval": "add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "sets": {
+      "gd": [
+        1, 2
+      ]
+    },
+    "buffs": {
+      "ATTACK": 1070.52,
+      "FIRE_ADD_HURT": 0.47,
+      "ATTACK_PERCENT": 0.25,
+      "ELEMENT_MASTERY": 120
+    },
+    "targets": [
+      {
+        "weight": 3,
+        "path": [
+          "skill",
+          "press"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 5,
+        "path": [
+          "skill",
+          "press"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {},
+        "reaction": "vaporize"
+      },
+      {
+        "weight": 5,
+        "path": [
+          "burst",
+          "dmgNado"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "burst",
+          "dmgNado"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {},
+        "reaction": "vaporize"
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "dmg1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "dmg2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "dmg3"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "VV Vape: C6R1 Staff of the Scarlet Sands (International)",
+    "filter": "stats.CHARGE_EFFICIENCY >= 1.8",
+    "eval": "if (!stats.ATTACK){ stats.ATTACK = 0; } stats.ATTACK += (0.52 + 0.28) * stats.ELEMENT_MASTERY; add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "sets": {
+      "gd": [
+        1, 2
+      ]
+    },
+    "buffs": {
+      "ATTACK": 1070.52,
+      "FIRE_ADD_HURT": 0.47,
+      "ATTACK_PERCENT": 0.25,
+      "ELEMENT_MASTERY": 120
+    },
+    "targets": [
+      {
+        "weight": 3,
+        "path": [
+          "skill",
+          "press"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 5,
+        "path": [
+          "skill",
+          "press"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {},
+        "reaction": "vaporize"
+      },
+      {
+        "weight": 5,
+        "path": [
+          "burst",
+          "dmgNado"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "burst",
+          "dmgNado"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {},
+        "reaction": "vaporize"
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "dmg1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "dmg2"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "dmg3"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Overvape: C6R5 \"The Catch\" (Rational)",
+    "filter": "stats.CHARGE_EFFICIENCY >= 1.6",
+    "eval": "add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "sets": {
+      "gd": [
+        1, 2
+      ],
+      "cw": 1
+    },
+    "buffs": {
+      "ATTACK": 1070.52,
+      "FIRE_ADD_HURT": 0.15,
+      "ATTACK_PERCENT": 0.65,
+      "ELEMENT_MASTERY": 120,
+      "BURST_PERCENT": 0.24
+    },
+    "targets": [{"weight":2,"path":["skill","press"],"hitMode":"avgHit","bonusStats":{}},{"weight":2,"path":["skill","press"],"hitMode":"avgHit","bonusStats":{},"reaction":"vaporize"},{"weight":7,"path":["reaction","overloaded"],"hitMode":"avgHit","bonusStats":{}},{"weight":2,"path":["burst","dmgNado"],"hitMode":"avgHit","bonusStats":{}},{"weight":10,"path":["burst","dmgNado"],"hitMode":"avgHit","bonusStats":{},"reaction":"vaporize"},{"weight":1,"path":["burst","dmg1"],"hitMode":"avgHit","bonusStats":{}},{"weight":1,"path":["burst","dmg2"],"hitMode":"avgHit","bonusStats":{}},{"weight":1,"path":["burst","dmg3"],"hitMode":"avgHit","bonusStats":{}}]
+  },
+  {
+    "name": "Overvape: C6R1 Staff of the Scarlet Sands (Rational)",
+    "filter": "stats.CHARGE_EFFICIENCY >= 1.6",
+    "eval": "if (!stats.ATTACK){ stats.ATTACK = 0; } stats.ATTACK += (0.52 + 0.28) * stats.ELEMENT_MASTERY; add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "sets": {
+      "gd": [
+        1, 2
+      ],
+      "cw": 1
+    },
+    "buffs": {
+      "ATTACK": 1070.52,
+      "FIRE_ADD_HURT": 0.15,
+      "ATTACK_PERCENT": 0.65,
+      "ELEMENT_MASTERY": 120,
+      "BURST_PERCENT": 0.24
+    },
+    "targets": [{"weight":2,"path":["skill","press"],"hitMode":"avgHit","bonusStats":{}},{"weight":2,"path":["skill","press"],"hitMode":"avgHit","bonusStats":{},"reaction":"vaporize"},{"weight":7,"path":["reaction","overloaded"],"hitMode":"avgHit","bonusStats":{}},{"weight":2,"path":["burst","dmgNado"],"hitMode":"avgHit","bonusStats":{}},{"weight":10,"path":["burst","dmgNado"],"hitMode":"avgHit","bonusStats":{},"reaction":"vaporize"},{"weight":1,"path":["burst","dmg1"],"hitMode":"avgHit","bonusStats":{}},{"weight":1,"path":["burst","dmg2"],"hitMode":"avgHit","bonusStats":{}},{"weight":1,"path":["burst","dmg3"],"hitMode":"avgHit","bonusStats":{}}]
+  }
+]

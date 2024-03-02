@@ -1,0 +1,46 @@
+{
+    "charged": {
+        "dmg": 2.04
+    },
+
+    "normal": [
+        0.463,
+        0.958,
+        1.153,
+        0.633,
+        1.203,
+        1.612
+    ],
+
+    "plunging": {
+        "dmg": 1.5,
+        "low": 3.01,
+        "high": 3.75
+    },
+
+    "skill": {
+        "dmg": 4.3
+    },
+
+    "stats": {
+        "Hyper: C0R1 Primordial Jade-Winged Spear": {
+            "BASE_ATTACK": 1023,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0.224,
+
+            "CRITICAL": 0.463,
+            "CRITICAL_HURT": 0.5,
+            "WIND_ADD_HURT": 0.12,
+
+            "NORMAL_PERCENT": 0.906,
+            "CHARGE_PERCENT": 0.906,
+            "PLUNGE_PERCENT": 0.906,
+
+            "ADD_HURT": 0.140625,
+            "SKILL_PERCENT": 0.075
+        },
+
+        "dmgType": "WIND",
+        "avatarId": "10000026"
+    }
+}

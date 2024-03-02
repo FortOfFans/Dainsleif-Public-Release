@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Possible Character usage:",
+    "footer": {
+      "text": "Weapon Usage Recommendation"
+    },
+    "fields": [
+      {
+        "name": "Recommended",
+        "value": "Arataki Itto\nBeidou\nChongyun\nDiluc\nEula\nNoelle\nRazor\nXinyan (DPS)",
+        "inline": true
+      },
+      {
+        "name": "Cope",
+        "value": "Dori\nSayu\nXinyan (Support)",
+        "inline": true
+      }
+    ]
+  }
+]

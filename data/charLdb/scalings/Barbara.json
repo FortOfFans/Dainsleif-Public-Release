@@ -1,0 +1,47 @@
+{
+    "charged": {
+        "dmg": 2.83
+    },
+
+    "normal": [
+        0.643,
+        0.604,
+        0.698,
+        0.938
+    ],
+
+    "heal": {
+        "scaling": "HP",
+        "skill": 0.08,
+        "base_skill": 985,
+        "burst": 0.325,
+        "base_burst": 4334
+    },
+
+    "plunging": {
+        "dmg": 1.044,
+        "low": 2.09,
+        "high": 2.61
+    },
+
+    "skill": {
+        "dmg": 1.17
+    },
+
+    "stats": {
+        "Healer: C6R1 Everlasting Moonglow (Skill)": {
+            "BASE_HP": 9787,
+            "HP_PERCENT": 0.736,
+            "HP": 0
+        },
+
+        "Healer: C6R1 Everlasting Moonglow (Burst)": {
+            "BASE_HP": 9787,
+            "HP_PERCENT": 0.736,
+            "HP": 0
+        },
+
+        "dmgType": "WATER",
+        "avatarId": "10000014"
+    }
+}

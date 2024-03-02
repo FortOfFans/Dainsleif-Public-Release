@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Possible Character usage:",
+    "footer": {
+      "text": "Weapon Usage Recommendation"
+    },
+    "fields": [
+      {
+        "name": "Recommended",
+        "value": "No one",
+        "inline": true
+      },
+      {
+        "name": "Cope",
+        "value": "Everyone",
+        "inline": true
+      }
+    ]
+  }
+]

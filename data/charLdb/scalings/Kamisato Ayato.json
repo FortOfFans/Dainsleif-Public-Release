@@ -1,0 +1,30 @@
+{
+    "burst": {
+        "dmg": 1.13
+    },
+
+    "skill": {
+        "dmg0": 0.972,
+        "dmg1": 1.082,
+        "dmg2": 1.193,
+        "illusionDmg": 1.864
+    },
+
+    "stats": {
+        "Soup: C0R1 Haran Geppaku Futsu": {
+            "BASE_ATTACK": 907,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+
+            "CRITICAL": 0.381,
+            "CRITICAL_HURT": 0.884,
+            "WATER_ADD_HURT": 0.12,
+
+            "NORMAL_PERCENT": 0.59
+        },
+
+        "dmgType": "WATER",
+        "avatarId": "10000066",
+        "skillIsNormal": true
+    }
+}

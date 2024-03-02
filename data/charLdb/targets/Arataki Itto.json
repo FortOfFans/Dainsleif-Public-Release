@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Monogeo: C1R1 Redhorn Stonethresher",
+    "filter": true,
+    "eval": "if (!stats.ATTACK){ stats.ATTACK = 0; } stats.ATTACK += 0.979 * (stats.BASE_DEFENSE * (1 + stats.DEFENSE_PERCENT) + stats.DEFENSE); if (!stats.NORMAL_FLAT_DMG) stats.NORMAL_FLAT_DMG = 0; stats.NORMAL_FLAT_DMG = 0.4 * (stats.BASE_DEFENSE * (1 + stats.DEFENSE_PERCENT) + stats.DEFENSE); if (!stats.CHARGE_FLAT_DMG) stats.CHARGE_FLAT_DMG = 0; stats.CHARGE_FLAT_DMG += 0.4 * (stats.BASE_DEFENSE * (1 + stats.DEFENSE_PERCENT) + stats.DEFENSE); stats.CHARGE_FLAT_DMG += 0.35 * (stats.BASE_DEFENSE * (1 + stats.DEFENSE_PERCENT) + stats.DEFENSE);",
+    "buffs": {
+      "ADD_HURT": 0.15,
+      "RES_SHRED": 0.2,
+      "DEFENSE": 412,
+      "ROCK_ADD_HURT": 0.4,
+      "ATTACK_PERCENT": 0.2
+    },
+    "sets": {
+      "husk": 4
+    },
+    "targets": [{"weight":2,"path":["skill","dmg"],"hitMode":"avgHit","bonusStats":{}},{"weight":2,"path":["normal","0"],"hitMode":"avgHit","bonusStats":{}},{"weight":1,"path":["normal","1"],"hitMode":"avgHit","bonusStats":{}},{"weight":1,"path":["normal","2"],"hitMode":"avgHit","bonusStats":{}},{"weight":1,"path":["normal","3"],"hitMode":"avgHit","bonusStats":{}},{"weight":10,"path":["charged","akSlash"],"hitMode":"avgHit","bonusStats":{}},{"weight":3,"path":["charged","akFinal"],"hitMode":"avgHit","bonusStats":{}}]
+  },
+  {
+    "name": "Monogeo: C1R5 Serpent Spine",
+    "filter": true,
+    "eval": "if (!stats.ATTACK){ stats.ATTACK = 0; } stats.ATTACK += 0.979 * (stats.BASE_DEFENSE * (1 + stats.DEFENSE_PERCENT) + stats.DEFENSE); if (!stats.CHARGE_FLAT_DMG) stats.CHARGE_FLAT_DMG = 0; stats.CHARGE_FLAT_DMG += 0.35 * (stats.BASE_DEFENSE * (1 + stats.DEFENSE_PERCENT) + stats.DEFENSE);",
+    "buffs": {
+      "ADD_HURT": 0.15,
+      "RES_SHRED": 0.2,
+      "DEFENSE": 412,
+      "ROCK_ADD_HURT": 0.4,
+      "ATTACK_PERCENT": 0.2
+    },
+    "sets": {
+      "husk": 4
+    },
+    "targets": [{"weight":2,"path":["skill","dmg"],"hitMode":"avgHit","bonusStats":{}},{"weight":2,"path":["normal","0"],"hitMode":"avgHit","bonusStats":{}},{"weight":1,"path":["normal","1"],"hitMode":"avgHit","bonusStats":{}},{"weight":1,"path":["normal","2"],"hitMode":"avgHit","bonusStats":{}},{"weight":1,"path":["normal","3"],"hitMode":"avgHit","bonusStats":{}},{"weight":10,"path":["charged","akSlash"],"hitMode":"avgHit","bonusStats":{}},{"weight":3,"path":["charged","akFinal"],"hitMode":"avgHit","bonusStats":{}}]
+  }
+]

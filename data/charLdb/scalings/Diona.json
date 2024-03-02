@@ -1,0 +1,50 @@
+{
+    "burst": {
+        "skillDmg": 1.6,
+        "fieldDmg": 1.053
+    },
+
+    "charged": {
+        "aimedCharged": 2.11
+    },
+
+    "heal": {
+        "scaling": "HP",
+        "burst": 0.1067,
+        "base": 1313
+    },
+
+    "normal": {
+        "dmgType": "PHYSICAL",
+        "0": 0.664,
+        "1": 0.616,
+        "2": 0.837,
+        "3": 0.79,
+        "4": 0.988
+    },
+
+    "plunging": {
+        "dmgType": "PHYSICAL",
+        "dmg": 1.044,
+        "low": 2.09,
+        "high": 2.61
+    },
+
+    "skill": {
+        "dmg": 0.838
+    },
+
+    "stats": {
+        "Healer: C6R1 Recurve Bow": {
+            "BASE_HP": 9570,
+            "HP": 0,
+            "HP_PERCENT": 0.469,
+            "ICE_ADD_HURT": 0.24,
+            "HEAL_ADD": 0,
+            "HEALED_ADD": 0
+        },
+
+        "dmgType": "ICE",
+        "avatarId": "10000039"
+    }
+}

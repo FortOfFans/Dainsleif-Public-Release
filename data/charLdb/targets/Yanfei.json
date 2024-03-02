@@ -1,0 +1,260 @@
+[
+  {
+    "name": "Vape: C6R1 Lost Prayer to the Sacred Winds",
+    "filter": "!set4p('15019')",
+    "sets": {
+      "wt": true,
+      "cw": 1,
+      "hod": true,
+      "gd": [
+        1,
+        2
+      ]
+    },
+    "buffs": {
+      "ATTACK_PERCENT": 0.2,
+      "ATTACK": 1070.52,
+      "ELEMENT_MASTERY": 120,
+      "RES_SHRED": 0.3,
+      "FIRE_ADD_HURT": 0.32
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "skill",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "charged",
+          "3"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "charged",
+          "4"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "skill",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "charged",
+          "4"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 6,
+        "path": [
+          "passive2",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "passive2",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Vape: C6R5 The Widsith",
+    "filter": "!set4p('15019')",
+    "sets": {
+      "wt": true,
+      "cw": 1,
+      "hod": true,
+      "gd": [
+        1,
+        2
+      ]
+    },
+    "buffs": {
+      "ATTACK_PERCENT": 0.2,
+      "ATTACK": 1070.52,
+      "ELEMENT_MASTERY": 120,
+      "RES_SHRED": 0.3,
+      "FIRE_ADD_HURT": 0.32
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "skill",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "charged",
+          "3"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "charged",
+          "4"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "skill",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "charged",
+          "4"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 6,
+        "path": [
+          "passive2",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "passive2",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Monopyro: C6R1 Lost Prayer to the Sacred Winds",
+    "filter": "!set4p('15019')",
+    "sets": {
+      "wt": true,
+      "cw": 1,
+      "hod": true,
+      "lw": true,
+      "gd": [
+        1,
+        2
+      ]
+    },
+    "buffs": {
+      "ATTACK_PERCENT": 0.2,
+      "ATTACK": 1070.52,
+      "RES_SHRED": 0.45,
+      "FIRE_ADD_HURT": 0.47
+    },
+    "targets": [{"weight":1,"path":["skill","dmg"],"hitMode":"avgHit","bonusStats":{}},{"weight":1,"path":["burst","dmg"],"hitMode":"avgHit","bonusStats":{}},{"weight":3,"path":["normal","0"],"hitMode":"avgHit","bonusStats":{}},{"weight":3,"path":["charged","3"],"hitMode":"avgHit","bonusStats":{}},{"weight":3,"path":["charged","4"],"hitMode":"avgHit","bonusStats":{}},{"weight":1,"path":["skill","dmg"],"hitMode":"avgHit","bonusStats":{}},{"weight":1,"path":["charged","4"],"hitMode":"avgHit","bonusStats":{}}]
+  },
+  {
+    "name": "Monopyro: C6R5 The Widsith",
+    "filter": "!set4p('15019')",
+    "sets": {
+      "wt": true,
+      "cw": 1,
+      "hod": true,
+      "lw": true,
+      "gd": [
+        1,
+        2
+      ]
+    },
+    "buffs": {
+      "ATTACK_PERCENT": 0.2,
+      "ATTACK": 1070.52,
+      "RES_SHRED": 0.45,
+      "FIRE_ADD_HURT": 0.47
+    },
+    "targets": [{"weight":1,"path":["skill","dmg"],"hitMode":"avgHit","bonusStats":{}},{"weight":1,"path":["burst","dmg"],"hitMode":"avgHit","bonusStats":{}},{"weight":3,"path":["normal","0"],"hitMode":"avgHit","bonusStats":{}},{"weight":3,"path":["charged","3"],"hitMode":"avgHit","bonusStats":{}},{"weight":3,"path":["charged","4"],"hitMode":"avgHit","bonusStats":{}},{"weight":1,"path":["skill","dmg"],"hitMode":"avgHit","bonusStats":{}},{"weight":1,"path":["charged","4"],"hitMode":"avgHit","bonusStats":{}}]
+  }
+]

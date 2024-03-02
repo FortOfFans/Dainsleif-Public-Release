@@ -1,0 +1,720 @@
+[
+  {
+    "name": "VV Vape (Amber): C1R1 Staff of Homa",
+    "filter": "!set4p('15019')",
+    "eval": "if (!stats.ATTACK){ stats.ATTACK = 0; } stats.ATTACK += 0.0596 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP); stats.ATTACK += 0.018 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP);",
+    "sets": {
+      "cw": 1,
+      "hod": true,
+      "gd": [
+        1,
+        2
+      ],
+      "nd": 1
+    },
+    "buffs": {
+      "ATTACK_PERCENT": 0.45,
+      "RES_SHRED": 0.3,
+      "ELEMENT_MASTERY": 430
+    },
+    "targets": [
+      {
+        "weight": 10,
+        "path": [
+          "charged",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 0.5,
+        "path": [
+          "burst",
+          "lowHpDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "VV Vape (Amber): C1R1 Staff of Homa",
+    "filter": "set4p('15019')",
+    "eval": "if (!stats.ATTACK){ stats.ATTACK = 0; } stats.ATTACK += 0.0596 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP); stats.ATTACK += 0.018 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP);",
+    "sets": {
+      "sr": true
+    },
+    "buffs": {
+      "ATTACK_PERCENT": 0.45,
+      "RES_SHRED": 0.3,
+      "ELEMENT_MASTERY": 430
+    },
+    "targets": [
+      {
+        "weight": 10,
+        "path": [
+          "charged",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 0.33,
+        "path": [
+          "burst",
+          "lowHpDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "VV Vape (Amber): C1R1 Staff of the Scarlet Sands",
+    "filter": "!set4p('15019')",
+    "eval": "if (!stats.ATTACK){ stats.ATTACK = 0; } stats.ATTACK += 0.0596 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP); stats.ATTACK += (0.52 + 0.28) * stats.ELEMENT_MASTERY",
+    "sets": {
+      "cw": 1,
+      "hod": true,
+      "gd": [
+        1,
+        2
+      ],
+      "nd": 1
+    },
+    "buffs": {
+      "ATTACK_PERCENT": 0.45,
+      "RES_SHRED": 0.3,
+      "ELEMENT_MASTERY": 430
+    },
+    "targets": [
+      {
+        "weight": 10,
+        "path": [
+          "charged",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 0.5,
+        "path": [
+          "burst",
+          "lowHpDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "VV Vape (Amber): C1R1 Staff of the Scarlet Sands",
+    "filter": "set4p('15019')",
+    "eval": "if (!stats.ATTACK){ stats.ATTACK = 0; } stats.ATTACK += 0.0596 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP); stats.ATTACK += (0.52 + 0.28) * stats.ELEMENT_MASTERY",
+    "sets": {
+      "sr": true
+    },
+    "buffs": {
+      "ATTACK_PERCENT": 0.45,
+      "RES_SHRED": 0.3,
+      "ELEMENT_MASTERY": 430
+    },
+    "targets": [
+      {
+        "weight": 10,
+        "path": [
+          "charged",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 0.33,
+        "path": [
+          "burst",
+          "lowHpDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "VV Vape (Bennett): C1R1 Staff of Homa",
+    "filter": "!set4p('15019')",
+    "eval": "if (!stats.ATTACK){ stats.ATTACK = 0; } stats.ATTACK += 0.0596 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP); stats.ATTACK += 0.008 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP);",
+    "sets": {
+      "cw": 1,
+      "hod": true,
+      "gd": [
+        1,
+        2
+      ],
+      "nd": 1
+    },
+    "buffs": {
+      "ATTACK": 1070.52,
+      "ATTACK_PERCENT": 0.25,
+      "RES_SHRED": 0.3,
+      "ELEMENT_MASTERY": 310,
+      "FIRE_ADD_HURT": 0.15
+    },
+    "targets": [
+      {
+        "weight": 10,
+        "path": [
+          "charged",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 0.5,
+        "path": [
+          "burst",
+          "lowHpDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "VV Vape (Bennett): C1R1 Staff of Homa",
+    "filter": "set4p('15019')",
+    "eval": "if (!stats.ATTACK){ stats.ATTACK = 0; } stats.ATTACK += 0.0596 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP); stats.ATTACK += 0.008 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP);",
+    "sets": {
+      "sr": true
+    },
+    "buffs": {
+      "ATTACK": 1070.52,
+      "ATTACK_PERCENT": 0.45,
+      "RES_SHRED": 0.3,
+      "ELEMENT_MASTERY": 310,
+      "FIRE_ADD_HURT": 0.15
+    },
+    "targets": [
+      {
+        "weight": 10,
+        "path": [
+          "charged",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 0.33,
+        "path": [
+          "burst",
+          "lowHpDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "VV Vape (Bennett): C1R1 Staff of the Scarlet Sands",
+    "filter": "!set4p('15019')",
+    "eval": "if (!stats.ATTACK){ stats.ATTACK = 0; } stats.ATTACK += 0.0596 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP); stats.ATTACK += (0.52 + 0.28) * stats.ELEMENT_MASTERY",
+    "sets": {
+      "cw": 1,
+      "hod": true,
+      "gd": [
+        1,
+        2
+      ],
+      "nd": 1
+    },
+    "buffs": {
+      "ATTACK": 1070.52,
+      "ATTACK_PERCENT": 0.45,
+      "RES_SHRED": 0.3,
+      "ELEMENT_MASTERY": 310,
+      "FIRE_ADD_HURT": 0.15
+    },
+    "targets": [
+      {
+        "weight": 10,
+        "path": [
+          "charged",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 0.5,
+        "path": [
+          "burst",
+          "lowHpDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "VV Vape (Bennett): C1R1 Staff of the Scarlet Sands",
+    "filter": "set4p('15019')",
+    "eval": "if (!stats.ATTACK){ stats.ATTACK = 0; } stats.ATTACK += 0.0596 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP); stats.ATTACK += (0.52 + 0.28) * stats.ELEMENT_MASTERY",
+    "sets": {
+      "sr": true
+    },
+    "buffs": {
+      "ATTACK": 1070.52,
+      "ATTACK_PERCENT": 0.45,
+      "RES_SHRED": 0.3,
+      "ELEMENT_MASTERY": 310,
+      "FIRE_ADD_HURT": 0.15
+    },
+    "targets": [
+      {
+        "weight": 10,
+        "path": [
+          "charged",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 0.33,
+        "path": [
+          "burst",
+          "lowHpDmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 7,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Melt: C0R1 Staff of Homa (Crit Hit)",
+    "filter": "!set4p('15019')",
+    "eval": "if (!stats.ATTACK){ stats.ATTACK = 0; } stats.ATTACK += 0.0596 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP); stats.ATTACK += 0.018 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP);",
+    "sets": {
+      "cw": 1,
+      "hod": true,
+      "gd": [
+        1,
+        2
+      ],
+      "nd": 1
+    },
+    "buffs": {
+      "ATTACK_PERCENT": 0.65,
+      "ATTACK": 1070.52,
+      "RES_SHRED": 0.3,
+      "FIRE_ADD_HURT": 0.52,
+      "ELEMENT_MASTERY": 220
+    },
+    "targets": [{"weight":1,"path":["burst","lowHpDmg"],"hitMode":"critHit","bonusStats":{},"reaction":"melt"}]
+  }
+]

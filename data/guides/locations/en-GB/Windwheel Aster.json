@@ -1,0 +1,38 @@
+[
+  {
+    "author": {
+      "name": "Windwheel Aster Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_100024.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Windwheel/Map_Windwheel_1.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Windwheel Aster Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_100024.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Windwheel/Map_Windwheel_2.jpg"
+    }
+  },
+  {
+    "author": {
+      "name": "Windwheel Aster Locations",
+      "icon_url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_ItemIcon_100024.png"
+    },
+    "footer": {
+      "text": "Farmable locations for the specific materials."
+    },
+    "image": {
+      "url": "https://raw.githubusercontent.com/FortOfFans/GI/main/Maps/Regional/Windwheel/Map_Windwheel_3.jpg"
+    }
+  }
+]

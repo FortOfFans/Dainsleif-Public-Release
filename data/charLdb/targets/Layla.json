@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Freeze: C6R5 Harbinger of Dawn",
+    "filter": true,
+    "eval": "if (!stats.SKILL_FLAT_DMG){ stats.SKILL_FLAT_DMG = 0; } stats.SKILL_FLAT_DMG += 0.015 * (stats.BASE_HP * (1 + stats.HP_PERCENT) + stats.HP);",
+    "sets": {
+      "bs": 2,
+      "tom": true
+    },
+    "buffs": {
+      "ATTACK_PERCENT": 0.2,
+      "RES_SHRED": 0.3,
+      "ICE_ADD_HURT": 0.32
+    },
+    "targets": [
+      {
+        "weight": 8,
+        "path": [
+          "burst",
+          "slugDmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "skill",
+          "skillDmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 16,
+        "path": [
+          "skill",
+          "starDmg"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      }
+    ]
+  }
+]

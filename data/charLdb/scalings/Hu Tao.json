@@ -1,0 +1,122 @@
+{
+    "burst": {
+        "dmg": 4.7,
+        "lowHpDmg": 5.88
+    },
+    "constellation2": {
+        "scaling": "HP",
+        "skill_dmgInc": 0.1
+    },
+    "charged": {
+        "dmg": 2.287
+    },
+    "normal": [
+        0.789,
+        0.812,
+        1.027,
+        1.104,
+        0.56,
+        0.592,
+        1.446
+    ],
+    "plunging": {
+        "dmg": 1.1,
+        "low": 2.2,
+        "high": 2.75
+    },
+    "skill": {
+        "dmg": 1.09
+    },
+    "stats": {
+        "VV Vape (Amber): C1R1 Staff of Homa": {
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+            "BASE_ATTACK": 714,
+            "BASE_HP": 15552,
+            "BURST_PERCENT": 0,
+            "CHARGE_PERCENT": 0,
+            "CRITICAL": 0.05,
+            "CRITICAL_HURT": 1.546,
+            "ELEMENT_MASTERY": 0,
+            "FIRE_ADD_HURT": 0.33,
+            "HP": 0,
+            "HP_PERCENT": 0.2,
+            "NORMAL_FLAT_DMG": 0,
+            "NORMAL_PERCENT": 0,
+            "RES_SHRED": 0
+        },
+
+        "VV Vape (Amber): C1R1 Staff of the Scarlet Sands": {
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+            "BASE_ATTACK": 648,
+            "BASE_HP": 15552,
+            "BURST_PERCENT": 0,
+            "CHARGE_PERCENT": 0,
+            "CRITICAL": 0.491,
+            "CRITICAL_HURT": 0.884,
+            "ELEMENT_MASTERY": 0,
+            "FIRE_ADD_HURT": 0.33,
+            "HP": 0,
+            "HP_PERCENT": 0,
+            "NORMAL_FLAT_DMG": 0,
+            "NORMAL_PERCENT": 0,
+            "RES_SHRED": 0
+        },
+
+        "VV Vape (Bennett): C1R1 Staff of Homa": {
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+            "BASE_ATTACK": 714,
+            "BASE_HP": 15552,
+            "BURST_PERCENT": 0,
+            "CHARGE_PERCENT": 0,
+            "CRITICAL": 0.05,
+            "CRITICAL_HURT": 1.546,
+            "ELEMENT_MASTERY": 0,
+            "HP": 0,
+            "HP_PERCENT": 0.2,
+            "NORMAL_FLAT_DMG": 0,
+            "NORMAL_PERCENT": 0,
+            "RES_SHRED": 0
+        },
+
+        "VV Vape (Bennett): C1R1 Staff of the Scarlet Sands": {
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+            "BASE_ATTACK": 648,
+            "BASE_HP": 15552,
+            "BURST_PERCENT": 0,
+            "CHARGE_PERCENT": 0,
+            "CRITICAL": 0.491,
+            "CRITICAL_HURT": 0.884,
+            "ELEMENT_MASTERY": 0,
+            "HP": 0,
+            "HP_PERCENT": 0,
+            "NORMAL_FLAT_DMG": 0,
+            "NORMAL_PERCENT": 0,
+            "RES_SHRED": 0
+        },
+
+        "Melt: C0R1 Staff of Homa (Crit Hit)": {
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+            "BASE_ATTACK": 714,
+            "BASE_HP": 15552,
+            "BURST_PERCENT": 0,
+            "CHARGE_PERCENT": 0,
+            "CRITICAL": 0.05,
+            "CRITICAL_HURT": 1.546,
+            "ELEMENT_MASTERY": 0,
+            "FIRE_ADD_HURT": 0.33,
+            "HP": 0,
+            "HP_PERCENT": 0.2,
+            "NORMAL_FLAT_DMG": 0,
+            "NORMAL_PERCENT": 0,
+            "RES_SHRED": 0
+        },
+
+        "dmgType": "FIRE",
+        "avatarId": "10000046"
+    }
+}

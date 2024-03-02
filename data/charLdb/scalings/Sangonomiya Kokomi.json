@@ -1,0 +1,69 @@
+{
+    "artifact:OceanHuedClam": {
+        "scaling": "HP",
+        "heal": 0.2185
+    },
+
+    "burst": {
+        "scaling": "HP",
+        "dmg": 0.177
+    },
+
+    "charged": {
+        "dmg": 2.52
+    },
+
+    "heal": {
+        "scaling": "HP",
+        "skill": 0.075,
+        "base": 861
+    },
+
+    "normal": [
+        1.162,
+        1.046,
+        1.603
+    ],
+
+    "plunging": {
+        "dmg": 1.044,
+        "low": 2.09,
+        "high": 2.61
+    },
+
+    "skill": {
+        "dmg": 1.856
+    },
+
+    "stats": {
+        "Healer: C0R1 Everlasting Moonglow": {
+            "BASE_ATTACK": 842,
+            "BASE_HP": 13471,
+            "HP": 0,
+            "HP_PERCENT": 0.496,
+            "WATER_ADD_HURT": 0.288,
+            "CRITICAL": -0.95,
+            "HEAL_ADD": 0.35,
+            "HEALED_ADD": 0
+        },
+
+        "On-field: C0R1 Everlasting Moonglow": {
+            "BASE_ATTACK": 842,
+            "BASE_HP": 13471,
+            "HP": 0,
+            "HP_PERCENT": 0.496,
+            "WATER_ADD_HURT": 0.288,
+            "CRITICAL": -0.95,
+            "HEAL_ADD": 0.35,
+            "HEALED_ADD": 0
+        },
+
+        "Bountiful Bloom: C0R1 A Thousand Floating Dreams": {
+            "ELEMENT_MASTERY": 297,
+            "CHARGE_EFFICIENCY": 0
+        },
+
+        "dmgType": "WATER",
+        "avatarId": "10000054"
+    }
+}

@@ -1,0 +1,708 @@
+[
+  {
+    "name": "Vape (Bennett): C0R1 Thundering Pulse",
+    "filter": "set4p('15019')",
+    "sets": {
+      "sr": true
+    },
+    "buffs": {
+      "ATTACK_PERCENT": 0.65,
+      "ATTACK": 1070.52,
+      "RES_SHRED": 0.2,
+      "FIRE_ADD_HURT": 0.15,
+      "ELEMENT_MASTERY": 120
+    },
+    "targets": [
+      {
+        "weight": 0.33,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {
+          "ATTACK": -1070.52
+        }
+      },
+      {
+        "weight": 0.67,
+        "path": [
+          "burst",
+          "exp"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {
+          "ATTACK": -1070.52
+        }
+      },
+      {
+        "weight": 0.67,
+        "path": [
+          "burst",
+          "exp"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {
+          "ATTACK": -1070.52
+        }
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "2"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 6,
+        "path": [
+          "normal",
+          "3"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "4"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Vape (Bennett): C0R1 Thundering Pulse",
+    "filter": "stats.CHARGE_EFFICIENCY >= 1.2",
+    "eval": "add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "sets": {
+      "cw": 1,
+      "rb": true,
+      "hod": true,
+      "gd": [1, 2],
+      "nd": 1
+    },
+    "buffs": {
+      "ATTACK_PERCENT": 0.65,
+      "ATTACK": 1070.52,
+      "RES_SHRED": 0.2,
+      "FIRE_ADD_HURT": 0.15,
+      "ELEMENT_MASTERY": 120
+    },
+    "targets": [
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {
+          "ATTACK": -1070.52
+        }
+      },
+      {
+        "weight": 2,
+        "path": [
+          "burst",
+          "exp"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 2,
+        "path": [
+          "burst",
+          "exp"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "2"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 6,
+        "path": [
+          "normal",
+          "3"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "4"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Vape (Bennett): C0R1 Thundering Pulse",
+    "filter": "true",
+    "eval": "add = '・<:er:985344269420204032> ' + (Math.round(stats.CHARGE_EFFICIENCY * 1000) / 10) + '%'",
+    "buffs": {
+      "ATTACK_PERCENT": 0.65,
+      "ATTACK": 1070.52,
+      "RES_SHRED": 0.2,
+      "FIRE_ADD_HURT": 0.15,
+      "ELEMENT_MASTERY": 120
+    },
+    "sets": {
+      "cw": 1,
+      "rb": true,
+      "hod": true,
+      "gd": [1, 2],
+      "nd": 1
+    },
+    "targets": [
+      {
+        "weight": 0.5,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "exp"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "exp"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "2"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 6,
+        "path": [
+          "normal",
+          "3"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "4"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Vape (Yun Jin): C0R1 Thundering Pulse",
+    "filter": "set4p('15019')",
+    "sets": {
+      "sr": true
+    },
+    "buffs": {
+      "ATTACK_PERCENT": 0.4,
+      "NORMAL_FLAT_DMG": 1787.5,
+      "NORMAL_PERCENT": 0.15,
+      "ADD_HURT": 0.15,
+      "RES_SHRED": 0.2
+    },
+    "targets": [
+      {
+        "weight": 0.33,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 0.67,
+        "path": [
+          "burst",
+          "exp"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 0.67,
+        "path": [
+          "burst",
+          "exp"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "2"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 6,
+        "path": [
+          "normal",
+          "3"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "4"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Vape (Yun Jin): C0R1 Thundering Pulse",
+    "filter": "true",
+    "buffs": {
+      "ATTACK_PERCENT": 0.4,
+      "NORMAL_FLAT_DMG": 1787.5,
+      "NORMAL_PERCENT": 0.15,
+      "ADD_HURT": 0.15,
+      "RES_SHRED": 0.2
+    },
+    "sets": {
+      "cw": 1,
+      "rb": true,
+      "hod": true,
+      "gd": [1, 2],
+      "nd": 1
+    },
+    "targets": [
+      {
+        "weight": 0.5,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "exp"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 1,
+        "path": [
+          "burst",
+          "exp"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "2"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 6,
+        "path": [
+          "normal",
+          "3"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "4"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Monopyro: C0R1 Thundering Pulse",
+    "filter": "set4p('15019')",
+    "sets": {
+      "sr": true
+    },
+    "buffs": {
+      "ATTACK_PERCENT": 0.65,
+      "ATTACK": 1070.52,
+      "NORMAL_FLAT_DMG": 1787.5,
+      "NORMAL_PERCENT": 0.15,
+      "ADD_HURT": 0.15,
+      "FIRE_ADD_HURT": 0.15,
+      "RES_SHRED": 0.2
+    },
+    "targets": [
+      {
+        "weight": 0.33,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "2"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 6,
+        "path": [
+          "normal",
+          "3"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "4"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      }
+    ]
+  },
+  {
+    "name": "Monopyro: C0R1 Thundering Pulse",
+    "filter": "true",
+    "buffs": {
+      "ATTACK_PERCENT": 0.65,
+      "ATTACK": 1070.52,
+      "NORMAL_FLAT_DMG": 1787.5,
+      "NORMAL_PERCENT": 0.15,
+      "ADD_HURT": 0.15,
+      "FIRE_ADD_HURT": 0.15,
+      "RES_SHRED": 0.2
+    },
+    "sets": {
+      "cw": 1,
+      "rb": true,
+      "hod": true,
+      "gd": [1, 2],
+      "nd": 1
+    },
+    "targets": [
+      {
+        "weight": 0.5,
+        "path": [
+          "burst",
+          "dmg"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "0"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "1"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 4,
+        "path": [
+          "normal",
+          "2"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      },
+      {
+        "weight": 6,
+        "path": [
+          "normal",
+          "3"
+        ],
+        "hitMode": "avgHit",
+        "bonusStats": {}
+      },
+      {
+        "weight": 3,
+        "path": [
+          "normal",
+          "4"
+        ],
+        "hitMode": "avgHit",
+        "reaction": "vaporize",
+        "bonusStats": {}
+      }
+    ]
+  }
+]

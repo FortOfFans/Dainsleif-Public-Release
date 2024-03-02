@@ -1,0 +1,65 @@
+{
+    "burst": {
+        "initial": 1.5,
+        "slash": 0.408,
+        "final": 3.21
+    },
+    "constellation1": {
+        "dmg": 0.1
+    },
+    "charged": {
+        "dmg1": 1.31,
+        "dmg2": 1.47
+    },
+    "normal": [
+        0.701,
+        0.701,
+        0.931,
+        0.538,
+        1.15
+    ],
+    "plunging": {
+        "dmg": 1.175,
+        "low": 2.35,
+        "high": 2.93
+    },
+    "skill": {
+        "stiletto": 0.857,
+        "slash": 2.86,
+        "thunderclap": 1.43
+    },
+    "stats": {
+        "Aggravate: C0R1 Mistsplitter Reforged": {
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+            "BASE_ATTACK": 997,
+            "BURST_PERCENT": 0,
+            "CATALYZE_PERCENT": 0,
+            "CRITICAL": 0.2,
+            "CRITICAL_HURT": 1.325,
+            "ELEMENT_MASTERY": 0,
+            "ELEC_ADD_HURT": 0.4,
+            "CHARGE_PERCENT": 0,
+            "NORMAL_PERCENT": 0
+        },
+        "Aggravate: C0R1 Primordial Jade Cutter": {
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+            "BASE_ATTACK": 865,
+            "BURST_PERCENT": 0,
+            "CATALYZE_PERCENT": 0,
+            "CRITICAL": 0.641,
+            "CRITICAL_HURT": 0.884,
+            "ELEMENT_MASTERY": 0,
+            "ELEC_ADD_HURT": 0,
+            "CHARGE_PERCENT": 0,
+            "NORMAL_PERCENT": 0,
+            "HP": 0,
+            "HP_PERCENT": 0.2,
+            "BASE_HP": 13103
+        },
+
+        "dmgType": "ELEC",
+        "avatarId": "10000042"
+    }
+}

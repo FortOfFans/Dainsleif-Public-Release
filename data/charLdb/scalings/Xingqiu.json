@@ -1,0 +1,45 @@
+{
+    "burst": {
+        "dmg": 1.09
+    },
+    "skill": {
+        "press1": 3.36,
+        "press2": 3.82
+    },
+    "stats": {
+        "Support: C6R1 Mistsplitter Reforged": {
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0.24,
+            "BASE_ATTACK": 876,
+            "BURST_PERCENT": 0,
+            "CRITICAL": 0.05,
+            "CRITICAL_HURT": 0.941,
+            "WATER_ADD_HURT": 0.6
+        },
+        "Support: C6R1 Primordial Jade Cutter": {
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0.24,
+            "BASE_ATTACK": 744,
+            "BURST_PERCENT": 0,
+            "CRITICAL": 0.491,
+            "CRITICAL_HURT": 0.5,
+            "WATER_ADD_HURT": 0.2,
+            "HP": 0,
+            "HP_PERCENT": 0.2,
+            "BASE_HP": 10222
+        },
+        "Support: C6R5 Favonius Sword": {
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0.24,
+            "BASE_ATTACK": 656,
+            "BURST_PERCENT": 0,
+            "CRITICAL": 0.05,
+            "CRITICAL_HURT": 0.5,
+            "CHARGE_EFFICIENCY": 0.613,
+            "WATER_ADD_HURT": 0.2
+        },
+
+        "dmgType": "WATER",
+        "avatarId": "10000025"
+    }
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Dendro Reactions",
+    "description": "**Bloom**\n<:dendro:910526871849025576> + <:hydro:910526871454777345> = **Bloom:** Creates a **Dendro Core** allowing the sub reactions to be triggered. If no sub reaction is triggered within a set interval or 5 Dendro Cores already exist, it will explode in a small AoE, dealing <:dendro:910526871849025576> **Dendro DMG** to enemies and characters. Enemies can only take 2 instances of Bloom DMG (including variants) within 0.5s.\n\n**Dendro Core + <:pyro:910526871429587035>** = **Burgeon:** Causes the **Dendro Core** to explode in a large AoE, dealing <:dendro:910526871849025576> **Dendro DMG** to enemies and characters. This damage is only affected by character level and Elemental Mastery.\n\n**Dendro Core + <:electro:910526871677046804>** = **Hyperbloom:** Causes the **Dendro Core** to become a **Sprawling Shot**, targeting the nearest enemy with a very small AoE, dealing <:dendro:910526871849025576> **Dendro DMG**. This damage is only affected by character level and Elemental Mastery.\n\n**Bountiful Bloom** = A special variant of bloom only obtainable via events and Nilou's passive talent. Bountiful Blooms cannot be Hyperbloomed or Burgeoned, but will explode significantly faster and have a larger AoE.",
+    "thumbnail": {
+      "url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MessageIcon_Overgrow"
+    },
+    "footer": {
+      "text": "Via: a.bakedpotato"
+    }
+  },
+  {
+    "title": "Dendro Reactions",
+    "description": "**Quicken**\n<:dendro:910526871849025576> + <:electro:910526871677046804> = Creates a **Quicken** aura allowing the sub reactions to be triggered\n**Quicken +** <:electro:910526871677046804> = **Aggravate:** gives a flat damage buff to <:electro:910526871677046804> **Electro DMG** based on character level and Elemental Mastery\n**Quicken +** <:dendro:910526871849025576> = **Spread:** gives a flat damage buff to <:dendro:910526871849025576> **Dendro DMG** based on character level and Elemental Mastery, has a slightly higher multiplier than Aggravate\n\n<:dendro:910526871849025576> + <:pyro:910526871429587035> = **Burning:** Creates a Burning Aura that damages enemies and players. Burning Auras deal <:pyro:910526871429587035> **Pyro DoT** within a small AoE.",
+    "thumbnail": {
+      "url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MessageIcon_Overdose"
+    },
+    "footer": {
+      "text": "Via: a.bakedpotato"
+    }
+  },
+  {
+    "title": "Main DPS",
+    "description": "The character(s) whose primary role is to **provide the main source of damage on the team, but this does not mean they have to be on the field**. **The party is usually built around supporting this character**.",
+    "thumbnail": {
+      "url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MessageIcon_Important"
+    },
+    "footer": {
+      "text": "Via: Sun"
+    }
+  },
+  {
+    "title": "Sub DPS",
+    "description": "The character(s) whose primary role is to **provide off-field damage that doesn't require field time and be the secondary source of damage for the team**.",
+    "thumbnail": {
+      "url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MessageIcon_Important"
+    },
+    "footer": {
+      "text": "Via: Sun"
+    }
+  },
+  {
+    "title": "On- / Off-Field DPS",
+    "description": "Both can be interpreted as how their names are, the character(s) whose primary role is to be **played either on or off the field with their kit's abilities**.",
+    "thumbnail": {
+      "url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MessageIcon_Important"
+    },
+    "footer": {
+      "text": "Via: Sun"
+    }
+  },
+  {
+    "title": "Driver / Enabler",
+    "description": "The character(s) whose primary role is to be **provide elemental statuses for your other characters to react to**, they are capable of **applying elements fast which last for the majority of a rotation**.\nAn example of this would be Tartaglia, who can fit into both DPS roles and be a Driver/Enabler for his team.",
+    "thumbnail": {
+      "url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MessageIcon_Important"
+    },
+    "footer": {
+      "text": "Via: Sun"
+    }
+  },
+  {
+    "title": "Utility Support:",
+    "description": "The character(s) whose primary role is to **provide some type of supporting capabilities for your other characters**. They are **not meant to deal significant damage while on the team**.",
+    "thumbnail": {
+      "url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MessageIcon_Important"
+    },
+    "footer": {
+      "text": "Via: Sun"
+    }
+  },
+  {
+    "title": "Buffing Support:",
+    "description": "The character(s) whose primary role is to **make other characters deal more damage, either by buffing the character's stats or by reducing the enemy's stats**. \n**Buffs are very valuable for characters whose talents can snapshot**. These abilities will lock in whatever stats it has at the time it was used, and the buffs will last the entire lifespan of the said ability even if the buffs expire.\nAn example of this would be Xiangling's Pyronado, upon activating it while in Bennett's Fantastic Voyage circle, the ATK buff will still be boosting Pyronado's damage even if Xiangling isn't present on-field, moves out of Bennett's circle, or Bennett's buff expires.",
+    "thumbnail": {
+      "url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MessageIcon_Important"
+    },
+    "footer": {
+      "text": "Via: Sun"
+    }
+  },
+  {
+    "title": "ICD (Internal Cooldown)",
+    "description": "When applying an Element with an attack, there will be an internal cooldown (ICD) on sequential applications of the same type of attack. Attack Strings are counted in series of 3, of which the first hit in the Attack String will normally apply an Element. Additionally, there will be 2.5s timer of when during that amount of time, regardless of where you are in that attack sequence, you will not be able to apply an Elemental Application.",
+    "thumbnail": {
+      "url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MessageIcon_Important"
+    },
+    "footer": {
+      "text": "Via: Sun"
+    }
+  },
+  {
+    "title": "Amplifying Reactions (Melt and Vaporise)",
+    "description": "Reactions that **scale on EM, Reaction Bonuses, and the DMG of the Attack triggering the reaction. Amplifying Reactions can make use of Crit / ATK stats of a character as opposed to just their EM and Level.** There are also reaction bonuses to further amplify this, which currently only exist in the form of a certain constellation or artifact set **(which are 4p Crimson Witch of Flames set or Mona's C1)**.\n\n> **Melt** is an elemental reaction triggered by applying Pyro onto a target already afflicted with Cryo or vice versa. **Melt** allows for a multiplier of DMG amplification onto the attack triggering the reaction, heavily boosting the attack. Applying **Cryo onto Pyro is referred to as a Reverse Melt Reaction**, it has the smaller base **multiplier of x1.5** as opposed to **Pyro onto Cryo** which has an **x2 multiplier**.\n\n> **Vaporise** is an elemental reaction triggered by applying Hydro onto a target already afflicted with Pyro or vice versa. **Vaporise** allows for a multiplier of damage amplification onto the attack triggering the reaction, heavily boosting the attack. Applying **Pyro onto Hydro is referred to as a Reverse Vape Reaction**, it has the smaller base **multiplier of 1.5x** as opposed to **Hydro onto Pyro** which has an **x2 multplier.**",
+    "thumbnail": {
+      "url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MessageIcon_Important"
+    },
+    "footer": {
+      "text": "Via: Sun"
+    }
+  },
+  {
+    "title": "Transformative Reactions (Overload, Superconduct, Electro-Charged, Shatter, Swirl, and Crystalize)",
+    "description": "Reactions that **cannot crit** and **scale only on EM and Character Level**. They are affected by **Elemental Resistance** to the type of damage that the Reaction is dealing.\n\n*Shatter, Superconduct, and Swirl have internal cooldowns (ICDs) and can only deal DMG twice within the span of 0.5 seconds.  \nOverload can only deal damage once every 0.5 seconds.*",
+    "thumbnail": {
+      "url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MessageIcon_Important"
+    },
+    "footer": {
+      "text": "Via: Sun"
+    }
+  },
+  {
+    "title": "Crowd Control (CC):",
+    "description": "A common term that refers to the ability(s) to disables/limits one or more enemies' movement, capable of influencing the outcome of an encounter.",
+    "thumbnail": {
+      "url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MessageIcon_Important"
+    },
+    "footer": {
+      "text": "Via: Sun"
+    }
+  },
+  {
+    "title": "Snapshotting:",
+    "description": "**Snapshotting** is considered to be a state in which the character's attributes are fixed on a long-lasting ability, effect, or summon upon activation. Additional buffs applied after the initial cast will not affect the snapshotted ability.\n\nE.g: Xiangling's Pyronado will remain unchanged if it was casted inside of Bennett's Fantastic Voyage even if Xiangling were to walk outside of the buff's radius or it expires prematurely.",
+    "thumbnail": {
+      "url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MessageIcon_Important"
+    },
+    "footer": {
+      "text": "Via: Sun"
+    }
+  },
+  {
+    "title": "Battery:",
+    "description": "The character(s) who is capable of **providing high energy particle generation, either it being their main purpose or incidentally**.",
+    "thumbnail": {
+      "url": "https://res.cloudinary.com/genshin/image/upload/e_trim:80/v1/sprites/UI_MessageIcon_Important"
+    },
+    "footer": {
+      "text": "Via: Sun"
+    }
+  }
+]

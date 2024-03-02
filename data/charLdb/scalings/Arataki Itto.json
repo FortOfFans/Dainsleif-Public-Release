@@ -1,0 +1,51 @@
+{
+    "charged": {
+        "akSlash": 1.675,
+        "akFinal": 3.508
+    },
+
+    "normal": [
+        1.456,
+        1.403,
+        1.684,
+        2.154
+    ],
+
+    "skill": {
+        "dmg": 5.22
+    },
+
+    "stats": {
+        "Monogeo: C1R1 Redhorn Stonethresher": {
+            "BASE_ATTACK": 769,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+
+            "BASE_DEFENSE": 959,
+            "DEFENSE": 0,
+            "DEFENSE_PERCENT": 0.28,
+
+            "CRITICAL": 0.242,
+            "CRITICAL_HURT": 1.382,
+            "ROCK_ADD_HURT": 0
+        },
+
+        "Monogeo: C1R5 Serpent Spine": {
+            "BASE_ATTACK": 769,
+            "ATTACK": 0,
+            "ATTACK_PERCENT": 0,
+
+            "BASE_DEFENSE": 959,
+            "DEFENSE": 0,
+            "DEFENSE_PERCENT": 0,
+
+            "CRITICAL": 0.518,
+            "CRITICAL_HURT": 0.5,
+            "ROCK_ADD_HURT": 0,
+            "ADD_HURT": 0.5
+        },
+
+        "dmgType": "ROCK",
+        "avatarId": "10000057"
+    }
+}
