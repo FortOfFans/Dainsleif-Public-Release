@@ -1,0 +1,1202 @@
+[
+	{
+		"level": 20,
+		"mainStat": "HP",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15031",
+		"slot": 0,
+		"substats": {
+			"CRITICAL": 7,
+			"CHARGE_EFFICIENCY": 5.8,
+			"DEFENSE_PERCENT": 19,
+			"CRITICAL_HURT": 14
+		},
+		"wielder": 10000087
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15031",
+		"slot": 1,
+		"substats": {
+			"CRITICAL_HURT": 25.7,
+			"DEFENSE_PERCENT": 5.8,
+			"HP": 598,
+			"DEFENSE": 21
+		},
+		"wielder": 10000087
+	},
+	{
+		"level": 20,
+		"mainStat": "HP_PERCENT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15006",
+		"slot": 2,
+		"substats": {
+			"CRITICAL": 3.1,
+			"CHARGE_EFFICIENCY": 11.7,
+			"CRITICAL_HURT": 24.1,
+			"DEFENSE": 39
+		},
+		"wielder": 10000087
+	},
+	{
+		"level": 20,
+		"mainStat": "WATER_ADD_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15031",
+		"slot": 3,
+		"substats": {
+			"CRITICAL_HURT": 6.2,
+			"DEFENSE": 23,
+			"ATTACK": 51,
+			"DEFENSE_PERCENT": 17.5
+		},
+		"wielder": 10000087
+	},
+	{
+		"level": 20,
+		"mainStat": "CRITICAL_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15031",
+		"slot": 4,
+		"substats": {
+			"HP_PERCENT": 14,
+			"ELEMENT_MASTERY": 44,
+			"CRITICAL": 7.8,
+			"HP": 299
+		},
+		"wielder": 10000087
+	},
+	{
+		"level": 20,
+		"mainStat": "HP",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15020",
+		"slot": 0,
+		"substats": {
+			"CRITICAL": 13.2,
+			"HP_PERCENT": 5.8,
+			"CRITICAL_HURT": 21,
+			"ATTACK": 19
+		},
+		"wielder": 10000052
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15020",
+		"slot": 1,
+		"substats": {
+			"ELEMENT_MASTERY": 23,
+			"CRITICAL": 10.5,
+			"ATTACK_PERCENT": 9.9,
+			"CRITICAL_HURT": 21
+		},
+		"wielder": 10000052
+	},
+	{
+		"level": 20,
+		"mainStat": "CHARGE_EFFICIENCY",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15020",
+		"slot": 2,
+		"substats": {
+			"DEFENSE": 19,
+			"CRITICAL_HURT": 6.2,
+			"ATTACK": 37,
+			"CRITICAL": 14
+		},
+		"wielder": 10000052
+	},
+	{
+		"level": 20,
+		"mainStat": "ELEC_ADD_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15020",
+		"slot": 3,
+		"substats": {
+			"DEFENSE_PERCENT": 13.9,
+			"CRITICAL": 10.9,
+			"HP_PERCENT": 10.5,
+			"CHARGE_EFFICIENCY": 9.7
+		},
+		"wielder": 10000052
+	},
+	{
+		"level": 20,
+		"mainStat": "CRITICAL_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15019",
+		"slot": 4,
+		"substats": {
+			"ATTACK_PERCENT": 14,
+			"CHARGE_EFFICIENCY": 6.5,
+			"DEFENSE": 21,
+			"CRITICAL": 12.8
+		},
+		"wielder": 10000052
+	},
+	{
+		"level": 20,
+		"mainStat": "HP",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15003",
+		"slot": 0,
+		"substats": {
+			"CRITICAL": 7,
+			"ATTACK": 16,
+			"HP_PERCENT": 4.1,
+			"CRITICAL_HURT": 32.6
+		},
+		"wielder": 10000037
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15003",
+		"slot": 1,
+		"substats": {
+			"HP_PERCENT": 4.1,
+			"CRITICAL_HURT": 41.2,
+			"DEFENSE": 21,
+			"CHARGE_EFFICIENCY": 5.2
+		},
+		"wielder": 10000037
+	},
+	{
+		"level": 20,
+		"mainStat": "ELEMENT_MASTERY",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15003",
+		"slot": 2,
+		"substats": {
+			"ATTACK_PERCENT": 5.3,
+			"DEFENSE_PERCENT": 10.9,
+			"CRITICAL": 10.9,
+			"CRITICAL_HURT": 19.4
+		},
+		"wielder": 10000037
+	},
+	{
+		"level": 20,
+		"mainStat": "ICE_ADD_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15003",
+		"slot": 3,
+		"substats": {
+			"CRITICAL_HURT": 6.2,
+			"ATTACK_PERCENT": 8.7,
+			"CRITICAL": 15.2,
+			"DEFENSE_PERCENT": 13.9
+		},
+		"wielder": 10000037
+	},
+	{
+		"level": 20,
+		"mainStat": "CRITICAL",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15003",
+		"slot": 4,
+		"substats": {
+			"ATTACK": 35,
+			"CHARGE_EFFICIENCY": 11.7,
+			"ATTACK_PERCENT": 8.2,
+			"CRITICAL_HURT": 19.4
+		},
+		"wielder": 10000037
+	},
+	{
+		"level": 20,
+		"mainStat": "HP",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "14001",
+		"slot": 0,
+		"substats": {
+			"CHARGE_EFFICIENCY": 13,
+			"ATTACK_PERCENT": 9.9,
+			"CRITICAL_HURT": 19.4,
+			"DEFENSE": 19
+		},
+		"wielder": 10000002
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "14001",
+		"slot": 1,
+		"substats": {
+			"ELEMENT_MASTERY": 33,
+			"HP_PERCENT": 4.7,
+			"CRITICAL_HURT": 21.8,
+			"CRITICAL": 11.3
+		},
+		"wielder": 10000002
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK_PERCENT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "14001",
+		"slot": 2,
+		"substats": {
+			"HP": 239,
+			"CRITICAL": 10.9,
+			"CRITICAL_HURT": 18.7,
+			"ATTACK": 16
+		},
+		"wielder": 10000002
+	},
+	{
+		"level": 20,
+		"mainStat": "ICE_ADD_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "14003",
+		"slot": 3,
+		"substats": {
+			"CRITICAL": 6.2,
+			"HP_PERCENT": 10.5,
+			"CRITICAL_HURT": 19.4,
+			"DEFENSE": 21
+		},
+		"wielder": 10000002
+	},
+	{
+		"level": 20,
+		"mainStat": "CRITICAL_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "14001",
+		"slot": 4,
+		"substats": {
+			"CRITICAL": 3.5,
+			"HP_PERCENT": 4.7,
+			"CHARGE_EFFICIENCY": 27.2,
+			"ATTACK_PERCENT": 5.8
+		},
+		"wielder": 10000002
+	},
+	{
+		"level": 20,
+		"mainStat": "HP",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15016",
+		"slot": 0,
+		"substats": {
+			"CRITICAL_HURT": 20.2,
+			"ELEMENT_MASTERY": 19,
+			"CRITICAL": 7.8,
+			"HP_PERCENT": 9.9
+		},
+		"wielder": 10000033
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15016",
+		"slot": 1,
+		"substats": {
+			"ATTACK_PERCENT": 5.3,
+			"DEFENSE": 58,
+			"CRITICAL_HURT": 21,
+			"CRITICAL": 2.7
+		},
+		"wielder": 10000033
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK_PERCENT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15006",
+		"slot": 2,
+		"substats": {
+			"ATTACK": 14,
+			"HP": 299,
+			"CRITICAL_HURT": 7.8,
+			"CRITICAL": 15.9
+		},
+		"wielder": 10000033
+	},
+	{
+		"level": 20,
+		"mainStat": "WATER_ADD_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15016",
+		"slot": 3,
+		"substats": {
+			"CRITICAL_HURT": 21.8,
+			"CRITICAL": 2.7,
+			"DEFENSE": 19,
+			"HP_PERCENT": 14
+		},
+		"wielder": 10000033
+	},
+	{
+		"level": 20,
+		"mainStat": "CRITICAL_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15016",
+		"slot": 4,
+		"substats": {
+			"DEFENSE_PERCENT": 7.3,
+			"CRITICAL": 10.1,
+			"DEFENSE": 42,
+			"CHARGE_EFFICIENCY": 18.1
+		},
+		"wielder": 10000033
+	},
+	{
+		"level": 20,
+		"mainStat": "HP",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15023",
+		"slot": 0,
+		"substats": {
+			"ELEMENT_MASTERY": 61,
+			"HP_PERCENT": 10.5,
+			"CRITICAL_HURT": 7.8,
+			"CRITICAL": 10.1
+		},
+		"wielder": 10000026
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15023",
+		"slot": 1,
+		"substats": {
+			"CRITICAL_HURT": 34.2,
+			"HP": 209,
+			"ELEMENT_MASTERY": 40,
+			"CRITICAL": 3.9
+		},
+		"wielder": 10000026
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK_PERCENT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15014",
+		"slot": 2,
+		"substats": {
+			"CRITICAL": 6.2,
+			"ATTACK": 19,
+			"CRITICAL_HURT": 25.7,
+			"HP": 299
+		},
+		"wielder": 10000026
+	},
+	{
+		"level": 20,
+		"mainStat": "WIND_ADD_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15023",
+		"slot": 3,
+		"substats": {
+			"DEFENSE": 21,
+			"ELEMENT_MASTERY": 19,
+			"CRITICAL_HURT": 31.1,
+			"CHARGE_EFFICIENCY": 5.8
+		},
+		"wielder": 10000026
+	},
+	{
+		"level": 20,
+		"mainStat": "CRITICAL",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15023",
+		"slot": 4,
+		"substats": {
+			"DEFENSE": 74,
+			"ATTACK_PERCENT": 4.7,
+			"ELEMENT_MASTERY": 40,
+			"CRITICAL_HURT": 7
+		},
+		"wielder": 10000026
+	},
+	{
+		"level": 20,
+		"mainStat": "HP",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15025",
+		"slot": 0,
+		"substats": {
+			"CHARGE_EFFICIENCY": 16.8,
+			"ELEMENT_MASTERY": 82,
+			"ATTACK": 18,
+			"CRITICAL": 3.1
+		},
+		"wielder": 10000073
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15025",
+		"slot": 1,
+		"substats": {
+			"ATTACK_PERCENT": 4.7,
+			"CHARGE_EFFICIENCY": 11,
+			"ELEMENT_MASTERY": 82,
+			"DEFENSE_PERCENT": 7.3
+		},
+		"wielder": 10000073
+	},
+	{
+		"level": 20,
+		"mainStat": "ELEMENT_MASTERY",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15025",
+		"slot": 2,
+		"substats": {
+			"ATTACK_PERCENT": 9.9,
+			"CRITICAL_HURT": 19.4,
+			"CHARGE_EFFICIENCY": 4.5,
+			"HP": 598
+		},
+		"wielder": 10000073
+	},
+	{
+		"level": 20,
+		"mainStat": "ELEMENT_MASTERY",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15025",
+		"slot": 3,
+		"substats": {
+			"ATTACK_PERCENT": 4.7,
+			"CHARGE_EFFICIENCY": 23.3,
+			"CRITICAL_HURT": 10.9,
+			"CRITICAL": 2.7
+		},
+		"wielder": 10000073
+	},
+	{
+		"level": 20,
+		"mainStat": "ELEMENT_MASTERY",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15002",
+		"slot": 4,
+		"substats": {
+			"HP_PERCENT": 15.8,
+			"ATTACK": 19,
+			"ATTACK_PERCENT": 15.2,
+			"DEFENSE": 16
+		},
+		"wielder": 10000073
+	},
+	{
+		"level": 20,
+		"mainStat": "HP",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15002",
+		"slot": 0,
+		"substats": {
+			"ATTACK": 14,
+			"CHARGE_EFFICIENCY": 10.4,
+			"ELEMENT_MASTERY": 54,
+			"CRITICAL_HURT": 13.2
+		},
+		"wielder": 10000047
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15003",
+		"slot": 1,
+		"substats": {
+			"CRITICAL_HURT": 7,
+			"ELEMENT_MASTERY": 107,
+			"CRITICAL": 2.7,
+			"ATTACK_PERCENT": 11.1
+		},
+		"wielder": 10000047
+	},
+	{
+		"level": 20,
+		"mainStat": "ELEMENT_MASTERY",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15002",
+		"slot": 2,
+		"substats": {
+			"CRITICAL_HURT": 5.4,
+			"DEFENSE_PERCENT": 10.2,
+			"HP": 508,
+			"CHARGE_EFFICIENCY": 16.8
+		},
+		"wielder": 10000047
+	},
+	{
+		"level": 20,
+		"mainStat": "ELEMENT_MASTERY",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15002",
+		"slot": 3,
+		"substats": {
+			"DEFENSE_PERCENT": 6.6,
+			"ATTACK": 31,
+			"CHARGE_EFFICIENCY": 16.8,
+			"DEFENSE": 35
+		},
+		"wielder": 10000047
+	},
+	{
+		"level": 20,
+		"mainStat": "ELEMENT_MASTERY",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15002",
+		"slot": 4,
+		"substats": {
+			"HP": 269,
+			"CRITICAL_HURT": 20.2,
+			"DEFENSE": 21,
+			"CHARGE_EFFICIENCY": 15.5
+		},
+		"wielder": 10000047
+	},
+	{
+		"level": 20,
+		"mainStat": "HP",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15031",
+		"slot": 0,
+		"substats": {
+			"CRITICAL": 7,
+			"CHARGE_EFFICIENCY": 5.8,
+			"DEFENSE_PERCENT": 19,
+			"CRITICAL_HURT": 14
+		},
+		"wielder": 10000087
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15031",
+		"slot": 1,
+		"substats": {
+			"CRITICAL_HURT": 25.7,
+			"DEFENSE_PERCENT": 5.8,
+			"HP": 598,
+			"DEFENSE": 21
+		},
+		"wielder": 10000087
+	},
+	{
+		"level": 20,
+		"mainStat": "HP_PERCENT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15006",
+		"slot": 2,
+		"substats": {
+			"CRITICAL": 3.1,
+			"CHARGE_EFFICIENCY": 11.7,
+			"CRITICAL_HURT": 24.1,
+			"DEFENSE": 39
+		},
+		"wielder": 10000087
+	},
+	{
+		"level": 20,
+		"mainStat": "WATER_ADD_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15031",
+		"slot": 3,
+		"substats": {
+			"CRITICAL_HURT": 6.2,
+			"DEFENSE": 23,
+			"ATTACK": 51,
+			"DEFENSE_PERCENT": 17.5
+		},
+		"wielder": 10000087
+	},
+	{
+		"level": 20,
+		"mainStat": "CRITICAL_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15031",
+		"slot": 4,
+		"substats": {
+			"HP_PERCENT": 14,
+			"ELEMENT_MASTERY": 44,
+			"CRITICAL": 7.8,
+			"HP": 299
+		},
+		"wielder": 10000087
+	},
+	{
+		"level": 20,
+		"mainStat": "HP",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15020",
+		"slot": 0,
+		"substats": {
+			"CRITICAL": 13.2,
+			"HP_PERCENT": 5.8,
+			"CRITICAL_HURT": 21,
+			"ATTACK": 19
+		},
+		"wielder": 10000052
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15020",
+		"slot": 1,
+		"substats": {
+			"ELEMENT_MASTERY": 23,
+			"CRITICAL": 10.5,
+			"ATTACK_PERCENT": 9.9,
+			"CRITICAL_HURT": 21
+		},
+		"wielder": 10000052
+	},
+	{
+		"level": 20,
+		"mainStat": "CHARGE_EFFICIENCY",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15020",
+		"slot": 2,
+		"substats": {
+			"DEFENSE": 19,
+			"CRITICAL_HURT": 6.2,
+			"ATTACK": 37,
+			"CRITICAL": 14
+		},
+		"wielder": 10000052
+	},
+	{
+		"level": 20,
+		"mainStat": "ELEC_ADD_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15020",
+		"slot": 3,
+		"substats": {
+			"DEFENSE_PERCENT": 13.9,
+			"CRITICAL": 10.9,
+			"HP_PERCENT": 10.5,
+			"CHARGE_EFFICIENCY": 9.7
+		},
+		"wielder": 10000052
+	},
+	{
+		"level": 20,
+		"mainStat": "CRITICAL_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15019",
+		"slot": 4,
+		"substats": {
+			"ATTACK_PERCENT": 14,
+			"CHARGE_EFFICIENCY": 6.5,
+			"DEFENSE": 21,
+			"CRITICAL": 12.8
+		},
+		"wielder": 10000052
+	},
+	{
+		"level": 20,
+		"mainStat": "HP",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15003",
+		"slot": 0,
+		"substats": {
+			"CRITICAL": 7,
+			"ATTACK": 16,
+			"HP_PERCENT": 4.1,
+			"CRITICAL_HURT": 32.6
+		},
+		"wielder": 10000037
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15003",
+		"slot": 1,
+		"substats": {
+			"HP_PERCENT": 4.1,
+			"CRITICAL_HURT": 41.2,
+			"DEFENSE": 21,
+			"CHARGE_EFFICIENCY": 5.2
+		},
+		"wielder": 10000037
+	},
+	{
+		"level": 20,
+		"mainStat": "ELEMENT_MASTERY",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15003",
+		"slot": 2,
+		"substats": {
+			"ATTACK_PERCENT": 5.3,
+			"DEFENSE_PERCENT": 10.9,
+			"CRITICAL": 10.9,
+			"CRITICAL_HURT": 19.4
+		},
+		"wielder": 10000037
+	},
+	{
+		"level": 20,
+		"mainStat": "ICE_ADD_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15003",
+		"slot": 3,
+		"substats": {
+			"CRITICAL_HURT": 6.2,
+			"ATTACK_PERCENT": 8.7,
+			"CRITICAL": 15.2,
+			"DEFENSE_PERCENT": 13.9
+		},
+		"wielder": 10000037
+	},
+	{
+		"level": 20,
+		"mainStat": "CRITICAL",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15003",
+		"slot": 4,
+		"substats": {
+			"ATTACK": 35,
+			"CHARGE_EFFICIENCY": 11.7,
+			"ATTACK_PERCENT": 8.2,
+			"CRITICAL_HURT": 19.4
+		},
+		"wielder": 10000037
+	},
+	{
+		"level": 20,
+		"mainStat": "HP",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "14001",
+		"slot": 0,
+		"substats": {
+			"CHARGE_EFFICIENCY": 13,
+			"ATTACK_PERCENT": 9.9,
+			"CRITICAL_HURT": 19.4,
+			"DEFENSE": 19
+		},
+		"wielder": 10000002
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "14001",
+		"slot": 1,
+		"substats": {
+			"ELEMENT_MASTERY": 33,
+			"HP_PERCENT": 4.7,
+			"CRITICAL_HURT": 21.8,
+			"CRITICAL": 11.3
+		},
+		"wielder": 10000002
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK_PERCENT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "14001",
+		"slot": 2,
+		"substats": {
+			"HP": 239,
+			"CRITICAL": 10.9,
+			"CRITICAL_HURT": 18.7,
+			"ATTACK": 16
+		},
+		"wielder": 10000002
+	},
+	{
+		"level": 20,
+		"mainStat": "ICE_ADD_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "14003",
+		"slot": 3,
+		"substats": {
+			"CRITICAL": 6.2,
+			"HP_PERCENT": 10.5,
+			"CRITICAL_HURT": 19.4,
+			"DEFENSE": 21
+		},
+		"wielder": 10000002
+	},
+	{
+		"level": 20,
+		"mainStat": "CRITICAL_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "14001",
+		"slot": 4,
+		"substats": {
+			"CRITICAL": 3.5,
+			"HP_PERCENT": 4.7,
+			"CHARGE_EFFICIENCY": 27.2,
+			"ATTACK_PERCENT": 5.8
+		},
+		"wielder": 10000002
+	},
+	{
+		"level": 20,
+		"mainStat": "HP",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15016",
+		"slot": 0,
+		"substats": {
+			"CRITICAL_HURT": 20.2,
+			"ELEMENT_MASTERY": 19,
+			"CRITICAL": 7.8,
+			"HP_PERCENT": 9.9
+		},
+		"wielder": 10000033
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15016",
+		"slot": 1,
+		"substats": {
+			"ATTACK_PERCENT": 5.3,
+			"DEFENSE": 58,
+			"CRITICAL_HURT": 21,
+			"CRITICAL": 2.7
+		},
+		"wielder": 10000033
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK_PERCENT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15006",
+		"slot": 2,
+		"substats": {
+			"ATTACK": 14,
+			"HP": 299,
+			"CRITICAL_HURT": 7.8,
+			"CRITICAL": 15.9
+		},
+		"wielder": 10000033
+	},
+	{
+		"level": 20,
+		"mainStat": "WATER_ADD_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15016",
+		"slot": 3,
+		"substats": {
+			"CRITICAL_HURT": 21.8,
+			"CRITICAL": 2.7,
+			"DEFENSE": 19,
+			"HP_PERCENT": 14
+		},
+		"wielder": 10000033
+	},
+	{
+		"level": 20,
+		"mainStat": "CRITICAL_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15016",
+		"slot": 4,
+		"substats": {
+			"DEFENSE_PERCENT": 7.3,
+			"CRITICAL": 10.1,
+			"DEFENSE": 42,
+			"CHARGE_EFFICIENCY": 18.1
+		},
+		"wielder": 10000033
+	},
+	{
+		"level": 20,
+		"mainStat": "HP",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15023",
+		"slot": 0,
+		"substats": {
+			"ELEMENT_MASTERY": 61,
+			"HP_PERCENT": 10.5,
+			"CRITICAL_HURT": 7.8,
+			"CRITICAL": 10.1
+		},
+		"wielder": 10000026
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15023",
+		"slot": 1,
+		"substats": {
+			"CRITICAL_HURT": 34.2,
+			"HP": 209,
+			"ELEMENT_MASTERY": 40,
+			"CRITICAL": 3.9
+		},
+		"wielder": 10000026
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK_PERCENT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15014",
+		"slot": 2,
+		"substats": {
+			"CRITICAL": 6.2,
+			"ATTACK": 19,
+			"CRITICAL_HURT": 25.7,
+			"HP": 299
+		},
+		"wielder": 10000026
+	},
+	{
+		"level": 20,
+		"mainStat": "WIND_ADD_HURT",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15023",
+		"slot": 3,
+		"substats": {
+			"DEFENSE": 21,
+			"ELEMENT_MASTERY": 19,
+			"CRITICAL_HURT": 31.1,
+			"CHARGE_EFFICIENCY": 5.8
+		},
+		"wielder": 10000026
+	},
+	{
+		"level": 20,
+		"mainStat": "CRITICAL",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15023",
+		"slot": 4,
+		"substats": {
+			"DEFENSE": 74,
+			"ATTACK_PERCENT": 4.7,
+			"ELEMENT_MASTERY": 40,
+			"CRITICAL_HURT": 7
+		},
+		"wielder": 10000026
+	},
+	{
+		"level": 20,
+		"mainStat": "HP",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15025",
+		"slot": 0,
+		"substats": {
+			"CHARGE_EFFICIENCY": 16.8,
+			"ELEMENT_MASTERY": 82,
+			"ATTACK": 18,
+			"CRITICAL": 3.1
+		},
+		"wielder": 10000073
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15025",
+		"slot": 1,
+		"substats": {
+			"ATTACK_PERCENT": 4.7,
+			"CHARGE_EFFICIENCY": 11,
+			"ELEMENT_MASTERY": 82,
+			"DEFENSE_PERCENT": 7.3
+		},
+		"wielder": 10000073
+	},
+	{
+		"level": 20,
+		"mainStat": "ELEMENT_MASTERY",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15025",
+		"slot": 2,
+		"substats": {
+			"ATTACK_PERCENT": 9.9,
+			"CRITICAL_HURT": 19.4,
+			"CHARGE_EFFICIENCY": 4.5,
+			"HP": 598
+		},
+		"wielder": 10000073
+	},
+	{
+		"level": 20,
+		"mainStat": "ELEMENT_MASTERY",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15025",
+		"slot": 3,
+		"substats": {
+			"ATTACK_PERCENT": 4.7,
+			"CHARGE_EFFICIENCY": 23.3,
+			"CRITICAL_HURT": 10.9,
+			"CRITICAL": 2.7
+		},
+		"wielder": 10000073
+	},
+	{
+		"level": 20,
+		"mainStat": "ELEMENT_MASTERY",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15002",
+		"slot": 4,
+		"substats": {
+			"HP_PERCENT": 15.8,
+			"ATTACK": 19,
+			"ATTACK_PERCENT": 15.2,
+			"DEFENSE": 16
+		},
+		"wielder": 10000073
+	},
+	{
+		"level": 20,
+		"mainStat": "HP",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15002",
+		"slot": 0,
+		"substats": {
+			"ATTACK": 14,
+			"CHARGE_EFFICIENCY": 10.4,
+			"ELEMENT_MASTERY": 54,
+			"CRITICAL_HURT": 13.2
+		},
+		"wielder": 10000047
+	},
+	{
+		"level": 20,
+		"mainStat": "ATTACK",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15003",
+		"slot": 1,
+		"substats": {
+			"CRITICAL_HURT": 7,
+			"ELEMENT_MASTERY": 107,
+			"CRITICAL": 2.7,
+			"ATTACK_PERCENT": 11.1
+		},
+		"wielder": 10000047
+	},
+	{
+		"level": 20,
+		"mainStat": "ELEMENT_MASTERY",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15002",
+		"slot": 2,
+		"substats": {
+			"CRITICAL_HURT": 5.4,
+			"DEFENSE_PERCENT": 10.2,
+			"HP": 508,
+			"CHARGE_EFFICIENCY": 16.8
+		},
+		"wielder": 10000047
+	},
+	{
+		"level": 20,
+		"mainStat": "ELEMENT_MASTERY",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15002",
+		"slot": 3,
+		"substats": {
+			"DEFENSE_PERCENT": 6.6,
+			"ATTACK": 31,
+			"CHARGE_EFFICIENCY": 16.8,
+			"DEFENSE": 35
+		},
+		"wielder": 10000047
+	},
+	{
+		"level": 20,
+		"mainStat": "ELEMENT_MASTERY",
+		"owner": "702534534",
+		"rarity": 5,
+		"setId": "15002",
+		"slot": 4,
+		"substats": {
+			"HP": 269,
+			"CRITICAL_HURT": 20.2,
+			"DEFENSE": 21,
+			"CHARGE_EFFICIENCY": 15.5
+		},
+		"wielder": 10000047
+	}
+]
