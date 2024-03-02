@@ -281,7 +281,7 @@ async function execute(interaction, idToSearch) {
                     })
                 await loadImage((fs.readFileSync('./data/ascension/Logo_new.png')))
                     .then((img) => {
-                        ctx.drawImage(img, 0, 0, 1620, 1080, 0, 0, img.width, img.height)
+                        ctx.drawImage(img, 0, 0, 1620, 1080, 0, 900, img.width, img.height)
                     })
                 await loadImage((fs.readFileSync('./data/ascension/items.png')))
                     .then((img) => {
